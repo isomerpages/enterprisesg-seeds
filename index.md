@@ -4,21 +4,19 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
       title: Test
       subtitle: Hero subtitle
       background: /images/hero-banner.png
-      button: Contact Us
-      url: /contact-us/
-      key_highlights:
-        - title: For startups
-          description: Meet our co-investors
-          url: https://google.com
-        - title: For Investors
-          description: Co-invest with us
-          url: https://gmail.com
+      dropdown:
+        title: Are you a startup/investor?
+        options:
+          - title: I am a startup
+            url: ""
+          - title: I am an investor
+            url: ""
   - infobar:
       title: Infobar title
       subtitle: Subtitle
