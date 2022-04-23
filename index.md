@@ -7,8 +7,9 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Test
-      subtitle: Hero subtitle
+      title: SEEDS Capital
+      subtitle: We catalyse smart monies into Singapore-based, early-stage technology
+        startups.  Find out more about us.
       background: /images/hero-banner.png
       dropdown:
         title: Are you a startup/investor?
