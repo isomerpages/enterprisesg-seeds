@@ -13,15 +13,12 @@ sections:
       button: Contact Us
       url: /contact-us/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
+        - title: For startups
+          description: Meet our co-investors
           url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
+        - title: For Investors
+          description: Co-invest with us
           url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
   - infobar:
       title: Infobar title
       subtitle: Subtitle
