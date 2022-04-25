@@ -52,3 +52,4 @@ plugins:
   - jekyll-remote-theme
 staging: https://enterprisesg-seeds-staging.netlify.app
 prod: https://enterprisesg-seeds-prod.netlify.app
+google_analytics: "312673821"
