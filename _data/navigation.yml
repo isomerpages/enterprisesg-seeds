@@ -2,9 +2,11 @@ logo: /images/seedscapital-icon.jpeg
 links:
   - title: About Us
     collection: for-investors
-  - title: For Investors
-    collection: for-investors
   - title: For Startups
     collection: for-startups
+  - title: For Investors
+    collection: for-investors
+  - title: Our Portfolio Companies
+    url: /permalink
   - title: Contact Us
     url: /contact-us/
