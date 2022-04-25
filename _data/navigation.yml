@@ -1,8 +1,10 @@
 logo: /images/seedscapital-icon.jpeg
 links:
+  - title: About Us
+    collection: for-investors
+  - title: For Investors
+    collection: for-investors
+  - title: For Startups
+    collection: for-startups
   - title: Contact Us
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Resources
-    resource_room: true
