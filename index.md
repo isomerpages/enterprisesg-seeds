@@ -18,18 +18,19 @@ sections:
             url: ""
           - title: I am an investor
             url: ""
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+  - infopic:
+      title: ">100 startups"
+      subtitle: Our Impact
+      description: that we have co-invested in.
+      alt: Image alt text
   - infopic:
       title: Infopic Title
       subtitle: Infopic Subtitle
       description: Infopic description
       button: Button Text
       alt: Image alt text
+  - infobar:
+      url: /faq/
   - resources:
       title: Media
       subtitle: Learn more
