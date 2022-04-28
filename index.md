@@ -23,6 +23,7 @@ sections:
       subtitle: Our Impact
       description: that we have co-invested in.
       alt: Image alt text
+      image: /images/successstories.png
   - infopic:
       title: Infopic Title
       subtitle: Infopic Subtitle
