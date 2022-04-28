@@ -1,12 +1,12 @@
 logo: /images/seedscapital-icon.jpeg
 links:
-  - title: Co Invest With Us
-    collection: co-invest-with-us
-  - title: Our Co Investors
+  - title: About Us
+    collection: about-us
+  - title: Meet Our Co-Investors
     collection: our-co-investors
-  - title: Co Invest With Us
+  - title: Co-Invest With Us
     collection: co-invest-with-us
-  - title: Our Portfolio Companies
-    url: /permalink
+  - title: Meet Our Portfolio Companies
+    collection: portfolio-companies
   - title: Contact Us
     url: /contact-us/
