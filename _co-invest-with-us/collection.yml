@@ -2,4 +2,5 @@ collections:
   co-invest-with-us:
     output: true
     order:
+      - Reasons to invest with SEEDS Capital.md
       - Co Investment Critieria.md
