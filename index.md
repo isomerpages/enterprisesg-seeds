@@ -35,8 +35,7 @@ sections:
         - 2021</p></div><div><h1>><b>350 portfolio companies</b></h1><p>over
         2019 - 2021</p></div><div><h1><b>>40 institutional
         investors</b></h1><p>over 2019 - 2021</p></div></div>
-  - hero:
-      title: <div class="row"><div><h1><b>>S$130M deployed</b></h1><p>over 2019 -
+  - infobar: <div class="row"><div><h1><b>>S$130M deployed</b></h1><p>over 2019 -
         2021</p></div><div><h1>><b>350 portfolio companies</b></h1><p>over 2019
         - 2021</p></div><div><h1><b>>40 institutional investors</b></h1><p>over
         2019 - 2021</p></div></div>
