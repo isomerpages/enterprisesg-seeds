@@ -19,7 +19,7 @@ sections:
           - title: I am an investor
             url: ""
   - infopic:
-      title: ">100 deep-tech startups"
+      title: ">350 companies"
       subtitle: Our IMPACT
       description: that we co-invested in.
       alt: Image alt text
