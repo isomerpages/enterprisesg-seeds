@@ -3,7 +3,10 @@ title: List Of Investors
 permalink: /our-co-investors/permalink
 description: ""
 ---
-|Name of Appointed Partner | Investment Stage | Sector(s) of Focus |
+The following are SEEDS Capital’s appointed partners under Startup SG Equity.
+
+
+|**Name of Appointed Partner** | **Investment Stage** | **Sector(s) of Focus** |
  | -------- | -------- | -------- | 
 AgFunder Rocket Seeder | Seed to Series B | Agri-Food Tech
 Altara Ventures | Pre-Series A to Series B | Health & Biomedical Sciences
