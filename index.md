@@ -20,10 +20,10 @@ sections:
             url: ""
   - infopic:
       title: ">100 deep-tech startups"
-      subtitle: Our Impact
+      subtitle: Our IMPACT
       description: that we co-invested in.
       alt: Image alt text
-      image: /images/successstories.png
+      image: /images/successstories3.png
   - infopic:
       title: Infopic Title
       subtitle: Infopic Subtitle
