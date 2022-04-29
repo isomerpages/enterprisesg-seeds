@@ -31,10 +31,7 @@ sections:
       alt: Image alt text
       image: /images/coinvestors.png
   - infobar:
-      title: Infobar Title
-      subtitle: Infobar Subtitle
-      description: <div><img src="/images/ken-mun-wong.jpeg"></div>
-      button: Button Text
+      description: <div class="row"><div><h1>>S$130M deployed</h1><p>over 2019 - 2021</p></div><h1>>S$130M deployed</h1><p>over 2019 - 2021</p></div><h1>>S$130M deployed</h1><p>over 2019 - 2021</p></div></div>
   - resources:
       title: Media
       subtitle: Learn more
