@@ -1,4 +1,5 @@
 collections:
   our-co-investors:
     output: true
-    order: []
+    order:
+      - Investment Criteria.md
