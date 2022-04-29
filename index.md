@@ -15,9 +15,9 @@ sections:
         title: Are you a startup/investor?
         options:
           - title: I am a startup
-            url: ""
+            url: https:///our-co-investors/investment-criteria
           - title: I am an investor
-            url: ""
+            url: ht/co-invest-with-us/reason-to-invest-with-seeds
   - infopic:
       title: ">350 companies"
       subtitle: Our IMPACT
