@@ -335,3 +335,11 @@ $desktop: 960px + (2 * $gap) !default;
     width: 100%;
   }
 }
+	  
+#main-content .is-offset-one-quarter {
+	margin-left: 0!important
+}
+	  
+#main-content .is-half {
+	width: 100%!important
+}
