@@ -1,4 +1,5 @@
 collections:
   co-invest-with-us:
     output: true
-    order: []
+    order:
+      - Co Investment Critieria.md
