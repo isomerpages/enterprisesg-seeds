@@ -24,6 +24,7 @@ sections:
       description: that we co-invested in.
       alt: Image alt text
       image: /images/successstories3.png
+  - infobar: {}
   - infopic:
       title: ">40 institutional investors"
       subtitle: Our CO-INVESTORS
