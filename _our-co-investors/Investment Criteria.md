@@ -15,5 +15,5 @@ Startups seeking funding must fulfil the following criteria:
 * High-growth potential with clear scalability for the international market
 
 Other considerations include:
-* Identified a ready, independent third-party institutional investor(s). Startups may consider our appointed partners [here](/our-co-investors/list-of-co-investors).
+* Identified a ready, independent third-party institutional investor(s). Startups may consider our appointed partners [here](/our-co-investors/list-of-investors).
 * Business must not be involved in the following business activities: gambling, tobacco-related products, or any other activities which are in violation of law, or against public interest.
