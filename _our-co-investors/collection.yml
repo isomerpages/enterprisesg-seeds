@@ -2,5 +2,5 @@ collections:
   our-co-investors:
     output: true
     order:
-      - List Of Investors.md
       - Investment Criteria.md
+      - List Of Investors.md
