@@ -29,6 +29,7 @@ sections:
       subtitle: Our CO-INVESTORS
       description: that we partner with
       alt: Image alt text
+      image: /images/coinvestors.png
   - resources:
       title: Media
       subtitle: Learn more
