@@ -30,6 +30,11 @@ sections:
       description: that we partner with
       alt: Image alt text
       image: /images/coinvestors.png
+  - infobar:
+      title: Infobar Title
+      subtitle: Infobar Subtitle
+      description: Test
+      button: Button Text
   - resources:
       title: Media
       subtitle: Learn more
