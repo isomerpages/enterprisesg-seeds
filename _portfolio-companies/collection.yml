@@ -2,4 +2,5 @@ collections:
   portfolio-companies:
     output: true
     order:
+      - Featured Companies.md
       - Success Stories/.keep
