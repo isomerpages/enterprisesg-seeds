@@ -31,15 +31,7 @@ sections:
       alt: Image alt text
       image: /images/coinvestors.png
   - infobar:
-      description: 
-      <div class="row">
-        <div><h1><b>>40 investors</b></h1>
-          <p>that we partner with</p>
-        </div>
-        <div>
-          <img src="/images/coinvestors.png" style="margin: 0 auto; width: 300">
-        </div>
-      </div>
+      description: <div class="row"><div><h1><b>>40 investors</b></h1><p>that we partner with</p></div><div><img src="/images/coinvestors.png" style="margin: 0 auto; width: 300"></div></div>
   - infobar:
       description: <div class="row"><div><h1><b>>S$130M</b></h1><p>deployed over 2019
         - 2021</p></div><div><h1>><b>350</b></h1><p>portfolio companies invested in</p></div><div><h1><b>>40 institutional
