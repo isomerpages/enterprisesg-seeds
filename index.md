@@ -25,13 +25,10 @@ sections:
       alt: Image alt text
       image: /images/successstories3.png
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
+      title: ">40 institutional investors"
+      subtitle: Our CO-INVESTORS
+      description: that we partner with
       alt: Image alt text
-  - infobar:
-      url: /faq/
   - resources:
       title: Media
       subtitle: Learn more
