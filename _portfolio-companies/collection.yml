@@ -1,4 +1,5 @@
 collections:
   portfolio-companies:
     output: true
-    order: []
+    order:
+      - Success Stories/.keep
