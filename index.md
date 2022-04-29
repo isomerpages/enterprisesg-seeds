@@ -33,7 +33,7 @@ sections:
   - infobar:
       title: Infobar Title
       subtitle: Infobar Subtitle
-      description: Test
+      description: <div><img src="/images/ken-mun-wong.jpeg"></div>
       button: Button Text
   - resources:
       title: Media
