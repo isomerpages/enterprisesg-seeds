@@ -31,7 +31,7 @@ sections:
       alt: Image alt text
       image: /images/coinvestors.png
   - infobar:
-      description: <div class="row"><div><h1>>S$130M deployed</h1><p>over 2019 - 2021</p></div><h1>>S$130M deployed</h1><p>over 2019 - 2021</p></div><h1>>S$130M deployed</h1><p>over 2019 - 2021</p></div></div>
+      description: <div class="row"><div><h1>>S$130M deployed</h1><p>over 2019 - 2021</p></div><div><h1>>S$130M deployed</h1><p>over 2019 - 2021</p></div><div><h1>>S$130M deployed</h1><p>over 2019 - 2021</p></div></div>
   - resources:
       title: Media
       subtitle: Learn more
