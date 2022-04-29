@@ -17,8 +17,7 @@ sections:
           - title: I am a startup
             url: https:///our-co-investors/investment-criteria
           - title: I am an investor
-            url: ht/co-invest-with-us/reason-to-invest-with-seeds
-  <div><img src="/images/ken-mun-wong.jpeg"></div>
+            url: /co-invest-with-us/reason-to-invest-with-seeds
   - infopic:
       title: ">350 companies"
       subtitle: Our IMPACT
