@@ -2,5 +2,5 @@ collections:
   about-us:
     output: true
     order:
-      - Team.md
       - Our Fund Mandate.md
+      - Team.md
