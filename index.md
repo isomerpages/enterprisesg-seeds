@@ -25,7 +25,7 @@ sections:
       alt: Image alt text
       image: /images/coinvestors.png
   - infobar:
-      description: <div class="row" style="justify-content: space-between"><div><h1><b>>S$130M</b></h1><p>deployed over 2019 - 2021</p></div><div><h1>><b>350</b></h1><p>portfolio companies over 2019 - 2021</p></div><div><h1><b>>40</b></h1><p>institutional investors over 2019 - 2021</p></div></div>
+      description: <div class="row" style="justify-content: space-between;"><div><h1><b>>S$130M</b></h1><p>deployed over 2019 - 2021</p></div><div><h1>><b>350</b></h1><p>portfolio companies over 2019 - 2021</p></div><div><h1><b>>40</b></h1><p>institutional investors over 2019 - 2021</p></div></div>
   - infobar:
       description: <div class="row"><div><h1><b>>S$130M</b></h1><p>deployed over 2019 - 2021</p></div><div><h1>><b>350</b></h1><p>portfolio companies over 2019 - 2021</p></div><div><h1><b>>40</b></h1><p>institutional investors over 2019 - 2021</p></div></div>
   - resources:
