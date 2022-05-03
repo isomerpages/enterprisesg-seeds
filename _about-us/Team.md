@@ -10,3 +10,4 @@ description: ""
 **Ken Mun Wong**\
 Deputy General Manager\
 [LinkedIn](https://www.linkedin.com/in/ken-mun-wong-a7399a11b/)
+<img src="/images/linkedin.png" width=20>
