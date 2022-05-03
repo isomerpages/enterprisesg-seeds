@@ -27,7 +27,7 @@ sections:
   - infobar:
       description: <div class="row"><div><h1><b>>S$130M</b></h1><p>deployed over 2019 - 2021</p></div><div><h1>><b>350</b></h1><p>portfolio companies over 2019 - 2021</p></div><div><h1><b>>40</b></h1><p>institutional investors over 2019 - 2021</p></div></div>
   - infobar:
-      description: <div class="row is-hidden-mobile is-hidden-desktop"><div class="col" style="width: 50%"><p class="padding--bottom eyebrow isuppercase">Our IMPACT</p><h1 class="has-text-secondary padding--bottom"><b>350 companies</b></h1><p>that we co-invested in.</p></div><div class="col is-half is-half padding--top--xl padding--bottom--xl"><img src="/images/successstories3.png" alt="Image alt text"></div></div>
+      description: <div class="row is-hidden-mobile is-hidden-desktop"><div class="col" style="width: 50%"><p class="padding--bottom eyebrow isuppercase">Our IMPACT</p><h1 class="has-text-secondary padding--bottom"><b>350 companies</b></h1><p>that we co-invested in.</p></div></div>
   - resources:
       title: Media
       subtitle: Learn more
