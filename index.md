@@ -23,11 +23,11 @@ sections:
       subtitle: Our CO-INVESTORS
       description: that we partner with
       alt: Image alt text
-      image: /images/coinvestors.png
+      image: /images/successstories.png
   - infobar:
       description: <div class="row justify-content-between padding--bottom"><div class="padding"><h1><b>>S$130M</b></h1><p>deployed over 2019 - 2021</p></div><div class="padding"><h1>><b>350</b></h1><p>portfolio companies over 2019 - 2021</p></div><div class="padding"><h1><b>>40</b></h1><p>institutional investors over 2019 - 2021</p></div></div>
   - infobar:
-      description: <div class="row is-hidden-mobile is-hidden-desktop padding--bottom"><div class="col force-half"><p class="padding--bottom eyebrow is-uppercase">Our CO-INVESTORS</p><h1 class="has-text-secondary padding--bottom"><b>40 investors</b></h1><p>that we partner with</p></div><div class="col force-half padding"><img src="https://d33wubrfki0l68.cloudfront.net/e1b02eb10f23dbeeddcebff77ff546f8df6be30e/451f0/images/coinvestors.png" alt="Image alt text"></div></div>
+      description: <div class="row justify-content-between padding--bottom"><div class="col force-half"><p class="padding--bottom eyebrow is-uppercase">Our CO-INVESTORS</p><h1 class="has-text-secondary padding--bottom"><b>40 investors</b></h1><p>that we partner with</p></div><div class="col force-half padding"><img src="https://d33wubrfki0l68.cloudfront.net/e1b02eb10f23dbeeddcebff77ff546f8df6be30e/451f0/images/coinvestors.png" alt="Image alt text"></div></div>
   - resources:
       title: Media
       subtitle: Learn more
