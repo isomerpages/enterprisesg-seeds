@@ -23,7 +23,6 @@ sections:
       subtitle: Our CO-INVESTORS
       description: that we partner with
       alt: Image alt text
-      image: /images/successstories.png
   - infobar:
       description: <div><p class="padding--bottom eyebrow isuppercase">Our Impact</p><div class="row justify-content-between padding--bottom"><div class="padding"><h1><b>>S$130M</b></h1><p>deployed over 2019 - 2021</p></div><div class="padding"><h1>><b>350</b></h1><p>portfolio companies over 2019 - 2021</p></div><div class="padding"><h1><b>>40</b></h1><p>institutional investors over 2019 - 2021</p></div></div></div>
   - infobar:
