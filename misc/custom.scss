@@ -346,6 +346,10 @@ $desktop: 960px + (2 * $gap) !default;
     		width: 50%;
 	}
 }
+
+.text-left {
+	text-align: left;!important
+}
 	  
 #main-content .is-offset-one-quarter {
 	margin-left: 0!important
