@@ -335,6 +335,10 @@ $desktop: 960px + (2 * $gap) !default;
     width: 100%;
   }
 }
+
+.justify-content-between {
+	justify-content: space-between;
+}
 	  
 #main-content .is-offset-one-quarter {
 	margin-left: 0!important
