@@ -25,9 +25,9 @@ sections:
       alt: Image alt text
       image: /images/coinvestors.png
   - infobar:
-      description: <div class="row justify-content-between"><div class="padding--bottom"><h1><b>>S$130M</b></h1><p>deployed over 2019 - 2021</p></div><div class="padding--bottom"><h1>><b>350</b></h1><p>portfolio companies over 2019 - 2021</p></div><div class="padding--bottom"><h1><b>>40</b></h1><p>institutional investors over 2019 - 2021</p></div></div>
+      description: <div class="row justify-content-between padding--bottom"><div class="padding"><h1><b>>S$130M</b></h1><p>deployed over 2019 - 2021</p></div><div class="padding"><h1>><b>350</b></h1><p>portfolio companies over 2019 - 2021</p></div><div class="padding"><h1><b>>40</b></h1><p>institutional investors over 2019 - 2021</p></div></div>
   - infobar:
-      description: <div class="class="row is-hidden-mobile is-hidden-desktop"><div class="col force-half"><p class="padding--bottom eyebrow is-uppercase">Our CO-INVESTORS</p><h1 class="has-text-secondary padding--bottom"><b>40 investors</b></h1><p>that we partner with</p></div></div>
+      description: <div class="row is-hidden-mobile is-hidden-desktop padding--bottom"><div class="col force-half"><p class="padding--bottom eyebrow is-uppercase">Our CO-INVESTORS</p><h1 class="has-text-secondary padding--bottom"><b>40 investors</b></h1><p>that we partner with</p></div></div>
   - resources:
       title: Media
       subtitle: Learn more
