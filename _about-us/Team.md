@@ -3,8 +3,9 @@ title: Team
 permalink: /about-us/team
 description: ""
 ---
-# **Investment Committee**
-# **Management Team**
+<h2><strong>Investment Committee</strong></h2>
+
+<h2><strong>Management Team</strong></h2>
 
 <img src="/images/ken-mun-wong.jpeg" style="width: 200px; margin-left: 0">
 **Ken Mun Wong**\
