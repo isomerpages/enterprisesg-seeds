@@ -1,6 +1,6 @@
 title: SEEDS Capital
 url: ""
-favicon: /images/favicon-isomer.ico
+favicon: /images/favicon.ico
 colors:
   primary-color: "#8eba58"
   secondary-color: "#43493a"
@@ -53,3 +53,4 @@ plugins:
 staging: https://enterprisesg-seeds-staging.netlify.app
 prod: https://enterprisesg-seeds-prod.netlify.app
 google_analytics: "312673821"
+is_government: true
