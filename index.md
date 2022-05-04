@@ -25,7 +25,7 @@ sections:
   - infobar:
       description: <div class="row justify-content-between padding--bottom"><div class="col force-half has-text-left"><p class="padding--bottom eyebrow is-uppercase">Our CO-INVESTORS</p><h1 class="has-text-secondary padding--bottom"><b>40 investors</b></h1><p>that we partner with</p></div><div class="col force-half padding"><img src="https://d33wubrfki0l68.cloudfront.net/e1b02eb10f23dbeeddcebff77ff546f8df6be30e/451f0/images/coinvestors.png" alt="Image alt text"></div></div>
   - infobar:
-      description: <div class="row justify-content-between padding--bottom"><div class="col force-half has-text-left"><p class="padding--bottom eyebrow is-uppercase">Our PORTFOLIO</p><h1 class="has-text-secondary padding--bottom"><b>>350 companies</b></h1><p>we invested in</p></div><div class="col force-half padding"><img src="https://d33wubrfki0l68.cloudfront.net/e1b02eb10f23dbeeddcebff77ff546f8df6be30e/451f0/images/coinvestors.png" alt="Image alt text"></div></div>
+      description: <div class="row justify-content-between padding--bottom"><div class="col force-half has-text-left"><p class="padding--bottom eyebrow is-uppercase">Our PORTFOLIO</p><h1 class="has-text-secondary padding--bottom"><b>>350 companies</b></h1><p>we invested in</p></div><div class="col force-half padding"><img src="https://d33wubrfki0l68.cloudfront.net/ab79352a6acfe9a2ac9abba90ec4cddbe1802a11/a4351/images/successstories.png" alt="Image alt text"></div></div>
   - resources:
       title: Media
       subtitle: Learn more
