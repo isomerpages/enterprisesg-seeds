@@ -40,11 +40,11 @@ sections:
   - infobar:
       description: <div><p class="padding--bottom eyebrow is-uppercase">Our
         Impact</p><div class="row is-centered bp-container justify-content-between
-        padding--bottom--xl"><div class="padding margin"><h1
+        padding--bottom--xl"><div class="padding"><h1
         class="padding"><b>>S$130M</b></h1><p>deployed over 2019 -
-        2021</p></div><div class="padding margin"><h1
+        2021</p></div><div class="padding"><h1
         class="padding">><b>350</b></h1><p>portfolio companies over 2019 -
-        2021</p></div><div class="padding margin"><h1
+        2021</p></div><div class="padding"><h1
         class="padding"><b>>40</b></h1><p>institutional investors over 2019 -
         2021</p></div></div></div>
   - infobar:
