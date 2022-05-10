@@ -6,7 +6,7 @@ description: ""
 <h2><strong>Investment Committee</strong></h2>
 
 <h2><strong>Management Team</strong></h2>
-<img src="/images/kaixin-tan.jpeg" style="width: 200px; margin-left: 0">
+<img src="/images/kaixin-tan.png" style="width: 200px; margin-left: 0">
 **Kaixin Tan**\
 General Manager\
 <img src="/images/linkedin.png" style="width: 20px;margin-left: 0; display: inline"> [LinkedIn](https://www.linkedin.com/in/kaixin//)
