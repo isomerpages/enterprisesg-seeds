@@ -3,10 +3,6 @@ title: Featured Companies
 permalink: /portfolio-companies/featured
 description: ""
 ---
-<script>
-	console.log("test");
-	document.getElementById("coy-1").style.display = "none";
-</script>
 <div class="sgds-card" id="coy-1">
     <div class="sgds-card-image">
         <figure class="sgds-image is-16by9">
