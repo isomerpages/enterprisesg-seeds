@@ -3,6 +3,11 @@ title: Featured Companies
 permalink: /portfolio-companies/featured
 description: ""
 ---
+<label for="cars">Industry:</label>
+<select name="cars" id="cars">
+  <option value="healthcare">Healthcare</option>
+  <option value="urban-solutions">Urban Solutions</option>
+</select>
 <div class="sgds-card" id="coy-1">
     <div class="sgds-card-image">
         <figure class="sgds-image is-16by9">
@@ -14,8 +19,3 @@ description: ""
         <p>Healthbeats is a digital health startup that develops a global platform for remote patient monitoring. It provides medical-grade devices, software platform, and support services for patients to monitor their vital signs at home with real-time results sent to their care providers for proactive care management. HealthBeats supports its clients to lower hospital admission and re-admission levels through improved patients’ outcomes.</p>
     </div>
 </div>
-
-<script>
-	console.log("test");
-	document.getElementById("coy-1").style.display = "none";
-</script>
