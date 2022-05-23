@@ -129,5 +129,53 @@ description: ""
       </div>
   </div>
 </div>
+<div class="row">
+  <div class="sgds-card">
+      <div class="sgds-card-image">
+          <figure class="sgds-image is-16by9">
+              <img src="/images/spaceagelabs.png" />
+          </figure>
+      </div>
+      <div class="sgds-card-content">
+          <p><strong>Space Age Labs</strong></p>
+          <small>Space Age Labs develops full stack IoT, AI and ML solutions for the digitalisation of urban water, wastewater and landscape verticals.</small>
+      </div>
+  </div>
+  <div class="sgds-card">
+      <div class="sgds-card-image">
+          <figure class="sgds-image is-16by9">
+              <img src="/images/styletheory.png"/>
+          </figure>
+      </div>
+      <div class="sgds-card-content">
+          <p><strong>Style Theory</strong></p>
+          <small>Style Theory is Southeast Asia’s largest circular fashion platform, offering rental subscription and designer resale in Singapore, Hong Kong and Indonesia.</small>
+      </div>
+  </div>
+</div>
+<div class="row">
+  <div class="sgds-card">
+      <div class="sgds-card-image">
+          <figure class="sgds-image is-16by9">
+              <img src="/images/thirdwavepower.png" />
+          </figure>
+      </div>
+      <div class="sgds-card-content">
+          <p><strong>Third Wave Power</strong></p>
+          <small>Third Wave Power is a solar energy solution provider that designs, manufactures, and markets a range of solar home systems, primarily to off-grid rural consumers.</small>
+      </div>
+  </div>
+  <div class="sgds-card">
+      <div class="sgds-card-image">
+          <figure class="sgds-image is-16by9">
+              <img src="/images/vflowtech.png"/>
+          </figure>
+      </div>
+      <div class="sgds-card-content">
+          <p><strong>VFlowTech</strong></p>
+          <small>VFlowTech has developed Vanadium-based long-duration energy storage solutions that have a long lifespan and are inherently safer and can support multiple applications.</small>
+      </div>
+  </div>
+</div>
 </div>
 <script src="/test.js"></script>
