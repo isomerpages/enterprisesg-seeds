@@ -17,7 +17,8 @@ description: ""
 <div class="sgds-card hbms">
     <div class="sgds-card-image" style="margin-top: 15px">
         <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
-            <img src="/images/healthbeats.png" style="object-fit: scale-down"/>
+            <img src="/images/healthbeats.png" style="object-fit: scale-down; max-width: 100%;
+    max-height: 100%;"/>
         </figure>
     </div>
     <div class="sgds-card-content">
@@ -28,7 +29,8 @@ description: ""
 <div class="sgds-card ame">
     <div class="sgds-card-image" style="margin-top: 15px">
         <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
-            <img src="/images/beex.png" style="object-fit: scale-down"/>
+            <img src="/images/beex.png" style="object-fit: scale-down; max-width: 100%;
+    max-height: 100%;"/>
         </figure>
     </div>
     <div class="sgds-card-content">
@@ -41,7 +43,8 @@ description: ""
   <div class="sgds-card agfood">
     <div class="sgds-card-image" style="margin-top: 15px">
         <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
-              <img src="/images/dimuto.png" style="object-fit: scale-down"/>
+              <img src="/images/dimuto.png" style="object-fit: scale-down; max-width: 100%;
+    max-height: 100%;"/>
           </figure>
       </div>
       <div class="sgds-card-content">
@@ -52,7 +55,8 @@ description: ""
   <div class="sgds-card hbms">
     <div class="sgds-card-image" style="margin-top: 15px">
         <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
-              <img src="/images/endofotonics.png" style="object-fit: scale-down"/>
+              <img src="/images/endofotonics.png" style="object-fit: scale-down; max-width: 100%;
+    max-height: 100%;"/>
           </figure>
       </div>
       <div class="sgds-card-content">
@@ -65,7 +69,8 @@ description: ""
   <div class="sgds-card uss">
     <div class="sgds-card-image" style="margin-top: 15px">
         <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
-              <img src="/images/evercomm.png" style="object-fit: scale-down"/>
+              <img src="/images/evercomm.png" style="object-fit: scale-down; max-width: 100%;
+    max-height: 100%;"/>
           </figure>
       </div>
       <div class="sgds-card-content">
@@ -76,7 +81,8 @@ description: ""
   <div class="sgds-card uss">
     <div class="sgds-card-image" style="margin-top: 15px">
         <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
-              <img src="/images/ionmobility.png" style="object-fit: scale-down"/>
+              <img src="/images/ionmobility.png" style="object-fit: scale-down; max-width: 100%;
+    max-height: 100%;"/>
           </figure>
       </div>
       <div class="sgds-card-content">
@@ -89,7 +95,8 @@ description: ""
   <div class="sgds-card uss">
     <div class="sgds-card-image" style="margin-top: 15px">
         <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
-              <img src="/images/moovita.png" style="object-fit: scale-down"/>
+              <img src="/images/moovita.png" style="object-fit: scale-down; max-width: 100%;
+    max-height: 100%;"/>
           </figure>
       </div>
       <div class="sgds-card-content">
@@ -100,7 +107,8 @@ description: ""
   <div class="sgds-card agfood">
     <div class="sgds-card-image" style="margin-top: 15px">
         <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
-              <img src="/images/mycovation.png" style="object-fit: scale-down"/>
+              <img src="/images/mycovation.png" style="object-fit: scale-down; max-width: 100%;
+    max-height: 100%;"/>
           </figure>
       </div>
       <div class="sgds-card-content">
@@ -113,7 +121,8 @@ description: ""
   <div class="sgds-card ame">
     <div class="sgds-card-image" style="margin-top: 15px">
         <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
-              <img src="/images/myrlabs.png" style="object-fit: scale-down"/>
+              <img src="/images/myrlabs.png" style="object-fit: scale-down; max-width: 100%;
+    max-height: 100%;"/>
           </figure>
       </div>
       <div class="sgds-card-content">
@@ -124,7 +133,8 @@ description: ""
   <div class="sgds-card sde">
     <div class="sgds-card-image" style="margin-top: 15px">
         <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
-              <img src="/images/sentient.png" style="object-fit: scale-down"/>
+              <img src="/images/sentient.png" style="object-fit: scale-down; max-width: 100%;
+    max-height: 100%;"/>
           </figure>
       </div>
       <div class="sgds-card-content">
@@ -137,7 +147,8 @@ description: ""
   <div class="sgds-card ame">
     <div class="sgds-card-image" style="margin-top: 15px">
         <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
-              <img src="/images/spaceagelabs.png" style="object-fit: scale-down"/>
+              <img src="/images/spaceagelabs.png" style="object-fit: scale-down; max-width: 100%;
+    max-height: 100%;"/>
           </figure>
       </div>
       <div class="sgds-card-content">
@@ -148,7 +159,8 @@ description: ""
   <div class="sgds-card sde">
     <div class="sgds-card-image" style="margin-top: 15px">
         <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
-              <img src="/images/styletheory.png" style="object-fit: scale-down"/>
+              <img src="/images/styletheory.png" style="object-fit: scale-down; max-width: 100%;
+    max-height: 100%;"/>
           </figure>
       </div>
       <div class="sgds-card-content">
@@ -161,7 +173,8 @@ description: ""
   <div class="sgds-card uss">
     <div class="sgds-card-image" style="margin-top: 15px">
         <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
-              <img src="/images/thirdwavepower.png" style="object-fit: scale-down"/>
+              <img src="/images/thirdwavepower.png" style="object-fit: scale-down; max-width: 100%;
+    max-height: 100%;"/>
           </figure>
       </div>
       <div class="sgds-card-content">
@@ -172,7 +185,8 @@ description: ""
   <div class="sgds-card uss">
     <div class="sgds-card-image" style="margin-top: 15px">
         <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
-              <img src="/images/vflowtech.png" style="object-fit: scale-down"/>
+              <img src="/images/vflowtech.png" style="object-fit: scale-down; max-width: 100%;
+    max-height: 100%;"/>
           </figure>
       </div>
       <div class="sgds-card-content">
@@ -185,7 +199,8 @@ description: ""
   <div class="sgds-card">
     <div class="sgds-card-image" style="margin-top: 15px">
         <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
-              <img src="/images/hubble.png" style="object-fit: scale-down"/>
+              <img src="/images/hubble.png" style="object-fit: scale-down; max-width: 100%;
+    max-height: 100%;"/>
           </figure>
       </div>
       <div class="sgds-card-content">
@@ -196,12 +211,13 @@ description: ""
   <div class="sgds-card">
     <div class="sgds-card-image" style="margin-top: 15px">
         <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
-              <img src="/images/respiree.png" style="object-fit: scale-down"/>
+              <img src="/images/respiree.png" style="object-fit: scale-down; max-width: 100%;
+    max-height: 100%;"/>
           </figure>
       </div>
       <div class="sgds-card-content">
           <p><strong>Respiree</strong></p>
-          <small>Respiree develops solutions for personalised early detection and intervention of chronic cardio-pulmonary diseases using a combination of proprietary breath-cardio sensors, AI, and workflow integrated UI/UX. .</small>
+          <small>Respiree develops solutions for personalised early detection and intervention of chronic cardio-pulmonary diseases using a combination of proprietary breath-cardio sensors, AI, and workflow integrated UI/UX.</small>
       </div>
   </div>
 </div>
