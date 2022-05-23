@@ -20,6 +20,4 @@ description: ""
     </div>
 </div>
 
-```js script
-console.log("test")
-```
+{% include test.html %}
