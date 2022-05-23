@@ -14,30 +14,32 @@ description: ""
   <option value="sde">SDE</option>
 </select>
 <div class="row">
-<div class="sgds-card hbms is-12-mobile is-6-desktop col">
-    <div class="sgds-card-image" style="margin-top: 15px">
-        <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
-            <img src="/images/healthbeats.png" style="object-fit: scale-down; max-width: 100%;
-    max-height: 100%;"/>
-        </figure>
-    </div>
-    <div class="sgds-card-content">
-        <p><strong>HealthBeats</strong></p>
-        <small>Healthbeats is a digital health startup that develops a global platform for remote patient monitoring.</small>
-    </div>
+  <div class="sgds-card hbms is-12-mobile is-6-desktop col">
+      <div class="sgds-card-image" style="margin-top: 15px">
+          <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
+              <img src="/images/healthbeats.png" style="object-fit: scale-down; max-width: 100%;
+      max-height: 100%;"/>
+          </figure>
+      </div>
+      <div class="sgds-card-content">
+          <p><strong>HealthBeats</strong></p>
+          <small>Healthbeats is a digital health startup that develops a global platform for remote patient monitoring.</small>
+      </div>
+  </div>
+  <div class="sgds-card ame is-12-mobile is-6-desktop col">
+      <div class="sgds-card-image" style="margin-top: 15px">
+          <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
+              <img src="/images/beex.png" style="object-fit: scale-down; max-width: 100%;
+      max-height: 100%;"/>
+          </figure>
+      </div>
+      <div class="sgds-card-content">
+          <p><strong>BeeX</strong></p>
+          <small>BeeX is a spin-off from NUS that develops Hover-capable Autonomous Underwater Vehicles (HAUV).</small>
+      </div>
+  </div>
 </div>
-<div class="sgds-card ame is-12-mobile is-6-desktop col">
-    <div class="sgds-card-image" style="margin-top: 15px">
-        <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
-            <img src="/images/beex.png" style="object-fit: scale-down; max-width: 100%;
-    max-height: 100%;"/>
-        </figure>
-    </div>
-    <div class="sgds-card-content">
-        <p><strong>BeeX</strong></p>
-        <small>BeeX is a spin-off from NUS that develops Hover-capable Autonomous Underwater Vehicles (HAUV).</small>
-    </div>
-</div>
+<div class="row">
   <div class="sgds-card agfood is-12-mobile is-6-desktop col">
     <div class="sgds-card-image" style="margin-top: 15px">
         <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
@@ -62,6 +64,8 @@ description: ""
           <small>Endofotonics develops an AI-enabled, Raman spectroscopy-based Spectra IMDx system with miniature probe for in-vivo, real time endoscopy assessment and diagnosis of early gastrointestinal cancers.</small>
       </div>
   </div>
+ </div>
+ <div class="row">
   <div class="sgds-card uss is-12-mobile is-6-desktop col">
     <div class="sgds-card-image" style="margin-top: 15px">
         <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
@@ -86,6 +90,8 @@ description: ""
           <small>Ion Mobility is a mobility solutions startup that develops and manufactures electric motorcycles.</small>
       </div>
   </div>
+ </div>
+ <div class="row">
   <div class="sgds-card uss is-12-mobile is-6-desktop col">
     <div class="sgds-card-image" style="margin-top: 15px">
         <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
@@ -110,6 +116,8 @@ description: ""
           <small>Mycovation is a biomass fermentation technology company developing customized mycelium-derived ingredients for the alternative protein, dairy, beverage and other important segments of the food industry.</small>
       </div>
   </div>
+ </div>
+ <div class="row">
   <div class="sgds-card ame is-12-mobile is-6-desktop col">
     <div class="sgds-card-image" style="margin-top: 15px">
         <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
@@ -134,6 +142,8 @@ description: ""
           <small>Sentient.io is an AI-as-a-service platform that helps enterprises build AI capabilities easily and quickly.</small>
       </div>
   </div>
+ </div>
+ <div class="row">
   <div class="sgds-card ame is-12-mobile is-6-desktop col">
     <div class="sgds-card-image" style="margin-top: 15px">
         <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
@@ -158,6 +168,8 @@ description: ""
           <small>Style Theory is Southeast Asia’s largest circular fashion platform, offering rental subscription and designer resale in Singapore, Hong Kong and Indonesia.</small>
       </div>
   </div>
+ </div>
+ <div class="row">
   <div class="sgds-card uss is-12-mobile is-6-desktop col">
     <div class="sgds-card-image" style="margin-top: 15px">
         <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
@@ -182,6 +194,8 @@ description: ""
           <small>VFlowTech has developed Vanadium-based long-duration energy storage solutions that have a long lifespan and are inherently safer and can support multiple applications.</small>
       </div>
   </div>
+ </div>
+<div class="row">
   <div class="sgds-card uss is-12-mobile is-6-desktop col">
     <div class="sgds-card-image" style="margin-top: 15px">
         <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
