@@ -4,7 +4,7 @@ permalink: /portfolio-companies/featured
 description: ""
 ---
 <label for="cars">Industry:</label>
-<select onchange="onCoyChange()" name="cars" id="cars">
+<select name="cars" id="cars">
   <option value="healthcare">Healthcare</option>
   <option value="urban-solutions">Urban Solutions</option>
 </select>
