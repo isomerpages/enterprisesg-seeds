@@ -6,11 +6,15 @@ description: ""
 <link rel="stylesheet" href="/sgds.css"/>
 <label for="cars">Industry:</label>
 <select name="cars" id="cars">
-  <option value="healthcare">Healthcare</option>
-  <option value="urban-solutions">Urban Solutions</option>
+  <option value="all">All</option>
+  <option value="hbms">Health & Biomedical Science</option>
+  <option value="uss">Urban Solutions & Sustainability</option>
+  <option value="ame">Advanced Manufacturing & Engineering</option>
+  <option value="agfood">Agritech & Foodtech</option>
+  <option value="sde">SDE</option>
 </select>
 <div class="row">
-<div class="sgds-card">
+<div class="sgds-card hbms">
     <div class="sgds-card-image" style="margin-top: 15px">
         <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
             <img src="/images/healthbeats.png" style="object-fit: scale-down"/>
@@ -21,7 +25,7 @@ description: ""
         <small>Healthbeats is a digital health startup that develops a global platform for remote patient monitoring.</small>
     </div>
 </div>
-<div class="sgds-card">
+<div class="sgds-card ame">
     <div class="sgds-card-image" style="margin-top: 15px">
         <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
             <img src="/images/beex.png" style="object-fit: scale-down"/>
@@ -34,7 +38,7 @@ description: ""
 </div>
 </div>
 <div class="row">
-  <div class="sgds-card">
+  <div class="sgds-card agfood">
     <div class="sgds-card-image" style="margin-top: 15px">
         <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
               <img src="/images/dimuto.png" style="object-fit: scale-down"/>
@@ -45,7 +49,7 @@ description: ""
           <small>Dimuto enables supply-chain transparency in the food industry using their proprietary track-and-trace technologies.</small>
       </div>
   </div>
-  <div class="sgds-card">
+  <div class="sgds-card hbms">
     <div class="sgds-card-image" style="margin-top: 15px">
         <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
               <img src="/images/endofotonics.png" style="object-fit: scale-down"/>
@@ -58,7 +62,7 @@ description: ""
   </div>
 </div>
 <div class="row">
-  <div class="sgds-card">
+  <div class="sgds-card uss">
     <div class="sgds-card-image" style="margin-top: 15px">
         <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
               <img src="/images/evercomm.png" style="object-fit: scale-down"/>
@@ -69,7 +73,7 @@ description: ""
           <small>EverComm is a United Nations recognised company providing AI services for ESG tracking and decarbonisation.</small>
       </div>
   </div>
-  <div class="sgds-card">
+  <div class="sgds-card uss">
     <div class="sgds-card-image" style="margin-top: 15px">
         <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
               <img src="/images/ionmobility.png" style="object-fit: scale-down"/>
@@ -82,7 +86,7 @@ description: ""
   </div>
 </div>
 <div class="row">
-  <div class="sgds-card">
+  <div class="sgds-card uss">
     <div class="sgds-card-image" style="margin-top: 15px">
         <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
               <img src="/images/moovita.png" style="object-fit: scale-down"/>
@@ -93,7 +97,7 @@ description: ""
           <small>MooVita specialises in designing and deploying roadworthy autonomous vehicles in urban cities worldwide, and is developing a component-based driverless software solution.</small>
       </div>
   </div>
-  <div class="sgds-card">
+  <div class="sgds-card agfood">
     <div class="sgds-card-image" style="margin-top: 15px">
         <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
               <img src="/images/mycovation.png" style="object-fit: scale-down"/>
@@ -106,7 +110,7 @@ description: ""
   </div>
 </div>
 <div class="row">
-  <div class="sgds-card">
+  <div class="sgds-card ame">
     <div class="sgds-card-image" style="margin-top: 15px">
         <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
               <img src="/images/myrlabs.png" style="object-fit: scale-down"/>
@@ -117,7 +121,7 @@ description: ""
           <small>Myrmidon Laboratories is an A*STAR spin-off that creates cutting edge hardware and algorithms for robots to deliver next-generation robot solutions. </small>
       </div>
   </div>
-  <div class="sgds-card">
+  <div class="sgds-card sde">
     <div class="sgds-card-image" style="margin-top: 15px">
         <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
               <img src="/images/sentient.png" style="object-fit: scale-down"/>
@@ -130,7 +134,7 @@ description: ""
   </div>
 </div>
 <div class="row">
-  <div class="sgds-card">
+  <div class="sgds-card ame">
     <div class="sgds-card-image" style="margin-top: 15px">
         <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
               <img src="/images/spaceagelabs.png" style="object-fit: scale-down"/>
@@ -141,7 +145,7 @@ description: ""
           <small>Space Age Labs develops full stack IoT, AI and ML solutions for the digitalisation of urban water, wastewater and landscape verticals.</small>
       </div>
   </div>
-  <div class="sgds-card">
+  <div class="sgds-card sde">
     <div class="sgds-card-image" style="margin-top: 15px">
         <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
               <img src="/images/styletheory.png" style="object-fit: scale-down"/>
@@ -154,7 +158,7 @@ description: ""
   </div>
 </div>
 <div class="row">
-  <div class="sgds-card">
+  <div class="sgds-card uss">
     <div class="sgds-card-image" style="margin-top: 15px">
         <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
               <img src="/images/thirdwavepower.png" style="object-fit: scale-down"/>
@@ -165,7 +169,7 @@ description: ""
           <small>Third Wave Power is a solar energy solution provider that designs, manufactures, and markets a range of solar home systems, primarily to off-grid rural consumers.</small>
       </div>
   </div>
-  <div class="sgds-card">
+  <div class="sgds-card uss">
     <div class="sgds-card-image" style="margin-top: 15px">
         <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
               <img src="/images/vflowtech.png" style="object-fit: scale-down"/>
