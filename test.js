@@ -1,1 +1,3 @@
-console.log(document.getElementById("cars").value);
+function onCoyChange() {
+  console.log(document.getElementById("cars").value);
+}
