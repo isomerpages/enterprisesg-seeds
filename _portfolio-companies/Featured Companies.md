@@ -177,5 +177,28 @@ description: ""
       </div>
   </div>
 </div>
+<div class="row">
+  <div class="sgds-card">
+    <div class="sgds-card-image" style="margin-top: 15px">
+        <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
+              <img src="/images/hubble.png" style="object-fit: scale-down"/>
+          </figure>
+      </div>
+      <div class="sgds-card-content">
+          <p><strong>Hubble</strong></p>
+          <small>Hubble has a full suite of B2B enterprise SaaS solutions covering workforce, safety, quality, and pre-fabrication management for the construction industry.</small>
+      </div>
+  </div>
+  <div class="sgds-card">
+    <div class="sgds-card-image" style="margin-top: 15px">
+        <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
+              <img src="/images/respiree.png" style="object-fit: scale-down"/>
+          </figure>
+      </div>
+      <div class="sgds-card-content">
+          <p><strong>Respiree</strong></p>
+          <small>Respiree develops solutions for personalised early detection and intervention of chronic cardio-pulmonary diseases using a combination of proprietary breath-cardio sensors, AI, and workflow integrated UI/UX. .</small>
+      </div>
+  </div>
 </div>
 <script src="/test.js"></script>
