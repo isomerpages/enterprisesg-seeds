@@ -3,6 +3,7 @@ title: Featured Companies
 permalink: /portfolio-companies/featured
 description: ""
 ---
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/sgds-govtech@1.3.22/css/sgds.css"/>
 <label for="cars">Industry:</label>
 <select name="cars" id="cars">
   <option value="healthcare">Healthcare</option>
