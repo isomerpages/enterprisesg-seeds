@@ -11,9 +11,9 @@ description: ""
 </select>
 <div class="row">
 <div class="sgds-card">
-    <div class="sgds-card-image">
+    <div class="sgds-card-image" style="margin-top: 15px">
         <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
-            <img src="/images/healthbeats.png" />
+            <img src="/images/healthbeats.png" style="object-fit: scale-down"/>
         </figure>
     </div>
     <div class="sgds-card-content">
@@ -22,9 +22,9 @@ description: ""
     </div>
 </div>
 <div class="sgds-card">
-    <div class="sgds-card-image">
+    <div class="sgds-card-image" style="margin-top: 15px">
         <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
-            <img src="/images/beex.png"/>
+            <img src="/images/beex.png" style="object-fit: scale-down"/>
         </figure>
     </div>
     <div class="sgds-card-content">
@@ -35,9 +35,9 @@ description: ""
 </div>
 <div class="row">
   <div class="sgds-card">
-      <div class="sgds-card-image">
+    <div class="sgds-card-image" style="margin-top: 15px">
         <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
-              <img src="/images/dimuto.png" />
+              <img src="/images/dimuto.png" style="object-fit: scale-down"/>
           </figure>
       </div>
       <div class="sgds-card-content">
@@ -46,9 +46,9 @@ description: ""
       </div>
   </div>
   <div class="sgds-card">
-      <div class="sgds-card-image">
+    <div class="sgds-card-image" style="margin-top: 15px">
         <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
-              <img src="/images/endofotonics.png"/>
+              <img src="/images/endofotonics.png" style="object-fit: scale-down"/>
           </figure>
       </div>
       <div class="sgds-card-content">
@@ -59,9 +59,9 @@ description: ""
 </div>
 <div class="row">
   <div class="sgds-card">
-      <div class="sgds-card-image">
+    <div class="sgds-card-image" style="margin-top: 15px">
         <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
-              <img src="/images/evercomm.png" />
+              <img src="/images/evercomm.png" style="object-fit: scale-down"/>
           </figure>
       </div>
       <div class="sgds-card-content">
@@ -70,9 +70,9 @@ description: ""
       </div>
   </div>
   <div class="sgds-card">
-      <div class="sgds-card-image">
+    <div class="sgds-card-image" style="margin-top: 15px">
         <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
-              <img src="/images/ionmobility.png"/>
+              <img src="/images/ionmobility.png" style="object-fit: scale-down"/>
           </figure>
       </div>
       <div class="sgds-card-content">
@@ -83,9 +83,9 @@ description: ""
 </div>
 <div class="row">
   <div class="sgds-card">
-      <div class="sgds-card-image">
+    <div class="sgds-card-image" style="margin-top: 15px">
         <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
-              <img src="/images/moovita.png" />
+              <img src="/images/moovita.png" style="object-fit: scale-down"/>
           </figure>
       </div>
       <div class="sgds-card-content">
@@ -94,9 +94,9 @@ description: ""
       </div>
   </div>
   <div class="sgds-card">
-      <div class="sgds-card-image">
+    <div class="sgds-card-image" style="margin-top: 15px">
         <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
-              <img src="/images/mycovation.png"/>
+              <img src="/images/mycovation.png" style="object-fit: scale-down"/>
           </figure>
       </div>
       <div class="sgds-card-content">
@@ -107,9 +107,9 @@ description: ""
 </div>
 <div class="row">
   <div class="sgds-card">
-      <div class="sgds-card-image">
+    <div class="sgds-card-image" style="margin-top: 15px">
         <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
-              <img src="/images/myrlabs.png" />
+              <img src="/images/myrlabs.png" style="object-fit: scale-down"/>
           </figure>
       </div>
       <div class="sgds-card-content">
@@ -118,9 +118,9 @@ description: ""
       </div>
   </div>
   <div class="sgds-card">
-      <div class="sgds-card-image">
+    <div class="sgds-card-image" style="margin-top: 15px">
         <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
-              <img src="/images/sentient.png"/>
+              <img src="/images/sentient.png" style="object-fit: scale-down"/>
           </figure>
       </div>
       <div class="sgds-card-content">
@@ -131,9 +131,9 @@ description: ""
 </div>
 <div class="row">
   <div class="sgds-card">
-      <div class="sgds-card-image">
+    <div class="sgds-card-image" style="margin-top: 15px">
         <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
-              <img src="/images/spaceagelabs.png" />
+              <img src="/images/spaceagelabs.png" style="object-fit: scale-down"/>
           </figure>
       </div>
       <div class="sgds-card-content">
@@ -142,9 +142,9 @@ description: ""
       </div>
   </div>
   <div class="sgds-card">
-      <div class="sgds-card-image">
+    <div class="sgds-card-image" style="margin-top: 15px">
         <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
-              <img src="/images/styletheory.png"/>
+              <img src="/images/styletheory.png" style="object-fit: scale-down"/>
           </figure>
       </div>
       <div class="sgds-card-content">
@@ -155,9 +155,9 @@ description: ""
 </div>
 <div class="row">
   <div class="sgds-card">
-      <div class="sgds-card-image">
+    <div class="sgds-card-image" style="margin-top: 15px">
         <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
-              <img src="/images/thirdwavepower.png" />
+              <img src="/images/thirdwavepower.png" style="object-fit: scale-down"/>
           </figure>
       </div>
       <div class="sgds-card-content">
@@ -166,9 +166,9 @@ description: ""
       </div>
   </div>
   <div class="sgds-card">
-      <div class="sgds-card-image">
+    <div class="sgds-card-image" style="margin-top: 15px">
         <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
-              <img src="/images/vflowtech.png"/>
+              <img src="/images/vflowtech.png" style="object-fit: scale-down"/>
           </figure>
       </div>
       <div class="sgds-card-content">
