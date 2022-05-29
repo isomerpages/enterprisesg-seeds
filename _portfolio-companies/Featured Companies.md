@@ -4,8 +4,8 @@ permalink: /portfolio-companies/featured
 description: ""
 ---
 <link rel="stylesheet" href="/sgds.css"/>
-<label for="cars">Industry:</label>
-<select name="cars" id="cars">
+<label for="coy-choice">Industry:</label>
+<select name="coy-choice" id="coy-choice">
   <option value="all">All</option>
   <option value="hbms">Health & Biomedical Science</option>
   <option value="uss">Urban Solutions & Sustainability</option>
