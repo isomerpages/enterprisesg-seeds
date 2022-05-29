@@ -14,7 +14,7 @@ description: ""
   <option value="sde">SDE</option>
 </select>
 <div class="row" style="flex-wrap: wrap">
-  <div class="sgds-card agfood is-12-mobile is-6-desktop col" style="flex: 0 1 40%;">
+  <div class="sgds-card agfood is-12-mobile is-6-desktop col" style="flex: 0 1 40%; margin: 10px">
       <div class="sgds-card-image" style="margin-top: 15px">
           <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
               <img src="/images/agfunder.png" style="object-fit: scale-down; max-width: 100%;
@@ -27,7 +27,7 @@ description: ""
           <p><a href="https://agfunder.com/" target="_blank"><small>Visit their website</small></a></p>
       </div>
   </div>
-  <div class="sgds-card agfood is-12-mobile is-6-desktop col" style="flex: 0 1 40%;">
+  <div class="sgds-card agfood is-12-mobile is-6-desktop col" style="flex: 0 1 40%; margin: 10px">
       <div class="sgds-card-image" style="margin-top: 15px">
           <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
               <img src="/images/altara.png" style="object-fit: scale-down; max-width: 100%;
