@@ -14,7 +14,7 @@ description: ""
   <option value="sde">SDE</option>
 </select>
 <div class="row">
-  <div class="sgds-card hbms is-12-mobile is-6-desktop col">
+  <div class="sgds-card hbms is-12-mobile is-6-desktop col" style="flex: 0 1 50%;">
       <div class="sgds-card-image" style="margin-top: 15px">
           <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
               <img src="/images/healthbeats.png" style="object-fit: scale-down; max-width: 100%;
@@ -26,7 +26,7 @@ description: ""
           <small>Healthbeats is a digital health startup that develops a global platform for remote patient monitoring.</small>
       </div>
   </div>
-  <div class="sgds-card ame is-12-mobile is-6-desktop col">
+  <div class="sgds-card ame is-12-mobile is-6-desktop col" style="flex: 0 1 50%;">
       <div class="sgds-card-image" style="margin-top: 15px">
           <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
               <img src="/images/beex.png" style="object-fit: scale-down; max-width: 100%;
@@ -38,9 +38,7 @@ description: ""
           <small>BeeX is a spin-off from NUS that develops Hover-capable Autonomous Underwater Vehicles (HAUV).</small>
       </div>
   </div>
-</div>
-<div class="row">
-  <div class="sgds-card agfood is-12-mobile is-6-desktop col">
+  <div class="sgds-card agfood is-12-mobile is-6-desktop col" style="flex: 0 1 50%;">
     <div class="sgds-card-image" style="margin-top: 15px">
         <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
               <img src="/images/dimuto.png" style="object-fit: scale-down; max-width: 100%;
@@ -52,7 +50,7 @@ description: ""
           <small>Dimuto enables supply-chain transparency in the food industry using their proprietary track-and-trace technologies.</small>
       </div>
   </div>
-  <div class="sgds-card hbms is-12-mobile is-6-desktop col">
+  <div class="sgds-card hbms is-12-mobile is-6-desktop col" style="flex: 0 1 50%;">
     <div class="sgds-card-image" style="margin-top: 15px">
         <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
               <img src="/images/endofotonics.png" style="object-fit: scale-down; max-width: 100%;
@@ -64,9 +62,7 @@ description: ""
           <small>Endofotonics develops an AI-enabled, Raman spectroscopy-based Spectra IMDx system with miniature probe for in-vivo, real time endoscopy assessment and diagnosis of early gastrointestinal cancers.</small>
       </div>
   </div>
- </div>
- <div class="row">
-  <div class="sgds-card uss is-12-mobile is-6-desktop col">
+  <div class="sgds-card uss is-12-mobile is-6-desktop col" style="flex: 0 1 50%;">
     <div class="sgds-card-image" style="margin-top: 15px">
         <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
               <img src="/images/evercomm.png" style="object-fit: scale-down; max-width: 100%;
@@ -78,7 +74,7 @@ description: ""
           <small>EverComm is a United Nations recognised company providing AI services for ESG tracking and decarbonisation.</small>
       </div>
   </div>
-  <div class="sgds-card uss is-12-mobile is-6-desktop col">
+  <div class="sgds-card uss is-12-mobile is-6-desktop col" style="flex: 0 1 50%;">
     <div class="sgds-card-image" style="margin-top: 15px">
         <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
               <img src="/images/ionmobility.png" style="object-fit: scale-down; max-width: 100%;
@@ -90,9 +86,7 @@ description: ""
           <small>Ion Mobility is a mobility solutions startup that develops and manufactures electric motorcycles.</small>
       </div>
   </div>
- </div>
- <div class="row">
-  <div class="sgds-card uss is-12-mobile is-6-desktop col">
+  <div class="sgds-card uss is-12-mobile is-6-desktop col" style="flex: 0 1 50%;">
     <div class="sgds-card-image" style="margin-top: 15px">
         <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
               <img src="/images/moovita.png" style="object-fit: scale-down; max-width: 100%;
@@ -104,7 +98,7 @@ description: ""
           <small>MooVita specialises in designing and deploying roadworthy autonomous vehicles in urban cities worldwide, and is developing a component-based driverless software solution.</small>
       </div>
   </div>
-  <div class="sgds-card agfood is-12-mobile is-6-desktop col">
+  <div class="sgds-card agfood is-12-mobile is-6-desktop col" style="flex: 0 1 50%;">
     <div class="sgds-card-image" style="margin-top: 15px">
         <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
               <img src="/images/mycovation.png" style="object-fit: scale-down; max-width: 100%;
@@ -116,9 +110,7 @@ description: ""
           <small>Mycovation is a biomass fermentation technology company developing customized mycelium-derived ingredients for the alternative protein, dairy, beverage and other important segments of the food industry.</small>
       </div>
   </div>
- </div>
- <div class="row">
-  <div class="sgds-card ame is-12-mobile is-6-desktop col">
+  <div class="sgds-card ame is-12-mobile is-6-desktop col" style="flex: 0 1 50%;">
     <div class="sgds-card-image" style="margin-top: 15px">
         <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
               <img src="/images/myrlabs.png" style="object-fit: scale-down; max-width: 100%;
@@ -130,7 +122,7 @@ description: ""
           <small>Myrmidon Laboratories is an A*STAR spin-off that creates cutting edge hardware and algorithms for robots to deliver next-generation robot solutions. </small>
       </div>
   </div>
-  <div class="sgds-card sde is-12-mobile is-6-desktop col">
+  <div class="sgds-card sde is-12-mobile is-6-desktop col" style="flex: 0 1 50%;">
     <div class="sgds-card-image" style="margin-top: 15px">
         <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
               <img src="/images/sentient.png" style="object-fit: scale-down; max-width: 100%;
@@ -142,9 +134,7 @@ description: ""
           <small>Sentient.io is an AI-as-a-service platform that helps enterprises build AI capabilities easily and quickly.</small>
       </div>
   </div>
- </div>
- <div class="row">
-  <div class="sgds-card ame is-12-mobile is-6-desktop col">
+  <div class="sgds-card ame is-12-mobile is-6-desktop col" style="flex: 0 1 50%;">
     <div class="sgds-card-image" style="margin-top: 15px">
         <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
               <img src="/images/spaceagelabs.png" style="object-fit: scale-down; max-width: 100%;
@@ -156,7 +146,7 @@ description: ""
           <small>Space Age Labs develops full stack IoT, AI and ML solutions for the digitalisation of urban water, wastewater and landscape verticals.</small>
       </div>
   </div>
-  <div class="sgds-card sde is-12-mobile is-6-desktop col">
+  <div class="sgds-card sde is-12-mobile is-6-desktop col" style="flex: 0 1 50%;">
     <div class="sgds-card-image" style="margin-top: 15px">
         <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
               <img src="/images/styletheory.png" style="object-fit: scale-down; max-width: 100%;
@@ -168,9 +158,7 @@ description: ""
           <small>Style Theory is Southeast Asia’s largest circular fashion platform, offering rental subscription and designer resale in Singapore, Hong Kong and Indonesia.</small>
       </div>
   </div>
- </div>
- <div class="row">
-  <div class="sgds-card uss is-12-mobile is-6-desktop col">
+  <div class="sgds-card uss is-12-mobile is-6-desktop col" style="flex: 0 1 50%;">
     <div class="sgds-card-image" style="margin-top: 15px">
         <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
               <img src="/images/thirdwavepower.png" style="object-fit: scale-down; max-width: 100%;
@@ -182,7 +170,7 @@ description: ""
           <small>Third Wave Power is a solar energy solution provider that designs, manufactures, and markets a range of solar home systems, primarily to off-grid rural consumers.</small>
       </div>
   </div>
-  <div class="sgds-card uss is-12-mobile is-6-desktop col">
+  <div class="sgds-card uss is-12-mobile is-6-desktop col" style="flex: 0 1 50%;">
     <div class="sgds-card-image" style="margin-top: 15px">
         <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
               <img src="/images/vflowtech.png" style="object-fit: scale-down; max-width: 100%;
@@ -194,9 +182,7 @@ description: ""
           <small>VFlowTech has developed Vanadium-based long-duration energy storage solutions that have a long lifespan and are inherently safer and can support multiple applications.</small>
       </div>
   </div>
- </div>
-<div class="row">
-  <div class="sgds-card uss is-12-mobile is-6-desktop col">
+  <div class="sgds-card uss is-12-mobile is-6-desktop col" style="flex: 0 1 50%;">
     <div class="sgds-card-image" style="margin-top: 15px">
         <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
               <img src="/images/hubble.png" style="object-fit: scale-down; max-width: 100%;
@@ -209,7 +195,7 @@ description: ""
       </div>
   </div>
   <div class="sgds-card">
-    <div class="sgds-card-image sde is-12-mobile is-6-desktop col" style="margin-top: 15px">
+    <div class="sgds-card-image sde is-12-mobile is-6-desktop col" style="flex: 0 1 50%;">
         <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
               <img src="/images/respiree.png" style="object-fit: scale-down; max-width: 100%;
     max-height: 100%;"/>
