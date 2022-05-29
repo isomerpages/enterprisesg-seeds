@@ -5,7 +5,7 @@ description: ""
 ---
 <link rel="stylesheet" href="/sgds.css"/>
 <label for="partner-choice">Industry:</label>
-<select name="partner-choice" id="coy-choice">
+<select name="partner-choice" id="partner-choice">
   <option value="all">All</option>
   <option value="hbms">Health & Biomedical Science</option>
   <option value="uss">Urban Solutions & Sustainability</option>
