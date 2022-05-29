@@ -2,6 +2,6 @@ collections:
   our-co-investors:
     output: true
     order:
-      - List Of Investors (Card).md
       - Investment Criteria.md
+      - List Of Investors (Card).md
       - List Of Investors.md
