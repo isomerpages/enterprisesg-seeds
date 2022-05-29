@@ -1,4 +1,4 @@
-document.getElementById('cars').addEventListener('change', function() {
+document.getElementById('coy-choice').addEventListener('change', function() {
   console.log('You selected: ', this.value);
   document.querySelectorAll("div.sgds-card").forEach(function(el) {
     el.style.display = "block";
