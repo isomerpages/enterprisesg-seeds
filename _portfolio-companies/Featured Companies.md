@@ -13,7 +13,7 @@ description: ""
   <option value="agfood">Agritech & Foodtech</option>
   <option value="sde">SDE</option>
 </select>
-<div class="row">
+<div class="row" style="flex-wrap: wrap">
   <div class="sgds-card hbms is-12-mobile is-6-desktop col" style="flex: 0 1 50%;">
       <div class="sgds-card-image" style="margin-top: 15px">
           <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
