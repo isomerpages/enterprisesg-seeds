@@ -194,8 +194,8 @@ description: ""
           <small>Hubble has a full suite of B2B enterprise SaaS solutions covering workforce, safety, quality, and pre-fabrication management for the construction industry.</small>
       </div>
   </div>
-  <div class="sgds-card">
-    <div class="sgds-card-image sde is-12-mobile is-6-desktop col" style="flex: 0 1 40%;">
+  <div class="sgds-card hbms is-12-mobile is-6-desktop col" style="flex: 0 1 40%;">
+    <div class="sgds-card-image sde is-12-mobile is-6-desktop col" >
         <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
               <img src="/images/respiree.png" style="object-fit: scale-down; max-width: 100%;
     max-height: 100%;"/>
