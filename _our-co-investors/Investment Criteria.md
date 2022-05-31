@@ -22,7 +22,7 @@ We prefer working and co-investing with our appointed partners as they are strat
 Startups that work with these appointed partners **increase the chances that we will see potential in your startup early on**, or quickly determine whether we are the right investor for you. Our list of appointed partners can be found [here](/our-co-investors/list-of-investors). 
 
 #### **3. Contact our appointed co-investment partners directly**<br>
-Companies should apply directly to our [appointed partners] (/our-co-investors/list-of-investors) to assess their investment case. Our appointed partners will submit the prospective co-investment to SEEDS Capital for further evaluation.
+Companies should apply directly to our appointed partners to assess their investment case. Our appointed partners will submit the prospective co-investment to SEEDS Capital for further evaluation.
 
 #### **4. Submit an application to us if you prefer working with a non-appointed partner**
 
