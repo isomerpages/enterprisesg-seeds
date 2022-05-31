@@ -10,7 +10,7 @@ If your startup is ready to raise capital and draw interest from [our co-investm
 #### **1. Check if your startup will fulfil the following criteria:** <br/><br/>
 * A Singapore-based company with core activities carried out here
 * Startup should not be a subsidiary or joint-venture
-* Incorporated as a private limited company for less than five years
+* Incorporated as a private limited company for less than ten years
 * Paid-up capital of at least S$50,000
 * Must not be involved in the following business activities: gambling, tobacco-related products, or any other activities which are in violation of law, or against public interest.
 * Prove substantial innovative and intellectual content for its products and/or services and applications
