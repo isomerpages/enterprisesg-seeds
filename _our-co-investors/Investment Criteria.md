@@ -32,4 +32,4 @@ Your non-appointed partner can submit an application to SEEDS Capital at seeds@e
 	- Business plan of your startup
 	- Financial statements or management accounts of your startup
 	- Business ACRA of your startup
-	- Background information of your non-appointed, co-investment partner 
+	- Background information of your non-appointed, co-investment partner
