@@ -3,7 +3,7 @@ title: Team
 permalink: /about-us/team
 description: ""
 ---
-<h2><strong>Board Members</strong></h2>
+<h2><strong>Board Members (pending approval)</strong></h2>
 <img src="/images/markhon.png" style="width: 200px; margin-left: 0">
 **Mark Hon**\
 Chairman & Founder\
