@@ -45,4 +45,4 @@ Investment Associate\
 <img src="/images/miaowenlim.jpg" style="width: 200px; margin-left: 0">
 **Miao Wen Lim**\
 Investment Associate\
-<img src="/images/linkedin.png" style="width: 20px;margin-left: 0; display: inline"> [LinkedIn](https://www.linkedin.com/in/miao-wen-lim-1a7986192/)
+<img src="/images/linkedin.png" style="width: 20px;margin-left: 0; display: inline"> [LinkedIn](https://www.linkedin.com/in/miao-wen-lim-1a7986192/){:target="_blank"}
