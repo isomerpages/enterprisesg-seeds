@@ -4,6 +4,12 @@ permalink: /about-us/team
 description: ""
 ---
 <h2><strong>Board Members</strong></h2>
+<img src="/images/markhon.jpg" style="width: 200px; margin-left: 0">
+**Mark Hon**\
+Chairman & Founder\
+Sugar Ventures\
+<img src="/images/linkedin.png" style="width: 20px;margin-left: 0; display: inline"> [LinkedIn](https://sg.linkedin.com/in/mark-hon-00835412){:target="_blank"}
+<br><br>
 
 <h2><strong>Management Team</strong></h2>
 <img src="/images/kaixin-tan.png" style="width: 200px; margin-left: 0">
