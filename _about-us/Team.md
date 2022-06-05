@@ -22,3 +22,12 @@ Deputy General Manager\
 <img src="/images/linkedin.png" style="width: 20px;margin-left: 0; display: inline"> [LinkedIn](https://www.linkedin.com/in/derek-neo-a5183231)
 
 <h2><strong>Team Members</strong></h2>
+<img src="/images/siminang.jpg" style="width: 200px; margin-left: 0">
+**Si Min Ang**\
+Senior Investment Manager\
+<img src="/images/linkedin.png" style="width: 20px;margin-left: 0; display: inline"> [LinkedIn](https://www.linkedin.com/in/si-min-ang-14122453)
+<br><br>
+<img src="/images/clewynp.jpg" style="width: 200px; margin-left: 0">
+**Clewyn P**\
+Senior Investment Associate\
+<img src="/images/linkedin.png" style="width: 20px;margin-left: 0; display: inline"> [LinkedIn](https://www.linkedin.com/in/derek-neo-a5183231)
