@@ -38,6 +38,13 @@ Investment Manager\
 <img src="/images/linkedin.png" style="width: 20px;margin-left: 0; display: inline"> [LinkedIn](https://www.linkedin.com/in/clementckw/){:target="_blank"}
 <br><br>
 <img src="/images/pangxuebin.jpg" style="width: 200px; margin-left: 0">
+<br><br>
+<img src="/images/desiree.jpg" style="width: 200px; margin-left: 0">
+**Desiree Lim**\
+Senior Investment Manager\
+<img src="/images/linkedin.png" style="width: 20px;margin-left: 0; display: inline"> [LinkedIn](https://www.linkedin.com/in/dslim/){:target="_blank"}
+<br><br>
+<img src="/images/pangxuebin.jpg" style="width: 200px; margin-left: 0">
 **Pang Xue Bin**\
 Investment Associate\
 <img src="/images/linkedin.png" style="width: 20px;margin-left: 0; display: inline"> [LinkedIn](https://www.linkedin.com/in/pang-xue-bin-203120154/){:target="_blank"}
