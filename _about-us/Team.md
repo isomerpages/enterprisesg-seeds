@@ -28,7 +28,7 @@ Senior Investment Manager\
 <img src="/images/linkedin.png" style="width: 20px;margin-left: 0; display: inline"> [LinkedIn](https://www.linkedin.com/in/si-min-ang-14122453){:target="_blank"}
 <br><br>
 <img src="/images/clewynp.jpg" style="width: 200px; margin-left: 0">
-**Clewyn P**\
+**Clewyn Puah**\
 Senior Investment Associate\
 <img src="/images/linkedin.png" style="width: 20px;margin-left: 0; display: inline"> [LinkedIn](https://www.linkedin.com/in/clewyn/){:target="_blank"}
 <br><br>
@@ -36,8 +36,6 @@ Senior Investment Associate\
 **Clement Chua**\
 Investment Manager\
 <img src="/images/linkedin.png" style="width: 20px;margin-left: 0; display: inline"> [LinkedIn](https://www.linkedin.com/in/clementckw/){:target="_blank"}
-<br><br>
-<img src="/images/pangxuebin.jpg" style="width: 200px; margin-left: 0">
 <br><br>
 <img src="/images/desiree.jpg" style="width: 200px; margin-left: 0">
 **Desiree Lim**\
