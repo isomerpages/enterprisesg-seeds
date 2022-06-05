@@ -23,11 +23,26 @@ Deputy General Manager\
 
 <h2><strong>Team Members</strong></h2>
 <img src="/images/siminang.jpg" style="width: 200px; margin-left: 0">
-**Si Min Ang**\
+**Ang Si Min**\
 Senior Investment Manager\
 <img src="/images/linkedin.png" style="width: 20px;margin-left: 0; display: inline"> [LinkedIn](https://www.linkedin.com/in/si-min-ang-14122453)
 <br><br>
 <img src="/images/clewynp.jpg" style="width: 200px; margin-left: 0">
 **Clewyn P**\
 Senior Investment Associate\
-<img src="/images/linkedin.png" style="width: 20px;margin-left: 0; display: inline"> [LinkedIn](https://www.linkedin.com/in/derek-neo-a5183231)
+<img src="/images/linkedin.png" style="width: 20px;margin-left: 0; display: inline"> [LinkedIn](https://www.linkedin.com/in/clewyn/)
+<br><br>
+<img src="/images/clementchua.jpg" style="width: 200px; margin-left: 0">
+**Clement Chua**\
+Investment Manager\
+<img src="/images/linkedin.png" style="width: 20px;margin-left: 0; display: inline"> [LinkedIn](https://www.linkedin.com/in/clementckw/)
+<br><br>
+<img src="/images/pangxuebin.jpg" style="width: 200px; margin-left: 0">
+**Pang Xue Bin**\
+Investment Associate\
+<img src="/images/linkedin.png" style="width: 20px;margin-left: 0; display: inline"> [LinkedIn](https://www.linkedin.com/in/pang-xue-bin-203120154/)
+<br><br>
+<img src="/images/miaowenlim.jpg" style="width: 200px; margin-left: 0">
+**Miao Wen Lim**\
+Investment Associate\
+<img src="/images/linkedin.png" style="width: 20px;margin-left: 0; display: inline"> [LinkedIn](https://www.linkedin.com/in/miao-wen-lim-1a7986192/)
