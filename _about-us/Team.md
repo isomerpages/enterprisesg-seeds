@@ -4,13 +4,13 @@ permalink: /about-us/team
 description: ""
 ---
 <h2><strong>Board Members (pending approval)</strong></h2>
-<img src="/images/markhon.png" style="width: 200px; margin-left: 0">
+<img src="/images/markhon.png" style="width: 200px; margin-left: 0; filter: grayscale(100%);">
 **Mark Hon**\
 Chairman & Founder\
 Sugar Ventures\
 <img src="/images/linkedin.png" style="width: 20px;margin-left: 0; display: inline"> [LinkedIn](https://sg.linkedin.com/in/mark-hon-00835412){:target="_blank"}
 <br><br>
-<img src="/images/chiewyusarn.jpg" style="width: 200px; margin-left: 0">
+<img src="/images/chiewyusarn.jpg" style="width: 200px; margin-left: 0; filter: grayscale(100%);">
 **Chiew Yu Sarn**\
 Co-Managing Partner\
 Yusarn Audrey\
