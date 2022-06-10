@@ -2,6 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Board Members and Investment Panel.md
       - Our Fund Mandate.md
+      - Board Members and Investment Panel.md
       - SEEDS Capital Team.md
