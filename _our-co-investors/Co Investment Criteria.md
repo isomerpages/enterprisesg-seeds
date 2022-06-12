@@ -3,7 +3,6 @@ title: Co Investment Criteria
 permalink: /our-co-investors/coinvestment-criteria
 description: ""
 ---
-
 Through co-investments, we support the growth of innovative startups with strong intellectual content and global market potential.
 
 If your startup is ready to raise capital and draw interest from [our co-investment partners](/our-co-investors/list-of-investors), here are 3 steps you can take to determine your eligibility :
@@ -28,7 +27,7 @@ Companies should apply directly to our appointed partners to assess their invest
 #### **4. Request your co-investment partner to submit an application to us if you prefer working with a non-appointed partner**
 
 Your non-appointed partner can submit an application to SEEDS Capital at seeds@enterprisesg.gov.sg, with the following documents:
-* A two-page executive summary of your startip
+* A two-page executive summary of your startup
 * Supporting documents for a first-level assessment would include:
 	- Business plan of your startup
 	- Financial statements or management accounts of your startup
