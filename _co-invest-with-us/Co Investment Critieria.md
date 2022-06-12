@@ -5,13 +5,13 @@ description: ""
 ---
 As our aim is to catalyse private sector investments in eligible Singapore-based startups, you will be assessed based on your alignment to the Startup SG Equity co-investment scheme objectives and the ability to value-add to startups.
 
-### (i) Appointed partners
+#### (i) Appointed partners
 
 We will publicly release information on the next call for new co-investment partner applications. You will be evaluated on multiple criteria, including a strong management team, experience or track record in the relevant domains and ability to value-add to startups in specific emerging industry(s).  
   
 Find out more about our appointed partners [here](https://www.enterprisesg.gov.sg/financial-assistance/investments/investments/seeds-capital/partners). Interested investors may contact us at [seeds@enterprisesg.gov.sg](mailto:seeds@enterprisesg.gov.sg).
 
-### (ii) For all other third-party co-investors
+#### (ii) For all other third-party co-investors
 
 Interested co-investors should provide the following information:
 
