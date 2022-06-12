@@ -27,9 +27,18 @@ Companies should apply directly to our appointed partners to assess their invest
 #### **4. Request your co-investment partner to submit an application to us if you prefer working with a non-appointed partner**
 
 Your non-appointed partner can submit an application to SEEDS Capital at seeds@enterprisesg.gov.sg, with the following documents:
-* A two-page executive summary of your startup
-* Supporting documents for a first-level assessment would include:
-	- Business plan of your startup
-	- Financial statements or management accounts of your startup
-	- Business ACRA of your startup
-	- Background information of your non-appointed, co-investment partner
+
+**Background information of the co-investor**
+
+*   Ability to contribute to the startup’s growth strategies
+*   Management experience, relevant business contacts and/or necessary technical expertise that can value-add to the startup
+*   Proposed investment quantum
+*   Demonstrate independence and hold no prior interest (e.g. not hold shares in the investee prior to the co-investment for new investments)
+
+**Background information of the startup**
+
+*   A two-page executive summary of your startip
+*   Supporting documents for a first-level assessment would include:
+    *   Business plan of your startup
+    *   Financial statements or management accounts of your startup
+    *   Business ACRA of your startup
