@@ -3,25 +3,22 @@ title: Co Investment Critieria
 permalink: /co-invest-with-us/co-investment-criteria
 description: ""
 ---
-One of SEEDS Capital's objective is to encourage more private sector investments in nascent sectors.
+One of SEEDS Capital's objective is to encourage more private sector investments in nascent sectors. We work towards this objective by co-investing with institutional investors in the private sector to help de-risk their investments.   
 
-We work towards this objective by co-investing with institutional investors in the private sector to help de-risk their investments.   
-
-To achieve this objective, we are stringent on the co-investors that we would like to work with. This includes your alignment to the Startup SG Equity co-investment scheme objectives and the ability to value-add to startups.
+We are stringent on the co-investors that we would like to work with. This includes your alignment to the Startup SG Equity co-investment scheme objectives and the ability to value-add to startups.
 
 If you are an institutional investor looking for a co-investor, there are two ways to partner with us:
 
-#### (i) To be appointed as a co-investment partner
-
+#### **1. To be appointed as a co-investment partner** <br/>
 We prefer working and co-investing with our appointed partners as they are strategic, private sector investors that has been evaluated on multiple and stringent criteria. 
 
-Deals done with our appointed partners have a higher chance of passing our investment panel and form a majority of the deals that we have made to date. 
+Deals done with our appointed partners **have a higher chance of passing our investment panel and form a majority of the deals that we have made to date.** 
 
 We will publicly release information on the next call for new co-investment partner applications. You will be evaluated on multiple criteria, including a strong management team, experience or track record in the relevant domains and ability to value-add to startups in specific emerging industry(s).  
   
 Find out more about our appointed partners [here](/our-co-investors/list-of-investors). Interested investors may contact us at [seeds@enterprisesg.gov.sg](mailto:seeds@enterprisesg.gov.sg).
 
-#### (ii) Co-investing an a non-appointed partner
+#### **2. Co-investing an a non-appointed partner**
 
 A non-appointed partner can submit an application to SEEDS Capital at [seeds@enterprisesg.gov.sg](mailto:seeds@enterprisesg.gov.sg), with the following documents:
 
