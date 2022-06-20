@@ -13,6 +13,8 @@ We invest in early stage, Singapore-based startups. They are innovative startups
 
 We focus on startups in nascent and strategic industries with future potential such as Advanced Manufacturing & Engineering (AME), Health & Biomedical Sciences (HBMS), and Urban Solutions & Sustainability (USS). We also look at other emerging technologies such as Agri-tech, Artificial Intelligence, Blockchain, Quantum Computing and Space Technologies. 
 
+As one of the entities appointed to manage funds under Startup SG Equity, we invest in startups with the following criteria:
+
 **Investment Caps and Ratios**
 
 |  | **General tech**  | **Deep tech** |
@@ -20,4 +22,9 @@ We focus on startups in nascent and strategic industries with future potential s
 | **Investment cap for each startup**     | S$2M from SEEDS Capital    | S$8M from SEEDS Capital     |
 | **Co-investment ratio (SEEDS Capital: co-investor)** | 7:3 up to the first S$250K from SEEDS Capital; 1:1 thereafter, up to S$2M   | 7:3 up to the first S$500K from SEEDS Capital; 1:1 thereafter, up to S$4M; 3:7 thereafter, up to S$8M    |
 
+**Our co-investment approaches**\
+We co-invest through two approaches:
+- With appointed co-investment partners
+- With other non-appointed co-investors into startups
 
+Find out more [here](/co-invest-with-us/co-investment-criteria). 
