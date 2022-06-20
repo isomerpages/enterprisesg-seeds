@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Featured Companies.md
-      - Success Stories/Company A.md
       - Success Stories/.keep
