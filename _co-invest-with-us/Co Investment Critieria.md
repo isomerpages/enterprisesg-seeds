@@ -5,7 +5,7 @@ description: ""
 ---
 One of SEEDS Capital's objective is to encourage more private sector investments in nascent sectors. We work towards this objective by co-investing with institutional investors in the private sector to help de-risk their investments.   
 
-We are stringent on the co-investors that we would like to work with. This includes your alignment to the Startup SG Equity co-investment scheme objectives and the ability to value-add to startups.
+As a potential co-investor, you will be assessed, among other things, based on your alignment to the Startup SG Equity co-investment scheme objectives and the ability to value-add to startups.
 
 If you are an institutional investor looking for a co-investor, there are two ways to partner with us:
 
