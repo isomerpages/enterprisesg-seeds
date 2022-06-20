@@ -3,7 +3,7 @@ title: Our Fund Mandate
 permalink: /about-us/our-fund-mandate
 description: ""
 ---
-As the investment arm of Enterprise Singapore, SEEDS Capital seeks to catalyse smart monies into Singapore-based, early-stage technology startups. 
+As the investment arm of Enterprise Singapore and as one of the entities appointed to manage funds under Startup SG Equity, SEEDS Capital seeks to catalyse smart monies into Singapore-based, early-stage technology startups. 
 
 **Our Investment Model**\
 We co-invest with strategic, private sector investors. Our partner investors are institutional investors such as venture capital firms and investment arms of corporates.
@@ -13,9 +13,9 @@ We invest in early stage, Singapore-based startups. They are innovative startups
 
 We focus on startups in nascent and strategic industries with future potential such as Advanced Manufacturing & Engineering (AME), Health & Biomedical Sciences (HBMS), and Urban Solutions & Sustainability (USS). We also look at other emerging technologies such as Agri-tech, Artificial Intelligence, Blockchain, Quantum Computing and Space Technologies. 
 
-As one of the entities appointed to manage funds under Startup SG Equity, we invest in startups with the following criteria:
+**Investment Caps and Ratios**\
+We co-invest in startups with the following criteria:
 
-**Investment Caps and Ratios**
 
 |  | **General tech**  | **Deep tech** |
 | -------- | -------- | -------- |
@@ -27,4 +27,4 @@ We co-invest through two approaches:
 - With appointed co-investment partners
 - With other non-appointed co-investors into startups
 
-Find out more [here](/co-invest-with-us/co-investment-criteria). 
+Find out more [here](/co-invest-with-us/co-investment-criteria).
