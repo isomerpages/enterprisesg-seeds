@@ -8,5 +8,7 @@ links:
     collection: co-invest-with-us
   - title: Meet Our Portfolio Companies
     collection: portfolio-companies
+  - title: News
+    collection: news
   - title: Contact Us
     url: /contact-us/
