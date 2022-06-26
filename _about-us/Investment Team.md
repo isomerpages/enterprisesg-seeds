@@ -3,9 +3,7 @@ title: Investment Team
 permalink: /about-us/investment-team
 description: ""
 ---
-
-
-<h2><strong>Management Team</strong></h2>
+<h2><strong>Investment Team</strong></h2>
 <img src="/images/kaixin-tan.png" style="width: 200px; margin-left: 0; filter:grayscale(1);">
 **Kaixin Tan**\
 General Manager\
@@ -20,8 +18,7 @@ Deputy General Manager\
 **Derek Neo**\
 Deputy General Manager\
 <img src="/images/linkedin.png" style="width: 20px;margin-left: 0; display: inline;"> [LinkedIn](https://www.linkedin.com/in/derek-neo-a5183231){:target="_blank"}
-
-<h2><strong>Team Members</strong></h2>
+<br><br>
 <img src="/images/siminang.jpg" style="width: 200px; margin-left: 0;filter:grayscale(1);">
 **Ang Si Min**\
 Senior Investment Manager\
