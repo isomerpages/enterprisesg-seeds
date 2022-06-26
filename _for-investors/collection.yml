@@ -1,5 +1,5 @@
 collections:
-  co-invest-with-us:
+  for-investors:
     output: true
     order:
       - Reasons to invest with SEEDS Capital.md
