@@ -2,6 +2,6 @@ collections:
   for-startups:
     output: true
     order:
-      - Co Investment Criteria.md
+      - How We Invest.md
       - List Of Investors (Card).md
       - List Of Investors.md
