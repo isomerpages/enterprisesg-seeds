@@ -1,5 +1,5 @@
 collections:
-  our-co-investors:
+  for-startups:
     output: true
     order:
       - Co Investment Criteria.md
