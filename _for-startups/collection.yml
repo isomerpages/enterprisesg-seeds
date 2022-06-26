@@ -2,6 +2,7 @@ collections:
   for-startups:
     output: true
     order:
+      - Hear From Our Companies.md
       - How We Invest.md
       - List Of Investors (Card).md
       - List Of Investors.md
