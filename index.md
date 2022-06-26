@@ -15,9 +15,9 @@ sections:
         title: Are you a startup/investor?
         options:
           - title: I am a startup
-            url: /our-co-investors/investment-criteria
+            url: /for-startups/how-we-invest
           - title: I am an investor
-            url: /co-invest-with-us/reason-to-invest-with-seeds
+            url: /for-investors/co-investing-with-us
   - infobar:
       description: <div class="row bp-container is-centered justify-content-between
         padding--bottom"><div class="col force-half has-text-left"><div><img
@@ -70,4 +70,3 @@ sections:
       subtitle: Learn more
       button: View More
 ---
-
