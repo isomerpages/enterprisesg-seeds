@@ -3,7 +3,7 @@ title: Board Of Directors
 permalink: /about-us/board-of-directors
 description: ""
 ---
-<h2><strong>Board Members (pending approval)</strong></h2>
+<h2><strong>Board Of Directors (pending approval)</strong></h2>
 <img src="/images/markhon.png" style="width: 200px; margin-left: 0; filter:grayscale(1);">
 **Mark Hon**\
 Chairman & Founder\
