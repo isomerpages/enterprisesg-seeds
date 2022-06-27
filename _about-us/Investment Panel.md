@@ -34,7 +34,6 @@ description: ""
                 <div class="sgds-card-content">
                     <p><strong>Carmen Yuen</strong></p>
                     <small>Partner</small>
-            
                     <small>Vertex Venture</small>
                     <div class="d-flex">
                     <div><img src="/images/linkedin.png" style="width: 20px;margin-left: 0; display: inline;"></div>
