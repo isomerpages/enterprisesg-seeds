@@ -45,7 +45,6 @@ description: ""
             </div>
         </div>
     </div>
-
     <div class="sgds-card col" style="flex: 1 1 47%; margin: 10px">
         <div class="sgds-card-image" style="margin-top: 15px; padding-left: 1.5rem;">
             <figure class="sgds-image"
