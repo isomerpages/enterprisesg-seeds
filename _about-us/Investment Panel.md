@@ -39,8 +39,8 @@ description: ""
             <small>Partner</small><br>
             <small>Vertex Venture</small>
             <div style="display: flex;">
-                <div style="display: flex;"><img src="/images/linkedin.png"
-                        style="width: 20px;margin-left: 0; display: inline; margin-right: 10px;"></div>
+                <img src="/images/linkedin.png"
+                        style="width: 20px;margin-left: 0; display: inline; margin-right: 10px;">
                 <a href="https://www.linkedin.com/in/yuencarmen" target="_blank"><small>LinkedIn</small></a>
             </div>
         </div>
