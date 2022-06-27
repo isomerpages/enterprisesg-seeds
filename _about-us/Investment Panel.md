@@ -23,6 +23,7 @@ description: ""
                 </p>
             </div>
         </div>
+    </div>
         <div class="sgds-card col" style="flex: 1 1 47%; margin: 10px">
             <div class="sgds-card-image" style="margin-top: 15px">
                 <figure class="sgds-image"
