@@ -9,7 +9,8 @@ description: ""
         <div class="sgds-card-image" style="margin-top: 15px; padding-left: 1.5rem;">
             <figure class="sgds-image"
                 style="height: 200px;display: flex;justify-content: center;flex-direction: column;">
-                <img src="/images/wonglinhong.jpg" style="width: 200px; margin-left: 0; filter:grayscale(1);">
+                <img src="/images/wonglinhong.jpg" style="width: 200px; margin-left: 0; filter:grayscale(1);object-fit: scale-down; max-width: 100%;
+                max-height: 100%;">
             </figure>
         </div>
         <div class="sgds-card-content">
@@ -28,7 +29,8 @@ description: ""
             <div class="sgds-card-image" style="margin-top: 15px; padding-left: 1.5rem;">
                 <figure class="sgds-image"
                     style="height: 200px;display: flex;justify-content: center;flex-direction: column;">
-                    <img src="/images/carmenyuen.jpg" style="width: 200px; margin-left: 0; filter:grayscale(1);">
+                    <img src="/images/carmenyuen.jpg" style="width: 200px; margin-left: 0; filter:grayscale(1);object-fit: scale-down; max-width: 100%;
+                    max-height: 100%;">
                 </figure>
             </div>
                 <div class="sgds-card-content">
