@@ -30,14 +30,14 @@ description: ""
                     <img src="/images/carmenyuen.jpg" style="width: 200px; margin-left: 0; filter:grayscale(1);">
                 </figure>
                 <div class="sgds-card-content">
-                    <p><strong>Carmen Yuen**</strong></p>
+                    <p><strong>Carmen Yuen</strong></p>
                     <small>Partner</small>
-            
                     <small>Vertex Venture</small>
                     <div class="d-flex">
                     <div><img src="/images/linkedin.png" style="width: 20px;margin-left: 0; display: inline;"></div>
                         <a href="https://www.linkedin.com/in/yuencarmen" target="_blank"><small>LinkedIn</small></a>
                     </div>
+                </div>
             </div>
             <div class="sgds-card hbms col" style="flex: 1 1 47%; margin: 10px">
                 <img src="/images/saurav.jpg" style="width: 200px; margin-left: 0; filter:grayscale(1);">
