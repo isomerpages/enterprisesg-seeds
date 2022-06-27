@@ -3,19 +3,18 @@ title: Investment Panel
 permalink: /about-us/investment-panel
 description: ""
 ---
-<link rel="stylesheet" href="/sgds.css"/>
 <h2><strong>Investment Panel</strong></h2>
 <div style="display: flex; flex-wrap: wrap; padding: 10px">
     <div class="sgds-card col" style="flex: 1 1 47%; margin: 10px">
-        <div class="sgds-card-image" style="margin-top: 15px">
+        <div class="sgds-card-image" style="margin-top: 15px; padding-left: 1.5rem;">
             <figure class="sgds-image"
-                style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
+                style="height: 200px;display: flex;justify-content: center;flex-direction: column;">
                 <img src="/images/wonglinhong.jpg" style="width: 200px; margin-left: 0; filter:grayscale(1);">
             </figure>
         </div>
         <div class="sgds-card-content">
             <p><strong>Wong Lin Hong</strong></p>
-                <small>Managing Director</small>
+                <small>Managing Director</small><br>
                 <small>Wingz Capital</small>
             <div class="d-flex">
                 <p>
@@ -26,18 +25,18 @@ description: ""
         </div>
     </div>
         <div class="sgds-card col" style="flex: 1 1 47%; margin: 10px">
-            <div class="sgds-card-image" style="margin-top: 15px">
+            <div class="sgds-card-image" style="margin-top: 15px; padding-left: 1.5rem;">
                 <figure class="sgds-image"
-                    style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
+                    style="height: 200px;display: flex;justify-content: center;flex-direction: column;">
                     <img src="/images/carmenyuen.jpg" style="width: 200px; margin-left: 0; filter:grayscale(1);">
                 </figure>
             </div>
                 <div class="sgds-card-content">
                     <p><strong>Carmen Yuen</strong></p>
-                    <small>Partner</small>
+                    <small>Partner</small><br>
                     <small>Vertex Venture</small>
-                    <div class="d-flex">
-                    <div><img src="/images/linkedin.png" style="width: 20px;margin-left: 0; display: inline;"></div>
+                    <div style="display: flex;">
+                    <div><img src="/images/linkedin.png" style="width: 20px;margin-left: 0; display: inline; margin-right: 10px;"></div>
                         <a href="https://www.linkedin.com/in/yuencarmen" target="_blank"><small>LinkedIn</small></a>
                     </div>
             </div>
