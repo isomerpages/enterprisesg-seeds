@@ -3,6 +3,7 @@ title: Investment Panel
 permalink: /about-us/investment-panel
 description: ""
 ---
+<link rel="stylesheet" href="/sgds.css"/>
 <h2><strong>Investment Panel</strong></h2>
 <div style="display: flex; flex-wrap: wrap; padding: 10px">
     <div class="sgds-card col" style="flex: 1 1 47%; margin: 10px">
