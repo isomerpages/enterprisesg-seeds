@@ -34,3 +34,8 @@ Co-Founder, Quantum Inventions\
 CEO, Proxtera\
 <img src="/images/linkedin.png" style="width: 20px;margin-left: 0; display: inline;"> [LinkedIn](https://www.linkedin.com/in/sauravbhattacharyya){:target="_blank"}
 <br><br>
+<img src="/images/jeffsiow.jpg" style="width: 200px; margin-left: 0; filter:grayscale(1);">
+**Jeffrey Siow**\
+Managing Director & Chief Operating Officer\
+<img src="/images/linkedin.png" style="width: 20px;margin-left: 0; display: inline;"> [LinkedIn](https://www.linkedin.com/in/jsiow/details/experience/){:target="_blank"}
+<br><br>
