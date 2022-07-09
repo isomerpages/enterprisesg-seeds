@@ -3,8 +3,6 @@ title: List Of Investors
 permalink: /for-startups/list-of-investors
 description: ""
 ---
-
-
 <link rel="stylesheet" href="/sgds.css"/>
 <label for="partner-choice">Industry:</label>
 <select name="partner-choice" id="partner-choice">
@@ -29,7 +27,7 @@ description: ""
         </strong>
       </p>
       <p>
-        <a href="https://www.startupsg.gov.sg/profiles/16997" target="_blank">
+        <a href="https://www.gogrow.co/" target="_blank">
           <small>
             Visit their website
           </small>
@@ -50,7 +48,7 @@ description: ""
         </strong>
       </p>
       <p>
-        <a href="https://www.startupsg.gov.sg/profiles/29502" target="_blank">
+        <a href="https://altaraventures.com/" target="_blank">
           <small>
             Visit their website
           </small>
@@ -71,7 +69,7 @@ description: ""
         </strong>
       </p>
       <p>
-        <a href="https://www.startupsg.gov.sg/profiles/5888" target="_blank">
+        <a href="https://www.august.one/" target="_blank">
           <small>
             Visit their website
           </small>
@@ -92,7 +90,7 @@ description: ""
         </strong>
       </p>
       <p>
-        <a href="https://www.startupsg.gov.sg/profiles/20510" target="_blank">
+        <a href="https://bigideaventures.com/" target="_blank">
           <small>
             Visit their website
           </small>
@@ -113,7 +111,7 @@ description: ""
         </strong>
       </p>
       <p>
-        <a href="https://www.blueincube.com/" target="_blank">
+        <a href="" target="_blank">
           <small>
             Visit their website
           </small>
@@ -134,7 +132,7 @@ description: ""
         </strong>
       </p>
       <p>
-        <a href="https://www.brinc.io/" target="_blank">
+        <a href="" target="_blank">
           <small>
             Visit their website
           </small>
@@ -155,7 +153,7 @@ description: ""
         </strong>
       </p>
       <p>
-        <a href="https://www.startupsg.gov.sg/profiles/5999" target="_blank">
+        <a href="https://www.capitaland.com/international/en/about-capitaland/our-business/c31-ventures/about-c31-ventures.html" target="_blank">
           <small>
             Visit their website
           </small>
@@ -176,7 +174,7 @@ description: ""
         </strong>
       </p>
       <p>
-        <a href="https://www.startupsg.gov.sg/profiles/6004" target="_blank">
+        <a href="http://www.cocooncap.com/" target="_blank">
           <small>
             Visit their website
           </small>
@@ -197,7 +195,7 @@ description: ""
         </strong>
       </p>
       <p>
-        <a href="https://www.cube3ventures.com/" target="_blank">
+        <a href="" target="_blank">
           <small>
             Visit their website
           </small>
@@ -218,7 +216,7 @@ description: ""
         </strong>
       </p>
       <p>
-        <a href="https://www.startupsg.gov.sg/profiles/6011" target="_blank">
+        <a href="https://decacorn.vc/" target="_blank">
           <small>
             Visit their website
           </small>
@@ -239,7 +237,7 @@ description: ""
         </strong>
       </p>
       <p>
-        <a href="https://www.startupsg.gov.sg/profiles/6012" target="_blank">
+        <a href="http://www.dymonasiaventures.com/" target="_blank">
           <small>
             Visit their website
           </small>
@@ -260,7 +258,7 @@ description: ""
         </strong>
       </p>
       <p>
-        <a href="https://www.startupsg.gov.sg/profiles/16737" target="_blank">
+        <a href="https://elev8.vc/" target="_blank">
           <small>
             Visit their website
           </small>
@@ -281,7 +279,7 @@ description: ""
         </strong>
       </p>
       <p>
-        <a href="https://www.startupsg.gov.sg/profiles/24703" target="_blank">
+        <a href="" target="_blank">
           <small>
             Visit their website
           </small>
@@ -302,7 +300,7 @@ description: ""
         </strong>
       </p>
       <p>
-        <a href="https://www.startupsg.gov.sg/profiles/8455" target="_blank">
+        <a href="https://www.joinef.com/" target="_blank">
           <small>
             Visit their website
           </small>
@@ -323,7 +321,7 @@ description: ""
         </strong>
       </p>
       <p>
-        <a href="https://www.startupsg.gov.sg/profiles/6850" target="_blank">
+        <a href="http://www.escoventures.com/" target="_blank">
           <small>
             Visit their website
           </small>
@@ -344,7 +342,7 @@ description: ""
         </strong>
       </p>
       <p>
-        <a href="https://www.startupsg.gov.sg/profiles/6016" target="_blank">
+        <a href="http://www.gobivc.com/" target="_blank">
           <small>
             Visit their website
           </small>
@@ -365,7 +363,7 @@ description: ""
         </strong>
       </p>
       <p>
-        <a href="https://www.startupsg.gov.sg/profiles/6015" target="_blank">
+        <a href="https://www.gmaccelerator.com/" target="_blank">
           <small>
             Visit their website
           </small>
@@ -386,7 +384,7 @@ description: ""
         </strong>
       </p>
       <p>
-        <a href="https://www.startupsg.gov.sg/profiles/20262" target="_blank">
+        <a href="https://www.hatch.blue/" target="_blank">
           <small>
             Visit their website
           </small>
@@ -407,7 +405,7 @@ description: ""
         </strong>
       </p>
       <p>
-        <a href="https://www.startupsg.gov.sg/profiles/6022" target="_blank">
+        <a href="" target="_blank">
           <small>
             Visit their website
           </small>
@@ -428,7 +426,7 @@ description: ""
         </strong>
       </p>
       <p>
-        <a href="https://www.startupsg.gov.sg/profiles/6023" target="_blank">
+        <a href="" target="_blank">
           <small>
             Visit their website
           </small>
@@ -449,7 +447,7 @@ description: ""
         </strong>
       </p>
       <p>
-        <a href="https://www.startupsg.gov.sg/profiles/22216" target="_blank">
+        <a href="" target="_blank">
           <small>
             Visit their website
           </small>
@@ -470,7 +468,7 @@ description: ""
         </strong>
       </p>
       <p>
-        <a href="https://www.startupsg.gov.sg/profiles/6031" target="_blank">
+        <a href="" target="_blank">
           <small>
             Visit their website
           </small>
@@ -491,7 +489,7 @@ description: ""
         </strong>
       </p>
       <p>
-        <a href="https://www.startupsg.gov.sg/profiles/22112" target="_blank">
+        <a href="" target="_blank">
           <small>
             Visit their website
           </small>
@@ -512,7 +510,7 @@ description: ""
         </strong>
       </p>
       <p>
-        <a href="https://www.startupsg.gov.sg/profiles/6026" target="_blank">
+        <a href="" target="_blank">
           <small>
             Visit their website
           </small>
@@ -533,7 +531,7 @@ description: ""
         </strong>
       </p>
       <p>
-        <a href="https://www.startupsg.gov.sg/profiles/22120" target="_blank">
+        <a href="" target="_blank">
           <small>
             Visit their website
           </small>
@@ -554,7 +552,7 @@ description: ""
         </strong>
       </p>
       <p>
-        <a href="https://www.startupsg.gov.sg/profiles/21723" target="_blank">
+        <a href="" target="_blank">
           <small>
             Visit their website
           </small>
@@ -575,7 +573,7 @@ description: ""
         </strong>
       </p>
       <p>
-        <a href="https://www.startupsg.gov.sg/profiles/29169" target="_blank">
+        <a href="" target="_blank">
           <small>
             Visit their website
           </small>
@@ -596,7 +594,7 @@ description: ""
         </strong>
       </p>
       <p>
-        <a href="https://www.startupsg.gov.sg/profiles/6045" target="_blank">
+        <a href="" target="_blank">
           <small>
             Visit their website
           </small>
@@ -617,7 +615,7 @@ description: ""
         </strong>
       </p>
       <p>
-        <a href="https://www.startupsg.gov.sg/profiles/22075" target="_blank">
+        <a href="" target="_blank">
           <small>
             Visit their website
           </small>
@@ -638,7 +636,7 @@ description: ""
         </strong>
       </p>
       <p>
-        <a href="https://www.startupsg.gov.sg/profiles/24705" target="_blank">
+        <a href="" target="_blank">
           <small>
             Visit their website
           </small>
@@ -659,7 +657,7 @@ description: ""
         </strong>
       </p>
       <p>
-        <a href="https://www.startupsg.gov.sg/profiles/6037" target="_blank">
+        <a href="" target="_blank">
           <small>
             Visit their website
           </small>
@@ -680,7 +678,7 @@ description: ""
         </strong>
       </p>
       <p>
-        <a href="https://www.startupsg.gov.sg/profiles/6038" target="_blank">
+        <a href="http://openspace.vc/" target="_blank">
           <small>
             Visit their website
           </small>
@@ -701,7 +699,7 @@ description: ""
         </strong>
       </p>
       <p>
-        <a href="https://www.startupsg.gov.sg/profiles/29200" target="_blank">
+        <a href="" target="_blank">
           <small>
             Visit their website
           </small>
@@ -722,7 +720,7 @@ description: ""
         </strong>
       </p>
       <p>
-        <a href="https://www.philips.com.sg/healthcare/innovation/philips-ventures" target="_blank">
+        <a href="" target="_blank">
           <small>
             Visit their website
           </small>
@@ -743,7 +741,7 @@ description: ""
         </strong>
       </p>
       <p>
-        <a href="https://www.startupsg.gov.sg/profiles/6044" target="_blank">
+        <a href="" target="_blank">
           <small>
             Visit their website
           </small>
@@ -764,7 +762,7 @@ description: ""
         </strong>
       </p>
       <p>
-        <a href="https://www.startupsg.gov.sg/profiles/9790" target="_blank">
+        <a href="" target="_blank">
           <small>
             Visit their website
           </small>
@@ -785,7 +783,7 @@ description: ""
         </strong>
       </p>
       <p>
-        <a href="https://www.startupsg.gov.sg/profiles/21751" target="_blank">
+        <a href="" target="_blank">
           <small>
             Visit their website
           </small>
@@ -806,7 +804,7 @@ description: ""
         </strong>
       </p>
       <p>
-        <a href="https://www.purelandgroup.co/purelandventure" target="_blank">
+        <a href="" target="_blank">
           <small>
             Visit their website
           </small>
@@ -827,7 +825,7 @@ description: ""
         </strong>
       </p>
       <p>
-        <a href="https://www.startupsg.gov.sg/profiles/6049" target="_blank">
+        <a href="" target="_blank">
           <small>
             Visit their website
           </small>
@@ -848,7 +846,7 @@ description: ""
         </strong>
       </p>
       <p>
-        <a href="https://www.startupsg.gov.sg/profiles/23074" target="_blank">
+        <a href="" target="_blank">
           <small>
             Visit their website
           </small>
@@ -869,7 +867,7 @@ description: ""
         </strong>
       </p>
       <p>
-        <a href="https://www.startupsg.gov.sg/profiles/21809" target="_blank">
+        <a href="" target="_blank">
           <small>
             Visit their website
           </small>
@@ -890,7 +888,7 @@ description: ""
         </strong>
       </p>
       <p>
-        <a href="https://www.realtech.holdings/" target="_blank">
+        <a href="" target="_blank">
           <small>
             Visit their website
           </small>
@@ -911,7 +909,7 @@ description: ""
         </strong>
       </p>
       <p>
-        <a href="https://www.startupsg.gov.sg/profiles/29102" target="_blank">
+        <a href="" target="_blank">
           <small>
             Visit their website
           </small>
@@ -932,7 +930,7 @@ description: ""
         </strong>
       </p>
       <p>
-        <a href="https://www.startupsg.gov.sg/profiles/22006" target="_blank">
+        <a href="" target="_blank">
           <small>
             Visit their website
           </small>
@@ -953,7 +951,7 @@ description: ""
         </strong>
       </p>
       <p>
-        <a href="https://www.startupsg.gov.sg/profiles/6062" target="_blank">
+        <a href="" target="_blank">
           <small>
             Visit their website
           </small>
@@ -974,7 +972,7 @@ description: ""
         </strong>
       </p>
       <p>
-        <a href="https://www.startupsg.gov.sg/profiles/21248" target="_blank">
+        <a href="" target="_blank">
           <small>
             Visit their website
           </small>
@@ -995,7 +993,7 @@ description: ""
         </strong>
       </p>
       <p>
-        <a href="https://www.startupsg.gov.sg/profiles/6073" target="_blank">
+        <a href="https://scangels.com.sg/" target="_blank">
           <small>
             Visit their website
           </small>
@@ -1016,7 +1014,7 @@ description: ""
         </strong>
       </p>
       <p>
-        <a href="https://www.startupsg.gov.sg/profiles/22071" target="_blank">
+        <a href="https://tecpier.vc/" target="_blank">
           <small>
             Visit their website
           </small>
@@ -1037,7 +1035,7 @@ description: ""
         </strong>
       </p>
       <p>
-        <a href="https://www.startupsg.gov.sg/profiles/21070" target="_blank">
+        <a href="https://tla.com.sg/" target="_blank">
           <small>
             Visit their website
           </small>
@@ -1058,7 +1056,7 @@ description: ""
         </strong>
       </p>
       <p>
-        <a href="https://www.startupsg.gov.sg/profiles/20941" target="_blank">
+        <a href="https://theyieldlab.asia/" target="_blank">
           <small>
             Visit their website
           </small>
@@ -1079,7 +1077,7 @@ description: ""
         </strong>
       </p>
       <p>
-        <a href="https://www.startupsg.gov.sg/profiles/16403" target="_blank">
+        <a href="https://www.tnbaura.com/" target="_blank">
           <small>
             Visit their website
           </small>
@@ -1100,7 +1098,7 @@ description: ""
         </strong>
       </p>
       <p>
-        <a href="https://www.startupsg.gov.sg/profiles/6093" target="_blank">
+        <a href="" target="_blank">
           <small>
             Visit their website
           </small>
@@ -1121,7 +1119,7 @@ description: ""
         </strong>
       </p>
       <p>
-        <a href="https://www.startupsg.gov.sg/profiles/15599" target="_blank">
+        <a href="" target="_blank">
           <small>
             Visit their website
           </small>
@@ -1142,7 +1140,7 @@ description: ""
         </strong>
       </p>
       <p>
-        <a href="http://www.k2globalvc.com/our-story/" target="_blank">
+        <a href="" target="_blank">
           <small>
             Visit their website
           </small>
@@ -1163,7 +1161,7 @@ description: ""
         </strong>
       </p>
       <p>
-        <a href="https://www.startupsg.gov.sg/profiles/6099" target="_blank">
+        <a href="" target="_blank">
           <small>
             Visit their website
           </small>
@@ -1184,7 +1182,7 @@ description: ""
         </strong>
       </p>
       <p>
-        <a href="https://www.startupsg.gov.sg/profiles/6100" target="_blank">
+        <a href="" target="_blank">
           <small>
             Visit their website
           </small>
@@ -1205,7 +1203,7 @@ description: ""
         </strong>
       </p>
       <p>
-        <a href="https://www.startupsg.gov.sg/profiles/21728" target="_blank">
+        <a href="" target="_blank">
           <small>
             Visit their website
           </small>
@@ -1226,7 +1224,7 @@ description: ""
         </strong>
       </p>
       <p>
-        <a href="https://www.startupsg.gov.sg/profiles/6111" target="_blank">
+        <a href="" target="_blank">
           <small>
             Visit their website
           </small>
@@ -1247,7 +1245,7 @@ description: ""
         </strong>
       </p>
       <p>
-        <a href="https://www.visvirescapital.com/" target="_blank">
+        <a href="" target="_blank">
           <small>
             Visit their website
           </small>
@@ -1268,7 +1266,7 @@ description: ""
         </strong>
       </p>
       <p>
-        <a href="https://www.startupsg.gov.sg/profiles/6110" target="_blank">
+        <a href="" target="_blank">
           <small>
             Visit their website
           </small>
