@@ -11,10 +11,11 @@ description: ""
   <option value="uss">Urban Solutions & Sustainability</option>
   <option value="ame">Advanced Manufacturing & Engineering</option>
   <option value="agfood">Agritech & Foodtech</option>
-  <option value="sde">SDE</option>
+  <option value="sde">Services & Digital Economy</option>
+  <option value="others">Others</option>
 </select>
 <div style="display: flex; flex-wrap: wrap">
-  <div class="sgds-card agfood is-12-mobile is-6-desktop col" style="flex: 0 1 47%; margin: 10px">
+  <div class="sgds-card is-12-mobile is-6-desktop col agfood" style="flex: 0 1 47%; margin: 10px">
     <div class="sgds-card-image" style="margin-top: 15px">
       <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
         <img src="https://www.startupsg.gov.sg/api/v0/profile-images/16997/image/avatar" style="object-fit: scale-down; max-width: 100%; max-height: 100%;">
@@ -35,7 +36,7 @@ description: ""
       </p>
     </div>
   </div>
-  <div class="sgds-card agfood is-12-mobile is-6-desktop col" style="flex: 0 1 47%; margin: 10px">
+  <div class="sgds-card is-12-mobile is-6-desktop col hbms" style="flex: 0 1 47%; margin: 10px">
     <div class="sgds-card-image" style="margin-top: 15px">
       <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
         <img src="https://www.startupsg.gov.sg/api/v0/profile-images/29502/image/avatar" style="object-fit: scale-down; max-width: 100%; max-height: 100%;">
@@ -56,7 +57,7 @@ description: ""
       </p>
     </div>
   </div>
-  <div class="sgds-card agfood is-12-mobile is-6-desktop col" style="flex: 0 1 47%; margin: 10px">
+  <div class="sgds-card is-12-mobile is-6-desktop col sde" style="flex: 0 1 47%; margin: 10px">
     <div class="sgds-card-image" style="margin-top: 15px">
       <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
         <img src="https://www.startupsg.gov.sg/api/v0/profile-images/5888/image/avatar" style="object-fit: scale-down; max-width: 100%; max-height: 100%;">
@@ -77,7 +78,7 @@ description: ""
       </p>
     </div>
   </div>
-  <div class="sgds-card agfood is-12-mobile is-6-desktop col" style="flex: 0 1 47%; margin: 10px">
+  <div class="sgds-card is-12-mobile is-6-desktop col agfood" style="flex: 0 1 47%; margin: 10px">
     <div class="sgds-card-image" style="margin-top: 15px">
       <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
         <img src="https://www.startupsg.gov.sg/api/v0/profile-images/20510/image/avatar" style="object-fit: scale-down; max-width: 100%; max-height: 100%;">
@@ -98,7 +99,7 @@ description: ""
       </p>
     </div>
   </div>
-  <div class="sgds-card agfood is-12-mobile is-6-desktop col" style="flex: 0 1 47%; margin: 10px">
+  <div class="sgds-card is-12-mobile is-6-desktop col ame" style="flex: 0 1 47%; margin: 10px">
     <div class="sgds-card-image" style="margin-top: 15px">
       <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
         <img src="" style="object-fit: scale-down; max-width: 100%; max-height: 100%;">
@@ -119,7 +120,7 @@ description: ""
       </p>
     </div>
   </div>
-  <div class="sgds-card agfood is-12-mobile is-6-desktop col" style="flex: 0 1 47%; margin: 10px">
+  <div class="sgds-card is-12-mobile is-6-desktop col agfood" style="flex: 0 1 47%; margin: 10px">
     <div class="sgds-card-image" style="margin-top: 15px">
       <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
         <img src="" style="object-fit: scale-down; max-width: 100%; max-height: 100%;">
@@ -140,7 +141,7 @@ description: ""
       </p>
     </div>
   </div>
-  <div class="sgds-card agfood is-12-mobile is-6-desktop col" style="flex: 0 1 47%; margin: 10px">
+  <div class="sgds-card is-12-mobile is-6-desktop col sde" style="flex: 0 1 47%; margin: 10px">
     <div class="sgds-card-image" style="margin-top: 15px">
       <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
         <img src="https://www.startupsg.gov.sg/api/v0/profile-images/5999/image/avatar" style="object-fit: scale-down; max-width: 100%; max-height: 100%;">
@@ -161,7 +162,7 @@ description: ""
       </p>
     </div>
   </div>
-  <div class="sgds-card agfood is-12-mobile is-6-desktop col" style="flex: 0 1 47%; margin: 10px">
+  <div class="sgds-card is-12-mobile is-6-desktop col sde" style="flex: 0 1 47%; margin: 10px">
     <div class="sgds-card-image" style="margin-top: 15px">
       <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
         <img src="https://www.startupsg.gov.sg/api/v0/profile-images/6004/image/avatar" style="object-fit: scale-down; max-width: 100%; max-height: 100%;">
@@ -182,7 +183,7 @@ description: ""
       </p>
     </div>
   </div>
-  <div class="sgds-card agfood is-12-mobile is-6-desktop col" style="flex: 0 1 47%; margin: 10px">
+  <div class="sgds-card is-12-mobile is-6-desktop col ame" style="flex: 0 1 47%; margin: 10px">
     <div class="sgds-card-image" style="margin-top: 15px">
       <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
         <img src="" style="object-fit: scale-down; max-width: 100%; max-height: 100%;">
@@ -203,7 +204,7 @@ description: ""
       </p>
     </div>
   </div>
-  <div class="sgds-card agfood is-12-mobile is-6-desktop col" style="flex: 0 1 47%; margin: 10px">
+  <div class="sgds-card is-12-mobile is-6-desktop col sde" style="flex: 0 1 47%; margin: 10px">
     <div class="sgds-card-image" style="margin-top: 15px">
       <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
         <img src="https://www.startupsg.gov.sg/api/v0/profile-images/6011/image/avatar" style="object-fit: scale-down; max-width: 100%; max-height: 100%;">
@@ -224,7 +225,7 @@ description: ""
       </p>
     </div>
   </div>
-  <div class="sgds-card agfood is-12-mobile is-6-desktop col" style="flex: 0 1 47%; margin: 10px">
+  <div class="sgds-card is-12-mobile is-6-desktop col sde" style="flex: 0 1 47%; margin: 10px">
     <div class="sgds-card-image" style="margin-top: 15px">
       <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
         <img src="https://www.startupsg.gov.sg/api/v0/profile-images/6012/image/avatar" style="object-fit: scale-down; max-width: 100%; max-height: 100%;">
@@ -245,7 +246,7 @@ description: ""
       </p>
     </div>
   </div>
-  <div class="sgds-card agfood is-12-mobile is-6-desktop col" style="flex: 0 1 47%; margin: 10px">
+  <div class="sgds-card is-12-mobile is-6-desktop col sde" style="flex: 0 1 47%; margin: 10px">
     <div class="sgds-card-image" style="margin-top: 15px">
       <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
         <img src="https://www.startupsg.gov.sg/api/v0/profile-images/16737/image/avatar" style="object-fit: scale-down; max-width: 100%; max-height: 100%;">
@@ -266,7 +267,7 @@ description: ""
       </p>
     </div>
   </div>
-  <div class="sgds-card agfood is-12-mobile is-6-desktop col" style="flex: 0 1 47%; margin: 10px">
+  <div class="sgds-card is-12-mobile is-6-desktop col uss" style="flex: 0 1 47%; margin: 10px">
     <div class="sgds-card-image" style="margin-top: 15px">
       <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
         <img src="https://www.startupsg.gov.sg/api/v0/profile-images/24703/image/avatar" style="object-fit: scale-down; max-width: 100%; max-height: 100%;">
@@ -287,7 +288,7 @@ description: ""
       </p>
     </div>
   </div>
-  <div class="sgds-card agfood is-12-mobile is-6-desktop col" style="flex: 0 1 47%; margin: 10px">
+  <div class="sgds-card is-12-mobile is-6-desktop col hbms" style="flex: 0 1 47%; margin: 10px">
     <div class="sgds-card-image" style="margin-top: 15px">
       <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
         <img src="https://www.startupsg.gov.sg/api/v0/profile-images/8455/image/avatar" style="object-fit: scale-down; max-width: 100%; max-height: 100%;">
@@ -308,7 +309,7 @@ description: ""
       </p>
     </div>
   </div>
-  <div class="sgds-card agfood is-12-mobile is-6-desktop col" style="flex: 0 1 47%; margin: 10px">
+  <div class="sgds-card is-12-mobile is-6-desktop col hbms" style="flex: 0 1 47%; margin: 10px">
     <div class="sgds-card-image" style="margin-top: 15px">
       <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
         <img src="https://www.startupsg.gov.sg/api/v0/profile-images/6850/image/avatar" style="object-fit: scale-down; max-width: 100%; max-height: 100%;">
@@ -329,7 +330,7 @@ description: ""
       </p>
     </div>
   </div>
-  <div class="sgds-card agfood is-12-mobile is-6-desktop col" style="flex: 0 1 47%; margin: 10px">
+  <div class="sgds-card is-12-mobile is-6-desktop col sde" style="flex: 0 1 47%; margin: 10px">
     <div class="sgds-card-image" style="margin-top: 15px">
       <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
         <img src="https://www.startupsg.gov.sg/api/v0/profile-images/6016/image/avatar" style="object-fit: scale-down; max-width: 100%; max-height: 100%;">
@@ -350,7 +351,7 @@ description: ""
       </p>
     </div>
   </div>
-  <div class="sgds-card agfood is-12-mobile is-6-desktop col" style="flex: 0 1 47%; margin: 10px">
+  <div class="sgds-card is-12-mobile is-6-desktop col ame" style="flex: 0 1 47%; margin: 10px">
     <div class="sgds-card-image" style="margin-top: 15px">
       <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
         <img src="https://www.startupsg.gov.sg/api/v0/profile-images/6015/image/avatar" style="object-fit: scale-down; max-width: 100%; max-height: 100%;">
@@ -371,7 +372,7 @@ description: ""
       </p>
     </div>
   </div>
-  <div class="sgds-card agfood is-12-mobile is-6-desktop col" style="flex: 0 1 47%; margin: 10px">
+  <div class="sgds-card is-12-mobile is-6-desktop col uss" style="flex: 0 1 47%; margin: 10px">
     <div class="sgds-card-image" style="margin-top: 15px">
       <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
         <img src="https://www.startupsg.gov.sg/api/v0/profile-images/20262/image/avatar" style="object-fit: scale-down; max-width: 100%; max-height: 100%;">
@@ -392,7 +393,7 @@ description: ""
       </p>
     </div>
   </div>
-  <div class="sgds-card agfood is-12-mobile is-6-desktop col" style="flex: 0 1 47%; margin: 10px">
+  <div class="sgds-card is-12-mobile is-6-desktop col hbms" style="flex: 0 1 47%; margin: 10px">
     <div class="sgds-card-image" style="margin-top: 15px">
       <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
         <img src="https://www.startupsg.gov.sg/api/v0/profile-images/6022/image/avatar" style="object-fit: scale-down; max-width: 100%; max-height: 100%;">
@@ -413,7 +414,7 @@ description: ""
       </p>
     </div>
   </div>
-  <div class="sgds-card agfood is-12-mobile is-6-desktop col" style="flex: 0 1 47%; margin: 10px">
+  <div class="sgds-card is-12-mobile is-6-desktop col hbms" style="flex: 0 1 47%; margin: 10px">
     <div class="sgds-card-image" style="margin-top: 15px">
       <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
         <img src="https://www.startupsg.gov.sg/api/v0/profile-images/6023/image/avatar" style="object-fit: scale-down; max-width: 100%; max-height: 100%;">
@@ -434,7 +435,7 @@ description: ""
       </p>
     </div>
   </div>
-  <div class="sgds-card agfood is-12-mobile is-6-desktop col" style="flex: 0 1 47%; margin: 10px">
+  <div class="sgds-card is-12-mobile is-6-desktop col agfood" style="flex: 0 1 47%; margin: 10px">
     <div class="sgds-card-image" style="margin-top: 15px">
       <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
         <img src="https://www.startupsg.gov.sg/api/v0/profile-images/22216/image/avatar" style="object-fit: scale-down; max-width: 100%; max-height: 100%;">
@@ -455,7 +456,7 @@ description: ""
       </p>
     </div>
   </div>
-  <div class="sgds-card agfood is-12-mobile is-6-desktop col" style="flex: 0 1 47%; margin: 10px">
+  <div class="sgds-card is-12-mobile is-6-desktop col others" style="flex: 0 1 47%; margin: 10px">
     <div class="sgds-card-image" style="margin-top: 15px">
       <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
         <img src="https://www.startupsg.gov.sg/api/v0/profile-images/6031/image/avatar" style="object-fit: scale-down; max-width: 100%; max-height: 100%;">
@@ -476,7 +477,7 @@ description: ""
       </p>
     </div>
   </div>
-  <div class="sgds-card agfood is-12-mobile is-6-desktop col" style="flex: 0 1 47%; margin: 10px">
+  <div class="sgds-card is-12-mobile is-6-desktop col sde" style="flex: 0 1 47%; margin: 10px">
     <div class="sgds-card-image" style="margin-top: 15px">
       <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
         <img src="https://www.startupsg.gov.sg/api/v0/profile-images/22112/image/avatar" style="object-fit: scale-down; max-width: 100%; max-height: 100%;">
@@ -497,7 +498,7 @@ description: ""
       </p>
     </div>
   </div>
-  <div class="sgds-card agfood is-12-mobile is-6-desktop col" style="flex: 0 1 47%; margin: 10px">
+  <div class="sgds-card is-12-mobile is-6-desktop col others" style="flex: 0 1 47%; margin: 10px">
     <div class="sgds-card-image" style="margin-top: 15px">
       <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
         <img src="https://www.startupsg.gov.sg/api/v0/profile-images/6026/image/avatar" style="object-fit: scale-down; max-width: 100%; max-height: 100%;">
@@ -518,7 +519,7 @@ description: ""
       </p>
     </div>
   </div>
-  <div class="sgds-card agfood is-12-mobile is-6-desktop col" style="flex: 0 1 47%; margin: 10px">
+  <div class="sgds-card is-12-mobile is-6-desktop col hbms" style="flex: 0 1 47%; margin: 10px">
     <div class="sgds-card-image" style="margin-top: 15px">
       <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
         <img src="https://www.startupsg.gov.sg/api/v0/profile-images/22120/image/avatar" style="object-fit: scale-down; max-width: 100%; max-height: 100%;">
@@ -539,7 +540,7 @@ description: ""
       </p>
     </div>
   </div>
-  <div class="sgds-card agfood is-12-mobile is-6-desktop col" style="flex: 0 1 47%; margin: 10px">
+  <div class="sgds-card is-12-mobile is-6-desktop col others" style="flex: 0 1 47%; margin: 10px">
     <div class="sgds-card-image" style="margin-top: 15px">
       <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
         <img src="https://www.startupsg.gov.sg/api/v0/profile-images/21723/image/avatar" style="object-fit: scale-down; max-width: 100%; max-height: 100%;">
@@ -560,7 +561,7 @@ description: ""
       </p>
     </div>
   </div>
-  <div class="sgds-card agfood is-12-mobile is-6-desktop col" style="flex: 0 1 47%; margin: 10px">
+  <div class="sgds-card is-12-mobile is-6-desktop col hbms" style="flex: 0 1 47%; margin: 10px">
     <div class="sgds-card-image" style="margin-top: 15px">
       <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
         <img src="https://www.startupsg.gov.sg/api/v0/profile-images/29169/image/avatar" style="object-fit: scale-down; max-width: 100%; max-height: 100%;">
@@ -581,7 +582,7 @@ description: ""
       </p>
     </div>
   </div>
-  <div class="sgds-card agfood is-12-mobile is-6-desktop col" style="flex: 0 1 47%; margin: 10px">
+  <div class="sgds-card is-12-mobile is-6-desktop col hbms" style="flex: 0 1 47%; margin: 10px">
     <div class="sgds-card-image" style="margin-top: 15px">
       <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
         <img src="https://www.startupsg.gov.sg/api/v0/profile-images/6045/image/avatar" style="object-fit: scale-down; max-width: 100%; max-height: 100%;">
@@ -602,7 +603,7 @@ description: ""
       </p>
     </div>
   </div>
-  <div class="sgds-card agfood is-12-mobile is-6-desktop col" style="flex: 0 1 47%; margin: 10px">
+  <div class="sgds-card is-12-mobile is-6-desktop col uss" style="flex: 0 1 47%; margin: 10px">
     <div class="sgds-card-image" style="margin-top: 15px">
       <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
         <img src="https://www.startupsg.gov.sg/api/v0/profile-images/22075/image/avatar" style="object-fit: scale-down; max-width: 100%; max-height: 100%;">
@@ -623,7 +624,7 @@ description: ""
       </p>
     </div>
   </div>
-  <div class="sgds-card agfood is-12-mobile is-6-desktop col" style="flex: 0 1 47%; margin: 10px">
+  <div class="sgds-card is-12-mobile is-6-desktop col sde" style="flex: 0 1 47%; margin: 10px">
     <div class="sgds-card-image" style="margin-top: 15px">
       <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
         <img src="https://www.startupsg.gov.sg/api/v0/profile-images/24705/image/avatar" style="object-fit: scale-down; max-width: 100%; max-height: 100%;">
@@ -644,7 +645,7 @@ description: ""
       </p>
     </div>
   </div>
-  <div class="sgds-card agfood is-12-mobile is-6-desktop col" style="flex: 0 1 47%; margin: 10px">
+  <div class="sgds-card is-12-mobile is-6-desktop col sde" style="flex: 0 1 47%; margin: 10px">
     <div class="sgds-card-image" style="margin-top: 15px">
       <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
         <img src="https://www.startupsg.gov.sg/api/v0/profile-images/6037/image/avatar" style="object-fit: scale-down; max-width: 100%; max-height: 100%;">
@@ -665,7 +666,7 @@ description: ""
       </p>
     </div>
   </div>
-  <div class="sgds-card agfood is-12-mobile is-6-desktop col" style="flex: 0 1 47%; margin: 10px">
+  <div class="sgds-card is-12-mobile is-6-desktop col sde" style="flex: 0 1 47%; margin: 10px">
     <div class="sgds-card-image" style="margin-top: 15px">
       <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
         <img src="https://www.startupsg.gov.sg/api/v0/profile-images/6038/image/avatar" style="object-fit: scale-down; max-width: 100%; max-height: 100%;">
@@ -686,7 +687,7 @@ description: ""
       </p>
     </div>
   </div>
-  <div class="sgds-card agfood is-12-mobile is-6-desktop col" style="flex: 0 1 47%; margin: 10px">
+  <div class="sgds-card is-12-mobile is-6-desktop col agfood" style="flex: 0 1 47%; margin: 10px">
     <div class="sgds-card-image" style="margin-top: 15px">
       <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
         <img src="https://www.startupsg.gov.sg/api/v0/profile-images/29200/image/avatar" style="object-fit: scale-down; max-width: 100%; max-height: 100%;">
@@ -707,7 +708,7 @@ description: ""
       </p>
     </div>
   </div>
-  <div class="sgds-card agfood is-12-mobile is-6-desktop col" style="flex: 0 1 47%; margin: 10px">
+  <div class="sgds-card is-12-mobile is-6-desktop col hbms" style="flex: 0 1 47%; margin: 10px">
     <div class="sgds-card-image" style="margin-top: 15px">
       <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
         <img src="" style="object-fit: scale-down; max-width: 100%; max-height: 100%;">
@@ -728,7 +729,7 @@ description: ""
       </p>
     </div>
   </div>
-  <div class="sgds-card agfood is-12-mobile is-6-desktop col" style="flex: 0 1 47%; margin: 10px">
+  <div class="sgds-card is-12-mobile is-6-desktop col sde" style="flex: 0 1 47%; margin: 10px">
     <div class="sgds-card-image" style="margin-top: 15px">
       <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
         <img src="https://www.startupsg.gov.sg/api/v0/profile-images/6044/image/avatar" style="object-fit: scale-down; max-width: 100%; max-height: 100%;">
@@ -749,7 +750,7 @@ description: ""
       </p>
     </div>
   </div>
-  <div class="sgds-card agfood is-12-mobile is-6-desktop col" style="flex: 0 1 47%; margin: 10px">
+  <div class="sgds-card is-12-mobile is-6-desktop col uss" style="flex: 0 1 47%; margin: 10px">
     <div class="sgds-card-image" style="margin-top: 15px">
       <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
         <img src="https://www.startupsg.gov.sg/api/v0/profile-images/9790/image/avatar" style="object-fit: scale-down; max-width: 100%; max-height: 100%;">
@@ -770,7 +771,7 @@ description: ""
       </p>
     </div>
   </div>
-  <div class="sgds-card agfood is-12-mobile is-6-desktop col" style="flex: 0 1 47%; margin: 10px">
+  <div class="sgds-card is-12-mobile is-6-desktop col others" style="flex: 0 1 47%; margin: 10px">
     <div class="sgds-card-image" style="margin-top: 15px">
       <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
         <img src="https://www.startupsg.gov.sg/api/v0/profile-images/21751/image/avatar" style="object-fit: scale-down; max-width: 100%; max-height: 100%;">
@@ -791,7 +792,7 @@ description: ""
       </p>
     </div>
   </div>
-  <div class="sgds-card agfood is-12-mobile is-6-desktop col" style="flex: 0 1 47%; margin: 10px">
+  <div class="sgds-card is-12-mobile is-6-desktop col hbms" style="flex: 0 1 47%; margin: 10px">
     <div class="sgds-card-image" style="margin-top: 15px">
       <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
         <img src="" style="object-fit: scale-down; max-width: 100%; max-height: 100%;">
@@ -812,7 +813,7 @@ description: ""
       </p>
     </div>
   </div>
-  <div class="sgds-card agfood is-12-mobile is-6-desktop col" style="flex: 0 1 47%; margin: 10px">
+  <div class="sgds-card is-12-mobile is-6-desktop col sde" style="flex: 0 1 47%; margin: 10px">
     <div class="sgds-card-image" style="margin-top: 15px">
       <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
         <img src="https://www.startupsg.gov.sg/api/v0/profile-images/6049/image/avatar" style="object-fit: scale-down; max-width: 100%; max-height: 100%;">
@@ -833,7 +834,7 @@ description: ""
       </p>
     </div>
   </div>
-  <div class="sgds-card agfood is-12-mobile is-6-desktop col" style="flex: 0 1 47%; margin: 10px">
+  <div class="sgds-card is-12-mobile is-6-desktop col agfood" style="flex: 0 1 47%; margin: 10px">
     <div class="sgds-card-image" style="margin-top: 15px">
       <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
         <img src="https://www.startupsg.gov.sg/api/v0/profile-images/23074/image/avatar" style="object-fit: scale-down; max-width: 100%; max-height: 100%;">
@@ -854,7 +855,7 @@ description: ""
       </p>
     </div>
   </div>
-  <div class="sgds-card agfood is-12-mobile is-6-desktop col" style="flex: 0 1 47%; margin: 10px">
+  <div class="sgds-card is-12-mobile is-6-desktop col others" style="flex: 0 1 47%; margin: 10px">
     <div class="sgds-card-image" style="margin-top: 15px">
       <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
         <img src="https://www.startupsg.gov.sg/api/v0/profile-images/21809/image/avatar" style="object-fit: scale-down; max-width: 100%; max-height: 100%;">
@@ -875,7 +876,7 @@ description: ""
       </p>
     </div>
   </div>
-  <div class="sgds-card agfood is-12-mobile is-6-desktop col" style="flex: 0 1 47%; margin: 10px">
+  <div class="sgds-card is-12-mobile is-6-desktop col ame" style="flex: 0 1 47%; margin: 10px">
     <div class="sgds-card-image" style="margin-top: 15px">
       <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
         <img src="" style="object-fit: scale-down; max-width: 100%; max-height: 100%;">
@@ -896,7 +897,7 @@ description: ""
       </p>
     </div>
   </div>
-  <div class="sgds-card agfood is-12-mobile is-6-desktop col" style="flex: 0 1 47%; margin: 10px">
+  <div class="sgds-card is-12-mobile is-6-desktop col ame" style="flex: 0 1 47%; margin: 10px">
     <div class="sgds-card-image" style="margin-top: 15px">
       <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
         <img src="https://www.startupsg.gov.sg/api/v0/profile-images/29102/image/avatar" style="object-fit: scale-down; max-width: 100%; max-height: 100%;">
@@ -917,7 +918,7 @@ description: ""
       </p>
     </div>
   </div>
-  <div class="sgds-card agfood is-12-mobile is-6-desktop col" style="flex: 0 1 47%; margin: 10px">
+  <div class="sgds-card is-12-mobile is-6-desktop col others" style="flex: 0 1 47%; margin: 10px">
     <div class="sgds-card-image" style="margin-top: 15px">
       <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
         <img src="https://www.startupsg.gov.sg/api/v0/profile-images/22006/image/avatar" style="object-fit: scale-down; max-width: 100%; max-height: 100%;">
@@ -938,7 +939,7 @@ description: ""
       </p>
     </div>
   </div>
-  <div class="sgds-card agfood is-12-mobile is-6-desktop col" style="flex: 0 1 47%; margin: 10px">
+  <div class="sgds-card is-12-mobile is-6-desktop col ame" style="flex: 0 1 47%; margin: 10px">
     <div class="sgds-card-image" style="margin-top: 15px">
       <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
         <img src="https://www.startupsg.gov.sg/api/v0/profile-images/6062/image/avatar" style="object-fit: scale-down; max-width: 100%; max-height: 100%;">
@@ -959,7 +960,7 @@ description: ""
       </p>
     </div>
   </div>
-  <div class="sgds-card agfood is-12-mobile is-6-desktop col" style="flex: 0 1 47%; margin: 10px">
+  <div class="sgds-card is-12-mobile is-6-desktop col ame" style="flex: 0 1 47%; margin: 10px">
     <div class="sgds-card-image" style="margin-top: 15px">
       <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
         <img src="https://www.startupsg.gov.sg/api/v0/profile-images/21248/image/avatar" style="object-fit: scale-down; max-width: 100%; max-height: 100%;">
@@ -980,7 +981,7 @@ description: ""
       </p>
     </div>
   </div>
-  <div class="sgds-card agfood is-12-mobile is-6-desktop col" style="flex: 0 1 47%; margin: 10px">
+  <div class="sgds-card is-12-mobile is-6-desktop col sde" style="flex: 0 1 47%; margin: 10px">
     <div class="sgds-card-image" style="margin-top: 15px">
       <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
         <img src="https://www.startupsg.gov.sg/api/v0/profile-images/6073/image/avatar" style="object-fit: scale-down; max-width: 100%; max-height: 100%;">
@@ -1001,7 +1002,7 @@ description: ""
       </p>
     </div>
   </div>
-  <div class="sgds-card agfood is-12-mobile is-6-desktop col" style="flex: 0 1 47%; margin: 10px">
+  <div class="sgds-card is-12-mobile is-6-desktop col others" style="flex: 0 1 47%; margin: 10px">
     <div class="sgds-card-image" style="margin-top: 15px">
       <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
         <img src="https://www.startupsg.gov.sg/api/v0/profile-images/22071/image/avatar" style="object-fit: scale-down; max-width: 100%; max-height: 100%;">
@@ -1022,7 +1023,7 @@ description: ""
       </p>
     </div>
   </div>
-  <div class="sgds-card agfood is-12-mobile is-6-desktop col" style="flex: 0 1 47%; margin: 10px">
+  <div class="sgds-card is-12-mobile is-6-desktop col others" style="flex: 0 1 47%; margin: 10px">
     <div class="sgds-card-image" style="margin-top: 15px">
       <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
         <img src="https://www.startupsg.gov.sg/api/v0/profile-images/21070/image/avatar" style="object-fit: scale-down; max-width: 100%; max-height: 100%;">
@@ -1043,7 +1044,7 @@ description: ""
       </p>
     </div>
   </div>
-  <div class="sgds-card agfood is-12-mobile is-6-desktop col" style="flex: 0 1 47%; margin: 10px">
+  <div class="sgds-card is-12-mobile is-6-desktop col uss" style="flex: 0 1 47%; margin: 10px">
     <div class="sgds-card-image" style="margin-top: 15px">
       <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
         <img src="https://www.startupsg.gov.sg/api/v0/profile-images/20941/image/avatar" style="object-fit: scale-down; max-width: 100%; max-height: 100%;">
@@ -1064,7 +1065,7 @@ description: ""
       </p>
     </div>
   </div>
-  <div class="sgds-card agfood is-12-mobile is-6-desktop col" style="flex: 0 1 47%; margin: 10px">
+  <div class="sgds-card is-12-mobile is-6-desktop col ame" style="flex: 0 1 47%; margin: 10px">
     <div class="sgds-card-image" style="margin-top: 15px">
       <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
         <img src="https://www.startupsg.gov.sg/api/v0/profile-images/16403/image/avatar" style="object-fit: scale-down; max-width: 100%; max-height: 100%;">
@@ -1085,7 +1086,7 @@ description: ""
       </p>
     </div>
   </div>
-  <div class="sgds-card agfood is-12-mobile is-6-desktop col" style="flex: 0 1 47%; margin: 10px">
+  <div class="sgds-card is-12-mobile is-6-desktop col sde" style="flex: 0 1 47%; margin: 10px">
     <div class="sgds-card-image" style="margin-top: 15px">
       <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
         <img src="https://www.startupsg.gov.sg/api/v0/profile-images/6093/image/avatar" style="object-fit: scale-down; max-width: 100%; max-height: 100%;">
@@ -1106,7 +1107,7 @@ description: ""
       </p>
     </div>
   </div>
-  <div class="sgds-card agfood is-12-mobile is-6-desktop col" style="flex: 0 1 47%; margin: 10px">
+  <div class="sgds-card is-12-mobile is-6-desktop col agfood" style="flex: 0 1 47%; margin: 10px">
     <div class="sgds-card-image" style="margin-top: 15px">
       <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
         <img src="https://www.startupsg.gov.sg/api/v0/profile-images/15599/image/avatar" style="object-fit: scale-down; max-width: 100%; max-height: 100%;">
@@ -1127,7 +1128,7 @@ description: ""
       </p>
     </div>
   </div>
-  <div class="sgds-card agfood is-12-mobile is-6-desktop col" style="flex: 0 1 47%; margin: 10px">
+  <div class="sgds-card is-12-mobile is-6-desktop col hbms" style="flex: 0 1 47%; margin: 10px">
     <div class="sgds-card-image" style="margin-top: 15px">
       <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
         <img src="" style="object-fit: scale-down; max-width: 100%; max-height: 100%;">
@@ -1148,7 +1149,7 @@ description: ""
       </p>
     </div>
   </div>
-  <div class="sgds-card agfood is-12-mobile is-6-desktop col" style="flex: 0 1 47%; margin: 10px">
+  <div class="sgds-card is-12-mobile is-6-desktop col uss" style="flex: 0 1 47%; margin: 10px">
     <div class="sgds-card-image" style="margin-top: 15px">
       <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
         <img src="https://www.startupsg.gov.sg/api/v0/profile-images/6099/image/avatar" style="object-fit: scale-down; max-width: 100%; max-height: 100%;">
@@ -1169,7 +1170,7 @@ description: ""
       </p>
     </div>
   </div>
-  <div class="sgds-card agfood is-12-mobile is-6-desktop col" style="flex: 0 1 47%; margin: 10px">
+  <div class="sgds-card is-12-mobile is-6-desktop col sde" style="flex: 0 1 47%; margin: 10px">
     <div class="sgds-card-image" style="margin-top: 15px">
       <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
         <img src="https://www.startupsg.gov.sg/api/v0/profile-images/6100/image/avatar" style="object-fit: scale-down; max-width: 100%; max-height: 100%;">
@@ -1190,7 +1191,7 @@ description: ""
       </p>
     </div>
   </div>
-  <div class="sgds-card agfood is-12-mobile is-6-desktop col" style="flex: 0 1 47%; margin: 10px">
+  <div class="sgds-card is-12-mobile is-6-desktop col sde" style="flex: 0 1 47%; margin: 10px">
     <div class="sgds-card-image" style="margin-top: 15px">
       <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
         <img src="https://www.startupsg.gov.sg/api/v0/profile-images/21728/image/avatar" style="object-fit: scale-down; max-width: 100%; max-height: 100%;">
@@ -1211,7 +1212,7 @@ description: ""
       </p>
     </div>
   </div>
-  <div class="sgds-card agfood is-12-mobile is-6-desktop col" style="flex: 0 1 47%; margin: 10px">
+  <div class="sgds-card is-12-mobile is-6-desktop col sde" style="flex: 0 1 47%; margin: 10px">
     <div class="sgds-card-image" style="margin-top: 15px">
       <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
         <img src="https://www.startupsg.gov.sg/api/v0/profile-images/6111/image/avatar" style="object-fit: scale-down; max-width: 100%; max-height: 100%;">
@@ -1232,7 +1233,7 @@ description: ""
       </p>
     </div>
   </div>
-  <div class="sgds-card agfood is-12-mobile is-6-desktop col" style="flex: 0 1 47%; margin: 10px">
+  <div class="sgds-card is-12-mobile is-6-desktop col uss" style="flex: 0 1 47%; margin: 10px">
     <div class="sgds-card-image" style="margin-top: 15px">
       <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
         <img src="" style="object-fit: scale-down; max-width: 100%; max-height: 100%;">
@@ -1253,7 +1254,7 @@ description: ""
       </p>
     </div>
   </div>
-  <div class="sgds-card agfood is-12-mobile is-6-desktop col" style="flex: 0 1 47%; margin: 10px">
+  <div class="sgds-card is-12-mobile is-6-desktop col sde" style="flex: 0 1 47%; margin: 10px">
     <div class="sgds-card-image" style="margin-top: 15px">
       <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
         <img src="https://www.startupsg.gov.sg/api/v0/profile-images/6110/image/avatar" style="object-fit: scale-down; max-width: 100%; max-height: 100%;">
