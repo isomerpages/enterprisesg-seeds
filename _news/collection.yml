@@ -2,6 +2,6 @@ collections:
   news:
     output: true
     order:
-      - Press Releases.md
       - Industry News.md
+      - Press Releases.md
       - Success Stories.md
