@@ -2,4 +2,5 @@ collections:
   portfolio-companies:
     output: true
     order:
+      - Services and Digital Economy/.keep
       - Featured Companies.md
