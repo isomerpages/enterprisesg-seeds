@@ -19,7 +19,7 @@ sections:
           - title: I am an investor
             url: /for-investors/co-investing-with-us
   - infobar:
-      description: <div class="row bp-container is-centered justify-content-between
+      description: <!-- <div class="row bp-container is-centered justify-content-between
         padding--bottom"><div class="col force-half has-text-left"><div><img
         src="https://d33wubrfki0l68.cloudfront.net/cb34bcc0511a91975d27aeddce2e86408d6cac28/e3469/images/quotation-symbol-png.png"
         width=100></div><div class="padding--bottom">Lorem ipsum dolor sit amet,
@@ -36,7 +36,7 @@ sections:
         class="padding--bottom eyebrow is-uppercase">General
         Partner</p></div><div class="col force-half padding"><img
         src="https://a16z.com/wp-content/uploads/2015/08/MarcAndreessen-400x400.jpg"
-        alt="Image alt text"></div></div>
+        alt="Image alt text"></div></div> -->
   - infobar:
       description: <div><p class="padding--bottom eyebrow is-uppercase">Our
         Impact</p><div class="row is-centered bp-container
