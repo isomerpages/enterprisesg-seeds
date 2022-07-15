@@ -1,5 +1,5 @@
 collections:
-  portfolio-companies:
+  meet-our-portfolio-companies:
     output: true
     order:
       - Hear From Our Investees.md
