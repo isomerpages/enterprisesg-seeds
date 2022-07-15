@@ -2,4 +2,5 @@ collections:
   portfolio-companies:
     output: true
     order:
+      - Hear From Our Invests.md
       - Featured Companies.md
