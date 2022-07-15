@@ -10,7 +10,7 @@ links:
     collection: portfolio-companies
   - title: News
     collection: news
-  - title: Contact Us
-    url: /contact-us/
   - title: Join Us
     url: /about-us/join-us
+  - title: Contact Us
+    url: /contact-us/
