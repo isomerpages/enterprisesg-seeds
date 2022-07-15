@@ -18,8 +18,8 @@ sections:
             url: /for-startups/how-we-invest
           - title: I am an investor
             url: /for-investors/co-investing-with-us
-  - infobar:
-      description: <!-- <div class="row bp-container is-centered justify-content-between
+<!--   - infobar:
+      description: <div class="row bp-container is-centered justify-content-between
         padding--bottom"><div class="col force-half has-text-left"><div><img
         src="https://d33wubrfki0l68.cloudfront.net/cb34bcc0511a91975d27aeddce2e86408d6cac28/e3469/images/quotation-symbol-png.png"
         width=100></div><div class="padding--bottom">Lorem ipsum dolor sit amet,
