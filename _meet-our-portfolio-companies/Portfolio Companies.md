@@ -13,7 +13,7 @@ description: ""
   <option value="uss">Urban Solutions & Sustainability</option>
   <option value="ame">Advanced Manufacturing & Engineering</option>
   <option value="agfood">Agritech & Foodtech</option>
-  <option value="sde">SDE</option>
+  <option value="sde">Services And Digital Economy</option>
 </select>
 <div style="display: flex; flex-wrap: wrap; padding: 10px">
   <div class="sgds-card hbms col" style="flex: 1 1 47%; margin: 10px">
