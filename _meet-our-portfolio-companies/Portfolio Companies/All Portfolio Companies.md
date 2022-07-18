@@ -19,7 +19,7 @@ third_nav_title: Portfolio Companies
   <option value="sde">Services And Digital Economy</option>
 </select>
 <div style="display: flex; flex-wrap: wrap; padding: 10px">
-  <div class="sgds-card hbms col" style="flex: 1 1 47%; margin: 10px">
+  <div class="sgds-card hbms col" style="flex: 1 1 300px; margin: 10px">
       <div class="sgds-card-image" style="margin-top: 15px">
           <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
               <img src="/images/healthbeats.png" style="object-fit: scale-down; max-width: 100%;
@@ -32,7 +32,7 @@ third_nav_title: Portfolio Companies
           <p><a href="https://www.healthbeats.co/" target="_blank"><small>Visit their website</small></a></p>
       </div>
   </div>
-  <div class="sgds-card ame col" style="flex: 1 1 47%; margin: 10px">
+  <div class="sgds-card hbms col" style="flex: 1 1 300px; margin: 10px">
       <div class="sgds-card-image" style="margin-top: 15px">
           <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
               <img src="/images/beex.png" style="object-fit: scale-down; max-width: 100%;
@@ -45,7 +45,7 @@ third_nav_title: Portfolio Companies
           <p><a href="https://beex.sg/" target="_blank"><small>Visit their website</small></a></p>
       </div>
   </div>
-  <div class="sgds-card agfood col" style="flex: 1 1 47%; margin: 10px">
+  <div class="sgds-card hbms col" style="flex: 1 1 300px; margin: 10px">
     <div class="sgds-card-image" style="margin-top: 15px">
         <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
               <img src="/images/dimuto.png" style="object-fit: scale-down; max-width: 100%;
@@ -58,7 +58,7 @@ third_nav_title: Portfolio Companies
           <p><a href="https://dimuto.io/" target="_blank"><small>Visit their website</small></a></p>
       </div>
   </div>
-  <div class="sgds-card hbms col" style="flex: 1 1 47%; margin: 10px">
+  <div class="sgds-card hbms col" style="flex: 1 1 300px; margin: 10px">
     <div class="sgds-card-image" style="margin-top: 15px">
         <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
               <img src="/images/endofotonics.png" style="object-fit: scale-down; max-width: 100%;
@@ -71,7 +71,7 @@ third_nav_title: Portfolio Companies
           <p><a href="http://endofotonics.com/" target="_blank"><small>Visit their website</small></a></p>        
       </div>
   </div>
-  <div class="sgds-card uss col" style="flex: 1 1 47%; margin: 10px">
+  <div class="sgds-card hbms col" style="flex: 1 1 300px; margin: 10px">
     <div class="sgds-card-image" style="margin-top: 15px">
         <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
               <img src="/images/evercomm.png" style="object-fit: scale-down; max-width: 100%;
@@ -84,7 +84,7 @@ third_nav_title: Portfolio Companies
           <p><a href="https://www.evercomm.com.sg" target="_blank"><small>Visit their website</small></a></p>        
       </div>
   </div>
-  <div class="sgds-card uss col" style="flex: 1 1 47%; margin: 10px">
+  <div class="sgds-card hbms col" style="flex: 1 1 300px; margin: 10px">
     <div class="sgds-card-image" style="margin-top: 15px">
         <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
               <img src="/images/ionmobility.png" style="object-fit: scale-down; max-width: 100%;
@@ -97,7 +97,7 @@ third_nav_title: Portfolio Companies
         <p><a href="https://ionmobility.com/" target="_blank"><small>Visit their website</small></a></p>
       </div>
   </div>
-  <div class="sgds-card uss col" style="flex: 1 1 47%; margin: 10px">
+  <div class="sgds-card hbms col" style="flex: 1 1 300px; margin: 10px">
     <div class="sgds-card-image" style="margin-top: 15px">
         <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
               <img src="/images/moovita.png" style="object-fit: scale-down; max-width: 100%;
@@ -110,7 +110,7 @@ third_nav_title: Portfolio Companies
         <p><a href="https://www.moovita.com" target="_blank"><small>Visit their website</small></a></p>
       </div>
   </div>
-  <div class="sgds-card agfood col" style="flex: 1 1 47%; margin: 10px">
+  <div class="sgds-card hbms col" style="flex: 1 1 300px; margin: 10px">
     <div class="sgds-card-image" style="margin-top: 15px">
         <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
               <img src="/images/mycovation.png" style="object-fit: scale-down; max-width: 100%;
@@ -123,7 +123,7 @@ third_nav_title: Portfolio Companies
         <p><a href="https://www.mycovation.asia/" target="_blank"><small>Visit their website</small></a></p>
       </div>
   </div>
-  <div class="sgds-card ame col" style="flex: 1 1 47%; margin: 10px">
+  <div class="sgds-card hbms col" style="flex: 1 1 300px; margin: 10px">
     <div class="sgds-card-image" style="margin-top: 15px">
         <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
               <img src="/images/myrlabs.png" style="object-fit: scale-down; max-width: 100%;
@@ -136,7 +136,7 @@ third_nav_title: Portfolio Companies
         <p><a href="http://www.myrmidonlaboratories.com/" target="_blank"><small>Visit their website</small></a></p>
       </div>
   </div>
-  <div class="sgds-card sde col" style="flex: 1 1 47%; margin: 10px">
+  <div class="sgds-card hbms col" style="flex: 1 1 300px; margin: 10px">
     <div class="sgds-card-image" style="margin-top: 15px">
         <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
               <img src="/images/sentient.png" style="object-fit: scale-down; max-width: 100%;
@@ -149,7 +149,7 @@ third_nav_title: Portfolio Companies
         <p><a href="https://sentient.io/" target="_blank"><small>Visit their website</small></a></p>
       </div>
   </div>
-  <div class="sgds-card ame col" style="flex: 1 1 47%; margin: 10px">
+  <div class="sgds-card hbms col" style="flex: 1 1 300px; margin: 10px">
     <div class="sgds-card-image" style="margin-top: 15px">
         <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
               <img src="/images/spaceagelabs.png" style="object-fit: scale-down; max-width: 100%;
@@ -162,7 +162,7 @@ third_nav_title: Portfolio Companies
         <p><a href="https://www.spaceage-labs.com/" target="_blank"><small>Visit their website</small></a></p>
       </div>
   </div>
-  <div class="sgds-card sde col" style="flex: 1 1 47%; margin: 10px">
+  <div class="sgds-card hbms col" style="flex: 1 1 300px; margin: 10px">
     <div class="sgds-card-image" style="margin-top: 15px">
         <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
               <img src="/images/styletheory.png" style="object-fit: scale-down; max-width: 100%;
@@ -175,7 +175,7 @@ third_nav_title: Portfolio Companies
         <p><a href="https://www.styletheory.co/" target="_blank"><small>Visit their website</small></a></p>
       </div>
   </div>
-  <div class="sgds-card uss col" style="flex: 1 1 47%; margin: 10px">
+  <div class="sgds-card hbms col" style="flex: 1 1 300px; margin: 10px">
     <div class="sgds-card-image" style="margin-top: 15px">
         <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
               <img src="/images/thirdwavepower.png" style="object-fit: scale-down; max-width: 100%;
@@ -188,7 +188,7 @@ third_nav_title: Portfolio Companies
         <p><a href="https://www.thirdwavepower.com/" target="_blank"><small>Visit their website</small></a></p>
       </div>
   </div>
-  <div class="sgds-card uss col" style="flex: 1 1 47%; margin: 10px">
+  <div class="sgds-card hbms col" style="flex: 1 1 300px; margin: 10px">
     <div class="sgds-card-image" style="margin-top: 15px">
         <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
               <img src="/images/vflowtech.png" style="object-fit: scale-down; max-width: 100%;
@@ -201,7 +201,7 @@ third_nav_title: Portfolio Companies
         <p><a href="https://vflowtech.com/" target="_blank"><small>Visit their website</small></a></p>
       </div>
   </div>
-  <div class="sgds-card uss col" style="flex: 1 1 47%; margin: 10px">
+  <div class="sgds-card hbms col" style="flex: 1 1 300px; margin: 10px">
     <div class="sgds-card-image" style="margin-top: 15px">
         <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
               <img src="/images/hubble.png" style="object-fit: scale-down; max-width: 100%;
@@ -214,7 +214,7 @@ third_nav_title: Portfolio Companies
         <p><a href="https://hubble.build/" target="_blank"><small>Visit their website</small></a></p>
       </div>
   </div>
-  <div class="sgds-card hbms col" style="flex: 1 1 47%; margin: 10px">
+  <div class="sgds-card hbms col" style="flex: 1 1 300px; margin: 10px">
     <div class="sgds-card-image sde is-12-mobile is-6-desktop col" >
         <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
               <img src="/images/respiree.png" style="object-fit: scale-down; max-width: 100%;
