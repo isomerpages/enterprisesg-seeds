@@ -14,7 +14,7 @@ third_nav_title: Portfolio Companies
   <option value="agfood">Agritech & Foodtech</option>
   <option value="sde">Services And Digital Economy</option>
 </select>
-<div style="display: flex; flex-wrap: wrap; padding: 10px">
+<div id="companies-result" style="display: flex; flex-wrap: wrap; padding: 10px">
   <div class="sgds-card hbms col" style="flex: 1 1 47%; margin: 10px">
       <div class="sgds-card-image" style="margin-top: 15px">
           <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
