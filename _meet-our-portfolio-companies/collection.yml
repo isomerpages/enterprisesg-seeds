@@ -2,6 +2,7 @@ collections:
   meet-our-portfolio-companies:
     output: true
     order:
+      - Portfolio Companies/Health & Biomedical Science.md
       - Portfolio Companies/All Portfolio Companies.md
       - Portfolio Companies/.keep
       - Hear From Our Investees.md
