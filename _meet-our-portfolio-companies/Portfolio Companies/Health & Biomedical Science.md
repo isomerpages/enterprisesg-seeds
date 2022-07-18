@@ -6,7 +6,6 @@ third_nav_title: Portfolio Companies
 ---
 <link rel="stylesheet" href="/sgds.css"/>
 
-<div id="companies-result" style="display: flex; flex-wrap: wrap; padding: 10px">
   <div id="companies-result" style="display: flex; flex-wrap: wrap; padding: 10px">
   <div class="sgds-card hbms col" style="flex: 1 1 47%; margin: 10px; display: block;">
       <div class="sgds-card-image" style="margin-top: 15px">
@@ -50,4 +49,3 @@ third_nav_title: Portfolio Companies
       </div>
   </div>
 <div style="flex: 1 1 47%; margin: 10px;"></div></div>
-</div>
