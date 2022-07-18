@@ -9,7 +9,7 @@ document.getElementById('coy-choice').addEventListener('change', function() {
       el.style.display = "none";
     });
   }
-  if (document.querySelectorAll("div.sgds-card").length % 2 == 1) {
+  if (document.querySelectorAll("div.sgds-card:not([style*='display: none;'])").length % 2 == 1) {
     var temp = document.createElement('div');
     temp.style = "flex: 1 1 47%;margin: 10px;"; 
     document.getElementById("companies-result").appendChild(temp);
