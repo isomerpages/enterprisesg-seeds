@@ -48,7 +48,8 @@ and operations, administration and fund raising.</small>
         <strong>
           Cube3 Ventures
         </strong>
-        <small>Targeting seed stage to Series-A and B startups, Cube3 Ventures
+      </p>
+      <small>Targeting seed stage to Series-A and B startups, Cube3 Ventures
 is a smart mobility and logistics fund that bridges the gap between
 Deep Tech, Deep Talents and Deep Markets. Addressing the
 issue of talent shortage, the fund helps portfolio companies
@@ -60,7 +61,6 @@ countries across the world, portfolio companies will be
 empowered with both the agility and flexibility, to meet Asia’s
 growing monetisation opportunities in their delivery of outsized
 returns for their investor.</small>
-      </p>
       <p>
         <a href="" target="_blank">
           <small>
