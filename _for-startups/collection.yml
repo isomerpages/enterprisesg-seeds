@@ -2,6 +2,7 @@ collections:
   for-startups:
     output: true
     order:
+      - List of Co investment Partners (Description).md
       - How We Invest.md
       - List Of Co Investment Partners.md
       - Hear From Our Companies.md
