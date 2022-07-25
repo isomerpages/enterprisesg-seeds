@@ -368,4 +368,123 @@ and ESG efforts directly impact thousands more.</small>
       </p>
     </div>
   </div>
+  <div class="sgds-card col sde" style="flex: 1 1 47%; margin: 10px">
+    <div class="sgds-card-image" style="margin-top: 15px">
+      <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
+        <img src="https://www.startupsg.gov.sg/api/v0/profile-images/22112/image/avatar" style="object-fit: scale-down; max-width: 100%; max-height: 100%;">
+      </figure>
+    </div>
+    <div class="sgds-card-content">
+      <p>
+        <strong>
+          Innoport
+        </strong>
+      </p>
+      <small>Innoport is the corporate venture capital arm of the Schulte Group,
+investing in innovative and high-potential early-stage startups. A
+member of the Schulte Group, Innoport can provide startups with
+expertise, market access and pilot opportunities in addition to
+funding. The Schulte Group is a world-leading family-owned ship
+owner and ship manager with over 135 years of expertise in the
+maritime industry. Overall, the Group employs 18,000 seafarers
+and 1,800 people on shore, owns 90 vessels and manages over
+600 vessels globally.</small>
+      <p>
+        <a href="" target="_blank">
+          <small>
+            Visit their website
+          </small>
+        </a>
+      </p>
+    </div>
+  </div>
+  <div class="sgds-card col others" style="flex: 1 1 47%; margin: 10px">
+    <div class="sgds-card-image" style="margin-top: 15px">
+      <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
+        <img src="https://www.startupsg.gov.sg/api/v0/profile-images/21751/image/avatar" style="object-fit: scale-down; max-width: 100%; max-height: 100%;">
+      </figure>
+    </div>
+    <div class="sgds-card-content">
+      <p>
+        <strong>
+          PSA unboXed
+        </strong>
+      </p>
+      <small>PSA unboXed is the external innovation and venture capital arm of
+PSA International (“PSA”), a leading global port operator with over
+50 coastal, rail and inland terminals in 19 countries. As the partner
+of choice in the global supply chain, PSA is “The World's Port of
+Call”. Established in 2016, PSA unboXed seeks to nurture
+technology and innovation from startups globally with a focus on
+logistics, ports and maritime. Drawing on the deep expertise and
+experience from a diverse global team, PSA unboXed collaborates with start-ups actively through product trials, incubation,
+deployment and investment activities.</small>
+      <p>
+        <a href="" target="_blank">
+          <small>
+            Visit their website
+          </small>
+        </a>
+      </p>
+    </div>
+  </div>
+  <div class="sgds-card col others" style="flex: 1 1 47%; margin: 10px">
+    <div class="sgds-card-image" style="margin-top: 15px">
+      <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
+        <img src="https://www.startupsg.gov.sg/api/v0/profile-images/21809/image/avatar" style="object-fit: scale-down; max-width: 100%; max-height: 100%;">
+      </figure>
+    </div>
+    <div class="sgds-card-content">
+      <p>
+        <strong>
+          Rainmaking
+        </strong>
+      </p>
+      <small>Rainmaking is one of the world’s leading corporate innovation and
+venture development firms with 12 offices around the world. We
+create, accelerate, and scale new business, solving problems with
+the world’s leading corporations. In the last 13 years, Rainmaking
+launched 29 ventures worth over $2bn in value, including one of
+the world’s most active global investors and accelerators,
+Startupbootcamp. Since 2006, Startupbootcamp has invested in
+over 800 startups that went on to raise more than $1bn.
+Rainmaking has partnered with Fortune500 companies including
+IKEA, VISA, Airbus, Engie, HSBC and Jaguar. We are also a proud
+member of the UN Global Compact, driving major initiatives on a
+broad spectrum of social and environmental impact issues.</small>
+      <p>
+        <a href="" target="_blank">
+          <small>
+            Visit their website
+          </small>
+        </a>
+      </p>
+    </div>
+  </div>
+  <div class="sgds-card col others" style="flex: 1 1 47%; margin: 10px">
+    <div class="sgds-card-image" style="margin-top: 15px">
+      <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;">
+        <img src="https://www.startupsg.gov.sg/api/v0/profile-images/22071/image/avatar" style="object-fit: scale-down; max-width: 100%; max-height: 100%;">
+      </figure>
+    </div>
+    <div class="sgds-card-content">
+      <p>
+        <strong>
+          TecPier
+        </strong>
+      </p>
+      <small>TecPier is a venture capital investor in early-stage maritime and
+supply chain technology startups. It actively supports its portfolio
+companies with market access, fundraising and mentoring. TecPier
+has a clear focus on digital business models that have the potential
+to transform the shipping and supply chain industries.</small>
+      <p>
+        <a href="https://tecpier.vc/" target="_blank">
+          <small>
+            Visit their website
+          </small>
+        </a>
+      </p>
+    </div>
+  </div>
 </div>
