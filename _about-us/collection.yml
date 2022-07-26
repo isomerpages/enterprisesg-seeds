@@ -2,8 +2,8 @@ collections:
   about-us:
     output: true
     order:
+      - Brief Overview.md
+      - Our Investment Model.md
       - Board Of Directors.md
       - Investment Panel.md
       - Investment Team.md
-      - Brief Overview.md
-      - Our Investment Model.md
