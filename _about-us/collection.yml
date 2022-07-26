@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - People/.keep
       - Brief Overview.md
       - Our Investment Model.md
       - Board Of Directors.md
