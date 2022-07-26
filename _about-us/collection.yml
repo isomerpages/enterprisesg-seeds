@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - People/Investment Team.md
       - People/Investment Panel.md
       - People/Board Of Directors.md
       - People/.keep
