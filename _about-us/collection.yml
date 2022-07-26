@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Brief Overview.md
       - Our Fund Mandate.md
       - Board Of Directors.md
       - Investment Panel.md
