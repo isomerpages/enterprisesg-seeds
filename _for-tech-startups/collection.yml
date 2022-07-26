@@ -1,5 +1,5 @@
 collections:
-  for-startups:
+  for-tech-startups:
     output: true
     order:
       - How We Invest.md
