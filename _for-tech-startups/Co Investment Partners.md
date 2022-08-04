@@ -1,5 +1,5 @@
 ---
-title: Co Investment Partners
+title: Co-Investment Partners
 permalink: /for-startups/co-investment-partners
 description: ""
 ---
