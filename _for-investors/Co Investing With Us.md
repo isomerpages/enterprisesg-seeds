@@ -1,5 +1,5 @@
 ---
-title: Co Investing With Us
+title: Co-Investing With Us
 permalink: /for-investors/co-investing-with-us
 description: ""
 ---
