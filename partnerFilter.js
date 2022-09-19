@@ -13,6 +13,6 @@ document.getElementById('partner-choice').addEventListener('change', function() 
 
 console.log("testing csv parse")
 
-fetch('CoInvPartners.csv')
+fetch('../CoInvPartners.csv')
   .then((response) => response.text())
   .then((data) => console.log(data));
