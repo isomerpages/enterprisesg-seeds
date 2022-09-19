@@ -16,3 +16,9 @@ console.log("testing csv parse")
 fetch('../CoInvPartners.csv')
   .then((response) => response.text())
   .then((data) => console.log(data));
+
+Papa.parse('../CoInvPartners.csv', {
+	complete: function(results) {
+		console.log("Finished:", results.data);
+	}
+});
