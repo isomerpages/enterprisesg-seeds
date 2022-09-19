@@ -26,6 +26,8 @@ fetch('../CoInvPartners.csv')
   .then((data) => console.log(data));
 
 Papa.parse('../CoInvPartners.csv', {
+	header: true,
+	download: true,
 	complete: function(results) {
 		console.log("Finished:", results.data);
 	}
