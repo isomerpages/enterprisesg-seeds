@@ -25,10 +25,16 @@ fetch('../CoInvPartners.csv')
   .then((response) => response.text())
   .then((data) => console.log(data));
 
+var app = document.querySelector('#partnerContainer');
+
+
 Papa.parse('../CoInvPartners.csv', {
 	header: true,
 	download: true,
 	complete: function(results) {
 		console.log("Finished:", results.data);
+		app.innerHTML = results.data.map(function (each) {
+			return '<li>' + each.name + '</li>' + <li> + each.url + </li>;
+		}).join('')
 	}
 });
