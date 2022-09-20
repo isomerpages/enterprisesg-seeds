@@ -41,4 +41,3 @@ description: ""
   </div>
 </div>
 <script src="/partnerFilter.js"></script>
-<script src="/partnerCSVParse.js"</script>
