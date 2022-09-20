@@ -34,7 +34,7 @@ Papa.parse('../CoInvPartners.csv', {
 	complete: function(results) {
 		console.log("Finished:", results.data);
 		app.innerHTML = results.data.map(function (each) {
-			return '<li>' + each.name + '</li>' + <li> + each.url + </li>;
+			return '<li>' + each.name + '</li>' + '<li>' + each.url + '</li>';
 		}).join('')
 	}
 });
