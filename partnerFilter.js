@@ -33,7 +33,8 @@ Papa.parse('../CoInvPartners.csv', {
 	download: true,
 	complete: function(results) {
 		console.log("Finished:", results.data);
-		app.innerHTML = results.data.map(function (each) {
+		var allresults = results.data.slice(0, -1)
+		app.innerHTML = allresults.map(function (each) {
 			return '<div class="sgds-card col ' + each.category + '" style="flex: 1 1 47%; margin: 10px"> <div class="sgds-card-image" style="margin-top: 15px"> <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;"> <img src="' + each.logo + '" style="object-fit: scale-down; max-width: 100%; max-height: 100%;"> </figure> </div> <div class="sgds-card-content"> <p> <strong>' + each.name + '</strong> </p><small>' + each.desc + '</small><p> <a href="' + each.url + '" target="_blank"> <small> Visit their website </small> </a> </p> </div> </div>';
 		}).join('')
 	}
