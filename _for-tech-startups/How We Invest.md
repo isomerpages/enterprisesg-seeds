@@ -18,13 +18,13 @@ If your startup is ready to fundraise from us and [our co-investment partners](/
 * Business must not be involved in the following business activities: gambling, tobacco-related products, or any other activities which are in violation of law, or against public interest.
 * Company cannot be a subsidiary or joint venture.
 
-*General traits exhibited by a deep technology start up include, but are not limited to: 
+<small>*General traits exhibited by a deep technology start up include, but are not limited to:</small>
 <br>
-a. Product is built around differentiated, and often protected technological or scientific advances; 
+<small>a. Product is built around differentiated, and often protected technological or scientific advances;</small>
 <br>
-b. High barrier to entry; 
+<small>b. High barrier to entry;</small>
 <br>
-c. Long commercialisation period (typically more than 3 years)
+<small>c. Long commercialisation period (typically more than 3 years)</small>
 
 
 
