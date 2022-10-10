@@ -11,7 +11,7 @@ SEEDS Capital catalyses private sector investments into Singapore-based technolo
 
 Our three focus sectors are Advanced Manufacturing & Engineering, Health & Biomedical Sciences and Urban Solutions & Sustainability. We also look at other emerging verticals such as Agri-tech, Artificial Intelligence, Blockchain, Quantum and Space Technologies. 
 
-Leveraging Enterprise Singapore’s extensive networks across more than 15 sectors and 30+ global overseas centers, we support our portfolio companies to scale strategically and internationalise. 
+Leveraging [Enterprise Singapore's](https://www.enterprisesg.gov.sg/) extensive networks across more than 15 sectors and 30+ global overseas centers, we support our portfolio companies to scale strategically and internationalise. 
 
 In recent years, we have deployed more than S$130M and stimulated more than S$1B of private sector investments into >350 companies. Learn more about our co-investment partners and the startups here.
 
@@ -24,5 +24,4 @@ In the last ten years, Singapore’s startup ecosystem has evolved tremendously.
 Our co-investment schemes are designed to provide leverage to our co-investors, thereby driving investments into deep tech sectors and enabling deep tech startup growth.  
 
 ##### Fund Manager of StartupSG Equity 
-SEEDS Capital is one of the appointed fund managers for the Startup SG Equity (SSGE) scheme. The SSGE scheme is part of Singapore’s national R&D blueprint that spans Research, Innovation and Enterprise (RIE). 
-
+SEEDS Capital is one of the appointed fund managers for the Startup SG Equity (SSGE) scheme. The SSGE scheme is part of Singapore’s national R&D blueprint that spans Research, Innovation and Enterprise (RIE).
