@@ -1,37 +1,46 @@
 ---
 title: Co-Investing With Us
-permalink: /for-investors/co-investing-with-us
+permalink: /for-investors/co-investing-with-us/
 description: ""
 ---
+SEEDS Capital’s core mandate is to stimulate private sector investments into deep tech startups (as described in [About Us / Overview](/about-us/overview)).
 
-One of SEEDS Capital's objective is to encourage more private sector investments in nascent sectors. We work towards this objective by co-investing with institutional investors in the private sector to help de-risk their investments.   
+We value partners who can:
+* Identify and co-invest in Singapore-based, deep tech and early-stage startups in the Advanced Manufacturing & Engineering, Agrifood Tech, Health & Biomedical Sciences and Urban Solutions sectors;
+* Enable early-stage startups to fast-track commercialisation through mentorship and business matching.
 
-As a potential co-investor, you will be assessed, among other things, based on your alignment to the Startup SG Equity co-investment scheme objectives and the ability to value-add to startups.
+There are two ways to co-invest with us: 
 
-If you are an institutional investor looking for a co-investor, there are two ways to partner with us:
+##### **1. Apply to be a co-investment partner**
 
-#### **1. To be appointed as a co-investment partner** <br/>
-We prefer working and co-investing with our appointed partners as they are strategic, private sector investors that has been evaluated on multiple and stringent criteria. 
+We will publicly release information on the next call for new co-investment partner applications. We do not have an open call now. You can sign up for our newsletter [here](https://enterprisesg.us14.list-manage.com/subscribe?u=b5fb15f5d3fd9e98d46329c56&id=d848098406) to stay abreast of our activities. 
 
-Deals done with our appointed partners **have a higher chance of passing our investment panel and form a majority of the deals that we have made to date.** 
+Co-investment applicants will be evaluated against a robust set of criteria.
 
-We will publicly release information on the next call for new co-investment partner applications. You will be evaluated on multiple criteria, including a strong management team, experience or track record in the relevant domains and ability to value-add to startups in specific emerging industry(s).  
-  
-Find out more about our appointed partners [here](/our-co-investors/list-of-investors). Interested investors may contact us at [seeds@enterprisesg.gov.sg](mailto:seeds@enterprisesg.gov.sg).
+* **Access to Funding and Expertise:** The investor should have funds ready for immediate deployment and connections to other investors, innovators and business leaders who can value-add to startups. 
+* **Decision Making & Fund Management Process:** The investor should have a robust due diligence process with supplementary checks and balances to prevent any conflict of interest. The investment committee should contain at least one independent member who is separate from the main deal sourcing team.
 
-#### **2. Co-investing an a non-appointed partner**
+**We also look for the following traits:**
+* Capability of the management team
+* Access to commercialisation resources
+* Developmental and economic contributions to Singapore 
+* Access to good deal flow in Singapore
 
-A non-appointed partner can submit an application to SEEDS Capital at [seeds@enterprisesg.gov.sg](mailto:seeds@enterprisesg.gov.sg), with the following documents:
+Find out more about our appointed partners here. Interested investors may contact us at seeds@enterprisesg.gov.sg.
+
+##### **2. Approach us for ad-hoc co-investments**
+
+If you are a non-appointed partner and keen to co-invest with us, contact us at seeds@enterprisesg.gov.sg with the following documents:
 
 **Background information of the co-investor**
-*   Ability to contribute to the startup’s growth strategies
-*   Management experience, relevant business contacts and/or necessary technical expertise that can value-add to the startup
-*   Proposed investment quantum
-*   Demonstrate independence and hold no prior interest (e.g. not hold shares in the investee prior to the co-investment for new investments)
+* Ability to contribute to the startup’s growth strategies
+* Management experience, relevant business contacts and/or necessary technical expertise that can value-add to the startup
+* Proposed investment quantum
+* Demonstrate independence with no prior interest (e.g., not hold shares in the investee prior to the co-investment for new investments)
 
 **Background information of the startup**
-*   A two-page executive summary of your startip
-*   Supporting documents for a first-level assessment would include:
-    *   Business plan of your startup
-    *   Financial statements or management accounts of your startup
-    *   Business ACRA of your startup
+* A two-page executive summary of your startup
+* Supporting documents for a first-level assessment would include:
+	* Business plan of your startup
+	* Financial statements or management accounts of your startup
+	* Business ACRA of your startup
