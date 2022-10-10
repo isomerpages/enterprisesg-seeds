@@ -19,6 +19,7 @@ If your startup is ready to fundraise from us and [our co-investment partners](/
 * Company cannot be a subsidiary or joint venture.
 
 *General traits exhibited by a deep technology start up include, but are not limited to: 
+<br>
 a. Product is built around differentiated, and often protected technological or scientific advances; 
 <br>
 b. High barrier to entry; 
@@ -42,4 +43,4 @@ Background information of your startup
 * Supporting documents for a first-level assessment would include:
 	* Business plan 
 	* Financial statements or management accounts 
-	* ACRA Bizfile 
+	* ACRA Bizfile
