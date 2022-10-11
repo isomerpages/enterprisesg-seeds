@@ -3,10 +3,14 @@ title: Board of Directors
 permalink: /about-us/board-of-directors/
 description: ""
 ---
-
-
-
 <h2><strong>Board Of Directors (pending approval)</strong></h2>
+<br>
+**Chairman**
+<img src="/images/jeffsiow.jpg" style="width: 200px; margin-left: 0; filter:grayscale(1);">
+**Jeffrey Siow**\
+Managing Director & Chief Operating Officer\
+<img src="/images/linkedin.png" style="width: 20px;margin-left: 0; display: inline;"> [LinkedIn](https://www.linkedin.com/in/jsiow/){:target="_blank"}
+<br><br>
 <img src="/images/markhon.png" style="width: 200px; margin-left: 0; filter:grayscale(1);">
 **Mark Hon**\
 Chairman & Founder\
@@ -36,9 +40,4 @@ Monk’s Hill Ventures\
 Co-Founder, Quantum Inventions\
 CEO, Proxtera\
 <img src="/images/linkedin.png" style="width: 20px;margin-left: 0; display: inline;"> [LinkedIn](https://www.linkedin.com/in/sauravbhattacharyya){:target="_blank"}
-<br><br>
-<img src="/images/jeffsiow.jpg" style="width: 200px; margin-left: 0; filter:grayscale(1);">
-**Jeffrey Siow**\
-Managing Director & Chief Operating Officer\
-<img src="/images/linkedin.png" style="width: 20px;margin-left: 0; display: inline;"> [LinkedIn](https://www.linkedin.com/in/jsiow/){:target="_blank"}
 <br><br>
