@@ -1,12 +1,11 @@
 ---
 title: Our Investment Model
-permalink: /about-us/our-investment-model
+permalink: /about-us/our-investment-model/
 description: ""
 ---
-
 As the investment arm of Enterprise Singapore and as one of the entities appointed to manage funds under Startup SG Equity, SEEDS Capital seeks to catalyse smart monies into Singapore-based, early-stage technology startups. 
 
-**Our Investment Model**\
+**Our Co-investment Model**\
 We co-invest with strategic, private sector investors. Our partner investors are institutional investors such as venture capital firms and investment arms of corporates.
 
 **Our Investment Focus**\
