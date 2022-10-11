@@ -1,5 +1,5 @@
 collections:
-  meet-our-portfolio-companies:
+  our-portfolio-companies:
     output: true
     order:
       - Portfolio Companies/.keep
