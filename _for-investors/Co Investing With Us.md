@@ -1,6 +1,6 @@
 ---
-title: Co-Investing With Us
-permalink: /for-investors/co-investing-with-us/
+title: Co-Invest With Us
+permalink: /for-investors/co-invest-with-us/
 description: ""
 ---
 SEEDS Capital’s core mandate is to stimulate private sector investments into deep tech startups (as described in [About Us / Overview](/about-us/overview)).
