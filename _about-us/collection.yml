@@ -2,9 +2,9 @@ collections:
   about-us:
     output: true
     order:
-      - Contact.md
       - Overview.md
       - Our Investment Model.md
       - Board of Directors.md
       - Investment Panel (IP) Members.md
       - Investment Team.md
+      - Contact.md
