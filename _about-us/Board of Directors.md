@@ -48,19 +48,67 @@ description: ""
             </div>
         </div>
     </div>
+	<div class="sgds-card col" style="flex: 1 1 47%; margin: 10px; max-width: 300px">
+	<div class="sgds-card-image" style="margin-top: 15px; padding-left: 1.5rem;">
+            <figure class="sgds-image"
+                style="height: 200px;display: flex;justify-content: center;flex-direction: column;">
+                <img src="/images/chiewyusarn.jpg" style="width: 200px; margin-left: 0; filter:grayscale(1);object-fit: scale-down; max-width: 100%;
+                    max-height: 100%;">
+            </figure>
+        </div>
+        <div class="sgds-card-content">
+            <p><strong>Chiew Yu Sarn</strong></p>
+            <small>Co-Managing Partner</small><br>
+					<small>Yusarn Audrey</small>
+            <div style="display: flex;margin-top: 10px;">
+                <div><img src="/images/linkedin.png"
+                        style="width: 20px;margin-left: 0; display: inline; margin-right: 10px;"></div>
+                <a href="https://www.linkedin.com/in/yusarn/" target="_blank"><small>LinkedIn</small></a>
+            </div>
+        </div>
+    </div>
 </div>
-<img src="/images/chiewyusarn.jpg" style="width: 200px; margin-left: 0; filter:grayscale(1);">
-**Chiew Yu Sarn**\
-Co-Managing Partner\
-Yusarn Audrey\
-<img src="/images/linkedin.png" style="width: 20px;margin-left: 0; display: inline"> [LinkedIn](https://www.linkedin.com/in/yusarn){:target="_blank"}
-<br><br>
-<img src="/images/davidtoh.png" style="width: 200px; margin-left: 0; filter:grayscale(1);">
-**David Toh**\
-Partner, Governance, Risk & Compliance & Internal Audit\
-PwC\
-<img src="/images/linkedin.png" style="width: 20px;margin-left: 0; display: inline;"> [LinkedIn](https://www.linkedin.com/in/david-toh-7108317/){:target="_blank"}
-<br><br>
+<div class="sgds-card col" style="flex: 1 1 47%; margin: 10px; max-width: 300px">
+	<div class="sgds-card-image" style="margin-top: 15px; padding-left: 1.5rem;">
+            <figure class="sgds-image"
+                style="height: 200px;display: flex;justify-content: center;flex-direction: column;">
+                <img src="/images/davidtoh.png" style="width: 200px; margin-left: 0; filter:grayscale(1);object-fit: scale-down; max-width: 100%;
+                    max-height: 100%;">
+            </figure>
+        </div>
+        <div class="sgds-card-content">
+            <p><strong>David Toh</strong></p>
+            <small>Partner, Governance, Risk & Compliance & Internal Audit</small><br>
+					<small>PwC</small>
+            <div style="display: flex;margin-top: 10px;">
+                <div><img src="/images/linkedin.png"
+                        style="width: 20px;margin-left: 0; display: inline; margin-right: 10px;"></div>
+                <a href="https://www.linkedin.com/in/david-toh-7108317/" target="_blank"><small>LinkedIn</small></a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="sgds-card col" style="flex: 1 1 47%; margin: 10px; max-width: 300px">
+	<div class="sgds-card-image" style="margin-top: 15px; padding-left: 1.5rem;">
+            <figure class="sgds-image"
+                style="height: 200px;display: flex;justify-content: center;flex-direction: column;">
+                <img src="/images/davidtoh.png" style="width: 200px; margin-left: 0; filter:grayscale(1);object-fit: scale-down; max-width: 100%;
+                    max-height: 100%;">
+            </figure>
+        </div>
+        <div class="sgds-card-content">
+            <p><strong>David Toh</strong></p>
+            <small>Partner, Governance, Risk & Compliance & Internal Audit</small><br>
+					<small>PwC</small>
+            <div style="display: flex;margin-top: 10px;">
+                <div><img src="/images/linkedin.png"
+                        style="width: 20px;margin-left: 0; display: inline; margin-right: 10px;"></div>
+                <a href="https://www.linkedin.com/in/david-toh-7108317/" target="_blank"><small>LinkedIn</small></a>
+            </div>
+        </div>
+    </div>
+</div>
+
 <img src="/images/limkuoyi.jpg" style="width: 200px; margin-left: 0; filter:grayscale(1);">
 **Lim Kuo-Yi**\
 Co-Founder and Managing Partner\
