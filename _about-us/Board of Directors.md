@@ -3,6 +3,7 @@ title: Board of Directors
 permalink: /about-us/board-of-directors/
 description: ""
 ---
+<link rel="stylesheet" href="/sgds.css" />
 <h2><strong>Board Of Directors</strong></h2>
 <br>
 #### **Chairman**
