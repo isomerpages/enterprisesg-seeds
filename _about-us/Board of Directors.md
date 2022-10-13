@@ -3,7 +3,7 @@ title: Board of Directors
 permalink: /about-us/board-of-directors/
 description: ""
 ---
-<h2><strong>Board Of Directors (pending approval)</strong></h2>
+<h2><strong>Board Of Directors</strong></h2>
 <br>
 #####**Chairman**
 <br>
