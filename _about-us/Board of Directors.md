@@ -49,7 +49,7 @@ description: ""
         </div>
     </div>
 	<div class="sgds-card col" style="flex: 1 1 47%; margin: 10px; max-width: 300px">
-	<div class="sgds-card-image" style="margin-top: 15px; padding-left: 1.5rem;">
+	    <div class="sgds-card-image" style="margin-top: 15px; padding-left: 1.5rem;">
             <figure class="sgds-image"
                 style="height: 200px;display: flex;justify-content: center;flex-direction: column;">
                 <img src="/images/chiewyusarn.jpg" style="width: 200px; margin-left: 0; filter:grayscale(1);object-fit: scale-down; max-width: 100%;
@@ -67,9 +67,8 @@ description: ""
             </div>
         </div>
     </div>
-</div>
-<div class="sgds-card col" style="flex: 1 1 47%; margin: 10px; max-width: 300px">
-	<div class="sgds-card-image" style="margin-top: 15px; padding-left: 1.5rem;">
+    <div class="sgds-card col" style="flex: 1 1 47%; margin: 10px; max-width: 300px">
+	    <div class="sgds-card-image" style="margin-top: 15px; padding-left: 1.5rem;">
             <figure class="sgds-image"
                 style="height: 200px;display: flex;justify-content: center;flex-direction: column;">
                 <img src="/images/davidtoh.png" style="width: 200px; margin-left: 0; filter:grayscale(1);object-fit: scale-down; max-width: 100%;
@@ -87,9 +86,8 @@ description: ""
             </div>
         </div>
     </div>
-</div>
-<div class="sgds-card col" style="flex: 1 1 47%; margin: 10px; max-width: 300px">
-	<div class="sgds-card-image" style="margin-top: 15px; padding-left: 1.5rem;">
+    <div class="sgds-card col" style="flex: 1 1 47%; margin: 10px; max-width: 300px">
+	    <div class="sgds-card-image" style="margin-top: 15px; padding-left: 1.5rem;">
             <figure class="sgds-image"
                 style="height: 200px;display: flex;justify-content: center;flex-direction: column;">
                 <img src="/images/limkuoyi.jpg" style="width: 200px; margin-left: 0; filter:grayscale(1);object-fit: scale-down; max-width: 100%;
@@ -107,9 +105,8 @@ description: ""
             </div>
         </div>
     </div>
-</div>
-<div class="sgds-card col" style="flex: 1 1 47%; margin: 10px; max-width: 300px">
-	<div class="sgds-card-image" style="margin-top: 15px; padding-left: 1.5rem;">
+    <div class="sgds-card col" style="flex: 1 1 47%; margin: 10px; max-width: 300px">
+	    <div class="sgds-card-image" style="margin-top: 15px; padding-left: 1.5rem;">
             <figure class="sgds-image"
                 style="height: 200px;display: flex;justify-content: center;flex-direction: column;">
                 <img src="/images/saurav.jpg" style="width: 200px; margin-left: 0; filter:grayscale(1);object-fit: scale-down; max-width: 100%;
@@ -127,5 +124,4 @@ description: ""
             </div>
         </div>
     </div>
-</div>
 </div>
