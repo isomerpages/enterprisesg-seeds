@@ -4,13 +4,10 @@ permalink: /about-us/investment-panel/
 description: ""
 ---
 
-
-
-
 <link rel="stylesheet" href="/sgds.css" />
 <h2><strong>Investment Panel</strong></h2>
-<div style="display: flex; flex-wrap: wrap; padding: 10px">
-    <div class="sgds-card col" style="flex: 1 1 47%; margin: 10px; max-width: 300px">
+#### **Chairman**
+<div class="sgds-card col" style="flex: 1 1 47%; margin: 10px; max-width: 300px">
         <div class="sgds-card-image" style="margin-top: 15px; padding-left: 1.5rem;">
             <figure class="sgds-image"
                 style="height: 200px;display: flex;justify-content: center;flex-direction: column;">
@@ -30,6 +27,7 @@ description: ""
             </div>
         </div>
     </div>
+<div style="display: flex; flex-wrap: wrap; padding: 10px">
     <div class="sgds-card col" style="flex: 1 1 47%; margin: 10px; max-width: 300px">
         <div class="sgds-card-image" style="margin-top: 15px; padding-left: 1.5rem;">
             <figure class="sgds-image"
