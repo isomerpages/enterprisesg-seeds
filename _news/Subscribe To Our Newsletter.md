@@ -3,6 +3,7 @@ title: Subscribe To Our Newsletter
 permalink: /news/subscribe/
 description: ""
 ---
+<link rel="stylesheet" href="/sgds.css" />
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-071822.css" rel="stylesheet" type="text/css">
 <style type="text/css">
@@ -16,7 +17,6 @@ description: ""
     <form action="https://enterprisesg.us14.list-manage.com/subscribe/post?u=b5fb15f5d3fd9e98d46329c56&amp;id=d848098406&amp;f_id=00658be0f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
         <div id="mc_embed_signup_scroll">
         <h4>Subscribe to the SEEDS Newsletter</h4>
-        <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
 	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
 </label>
