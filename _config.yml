@@ -1,6 +1,6 @@
 title: SEEDS Capital
-url: ""
-favicon: /images/favicon.ico
+url: https://seedscapital.sg
+favicon: /images/scfavicon.ico
 colors:
   primary-color: "#8eba58"
   secondary-color: "#43493a"
@@ -54,3 +54,6 @@ staging: https://enterprisesg-seeds-staging.netlify.app
 prod: https://enterprisesg-seeds-prod.netlify.app
 google_analytics: "312673821"
 is_government: true
+shareicon: /images/isomer-logo.svg
+facebook-pixel: ""
+linkedin-insights: ""
