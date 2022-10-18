@@ -4,7 +4,7 @@ permalink: /about-us/board-of-directors/
 description: ""
 ---
 <link rel="stylesheet" href="/sgds.css" />
-<h2><strong>Board Of Directors</strong></h2>
+<h2><strong>Board of Directors</strong></h2>
 #### **Chairman**
 <div style="display: flex; flex-wrap: wrap; padding: 10px">
 <div class="sgds-card col" style="flex: 1 1 47%; margin: 10px; max-width: 300px">
