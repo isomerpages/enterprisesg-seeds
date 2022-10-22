@@ -28,7 +28,7 @@ fetch('../CoInvPartners.csv')
 var app = document.querySelector('#companies-result');
 
 
-Papa.parse('../CoInvPartners.csv', {
+Papa.parse('../../CoInvPartners.csv', {
 	header: true,
 	download: true,
 	complete: function(results) {
