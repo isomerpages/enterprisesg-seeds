@@ -3,7 +3,6 @@ title: Subscribe To Our Newsletter
 permalink: /news/subscribe/
 description: ""
 ---
-<link rel="stylesheet" href="/form.css" />
 <!-- Begin Mailchimp Signup Form -->
 <style type="text/css">
 	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif;  width:600px;}
