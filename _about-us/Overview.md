@@ -4,7 +4,7 @@ permalink: /about-us/overview/
 description: ""
 ---
 <style>
-.float-buttons {
+.bp-button {
 	display: none
 }
 </style>
