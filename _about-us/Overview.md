@@ -3,6 +3,11 @@ title: Overview
 permalink: /about-us/overview/
 description: ""
 ---
+<style>
+.float-buttons {
+	display: none
+}
+</style>
 ##### **Investment arm of Enterprise Singapore, nurturing Singapore-based tech startups with intellectual property and global market potential**
 
 SEEDS Capital was founded in 2001 when its first co-investment fund was launched to foster entrepreneurship. 
