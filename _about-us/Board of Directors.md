@@ -26,7 +26,7 @@ description: ""
         </div>
     </div>
 </div>
-#### **Members**
+#### **Board Members**
 <div style="display: flex; flex-wrap: wrap; padding: 10px">
 	<div class="sgds-card col" style="flex: 1 1 47%; margin: 10px; max-width: 300px">
         <div class="sgds-card-image" style="margin-top: 15px; padding-left: 1.5rem;">
