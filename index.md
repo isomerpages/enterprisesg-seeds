@@ -17,7 +17,7 @@ sections:
           - title: I am a startup
             url: /for-startups/how-we-invest
           - title: I am an investor
-            url: /for-investors/co-investing-with-us
+            url: /for-investors/co-invest-with-us/
   - infobar:
       description: <div><p class="padding--bottom eyebrow is-uppercase">Our
         Impact</p><div class="row is-centered bp-container
@@ -51,4 +51,3 @@ sections:
       subtitle: Learn more
       button: View More
 ---
-
