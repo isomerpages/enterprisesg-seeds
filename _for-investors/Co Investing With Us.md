@@ -13,7 +13,7 @@ There are two ways to co-invest with us:
 
 ##### **1. Apply to be a co-investment partner**
 
-We will publicly release information on the next call for new co-investment partner applications. We do not have an open call now. You can sign up for our newsletter [here](https://enterprisesg.us14.list-manage.com/subscribe?u=b5fb15f5d3fd9e98d46329c56&id=d848098406) to stay abreast of our activities. 
+We will publicly release information on the next call for new co-investment partner applications. We do not have an open call now. You can sign up for our newsletter [here](/news/subscribe/) to stay abreast of our activities. 
 
 Co-investment applicants will be evaluated against a robust set of criteria.
 
@@ -26,11 +26,11 @@ Co-investment applicants will be evaluated against a robust set of criteria.
 * Developmental and economic contributions to Singapore 
 * Access to good deal flow in Singapore
 
-Find out more about our appointed partners here. Interested investors may contact us at seeds@enterprisesg.gov.sg.
+Find out more about our appointed partners [here](/for-startups/co-investment-partners).
 
 ##### **2. Approach us for ad-hoc co-investments**
 
-If you are a non-appointed partner and keen to co-invest with us, contact us at seeds@enterprisesg.gov.sg with the following documents:
+If you are a non-appointed partner and keen to co-invest with us, contact us at seeds@enterprisesg.gov.sg with the following documents. Our [Investment Panel](/about-us/investment-panel/) will assess these investment opportunities:
 
 **Background information of the co-investor**
 * Ability to contribute to the startup’s growth strategies
