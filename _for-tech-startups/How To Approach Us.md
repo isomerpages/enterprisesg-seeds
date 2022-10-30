@@ -52,4 +52,4 @@ The final stage of assessment will be conducted by:
 * Our Investment Committee (for co-investments with our appointed partners) or 
 * [Our Investment Panel](/about-us/investment-panel/) (for co-investments with non-appointed partners)
 
-Companies that are not a fit with our investment mandate   will be informed timely. 
+Companies that are not a fit with our investment mandate   will be informed timely.
