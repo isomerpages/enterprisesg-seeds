@@ -2,5 +2,5 @@ collections:
   for-tech-startups:
     output: true
     order:
-      - How We Invest.md
+      - How To Approach Us.md
       - Co Investment Partners.md
