@@ -10,7 +10,7 @@ sections:
       title: SEEDS Capital
       subtitle: We catalyse smart monies into Singapore-based, early-stage technology
         startups.  Find out more about us.
-      background: /images/seeds-capital-banner.jpeg
+      background: /images/Skyline banner.jpg
       dropdown:
         title: Are you a startup/investor?
         options:
