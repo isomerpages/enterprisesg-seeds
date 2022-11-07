@@ -15,7 +15,7 @@ colors:
       color: "#005b8f"
     - title: media-color-five
       color: "#005b8f"
-resources_name: Resources
+resources_name: news
 description: Catalysing smart monies into Singapore-based, early-stage technology startups.
 permalink: none
 baseurl: ""
