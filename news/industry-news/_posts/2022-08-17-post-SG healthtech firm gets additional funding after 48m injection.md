@@ -1,6 +1,6 @@
 ---
-title: SG healthtech firm gets additional funding after 48m injection
-permalink: /news/industry-news/permalink/
+title: SG healthtech firm gets additional funding after $48m injection
+permalink: /news/industry-news/SG-healthtech-firm-gets-additional-funding-after-48m-injection/
 date: 2022-08-17
 layout: post
 description: ""
