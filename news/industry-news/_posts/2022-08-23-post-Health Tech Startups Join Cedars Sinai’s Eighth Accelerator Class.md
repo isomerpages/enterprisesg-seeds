@@ -1,6 +1,6 @@
 ---
 title: Health-Tech Startups Join Cedars-Sinai’s Eighth Accelerator Class
-permalink: /news/industry-news/permalink/
+permalink: /news/industry-news/Health-Tech-Startups-Join-Cedars-Sinais-Eightg-Accelerator-Class/
 date: 2022-08-23
 layout: post
 description: ""
