@@ -18,4 +18,3 @@ description: ""
 <div id="companies-result" style="display: flex; flex-wrap: wrap; padding: 10px">
 </div>
 <script src="/coyFilter.js"></script>
-<script src="/logoResize.js"></script>
