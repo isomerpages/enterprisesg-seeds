@@ -12,7 +12,7 @@ Thank you to all the founders and investors for coming!
 
 *   ABM Respiratory Care 
 *   AWAK Technologies 
-*   Alchemy Foodtech | Alchemy Fibre™ 
+*   Alchemy Foodtech (Alchemy Fibre™) 
 *   ceEntek Pte Ltd
 *   Evercomm Singapore   
 *   F-drones 
