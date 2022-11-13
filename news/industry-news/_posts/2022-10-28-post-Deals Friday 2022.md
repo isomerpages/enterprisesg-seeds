@@ -22,6 +22,6 @@ Thank you to all the founders and investors for coming!
 *   Shiok Meats   
 *   VFlowTech
 
-<iframe
+<iframe style="width: 100%; height: 400px"
 src="https://www.youtube.com/embed/BK2FXRC7QtI">
 </iframe>
