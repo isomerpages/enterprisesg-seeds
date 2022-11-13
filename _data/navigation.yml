@@ -10,7 +10,7 @@ links:
     collection: our-portfolio-companies
   - title: News
     resource_room: true
-  - title: News 2
-    collection: news
   - title: Join Us
     url: /join-us
+  - title: Subscribe
+    url: /subscribe
