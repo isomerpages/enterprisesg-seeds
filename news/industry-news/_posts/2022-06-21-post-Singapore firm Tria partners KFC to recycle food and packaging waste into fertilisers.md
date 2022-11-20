@@ -44,3 +44,5 @@ Minister of State for Trade and Industry Low Yen Ling, the guest of honour at th
 "Clever circular economy solutions like what we see today have the potential to break the cycle of escalating waste. Innovation is critical for sustainable development, especially with rising global demand for food supplies and fast-depleting resources," she said.
 
 The collaboration was facilitated by Enterprise Singapore under the Enterprise Sustainability Programme launched in 2021 that supports Singapore companies to build capabilities and capture new opportunities in the green economy.
+
+This article first appeared in [The Straits Times](https://www.straitstimes.com/singapore/environment/spore-firm-tria-partners-kfc-to-recycle-food-and-packaging-waste-into-fertilisers)
