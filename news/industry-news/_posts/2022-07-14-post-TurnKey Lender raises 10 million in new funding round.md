@@ -15,3 +15,5 @@ Founded in 2014, TurnKey Lender plays a part in democratisation of digital lendi
 **[Dmitry Voronenko](https://ffnews.com/people/dmitry-voronenko/), CEO and Co-founder of TurnKey Lender said**: “We are pleased to have raised our latest level of funding and to continue partnering with great investors. This will turbocharge theth next stage of our growth. We believe that embedded lending will soon be part of any customer relationship globally.
 
 We are excited to have Christian in our corner. As our new Chairman, I am certain his vision and experience in the market will help our business accelerate even faster on the journey to be a leading global financial services company.”
+
+*This article first appeared in [Fintech Finance News](https://ffnews.com/newsarticle/turnkey-lender-raises-10-million-in-new-funding-round-appoints-christian-morales-as-chairman-of-the-board/)*
