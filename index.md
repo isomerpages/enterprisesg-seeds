@@ -35,7 +35,7 @@ sections:
         class="has-text-secondary padding--bottom"><b>40
         investors</b></h1><p>that we partner with</p></div><div class="col
         force-half padding"><img
-        src="https://d33wubrfki0l68.cloudfront.net/e1b02eb10f23dbeeddcebff77ff546f8df6be30e/451f0/images/coinvestors.png"
+        src="/images/coinvestors.png"
         alt="Image alt text"></div></div>
   - infobar:
       description: <div class="row is-centered bp-container justify-content-between
@@ -44,7 +44,7 @@ sections:
         class="has-text-secondary padding--bottom"><b>>350
         companies</b></h1><p>we invested in</p></div><div class="col force-half
         padding"><img
-        src="https://d33wubrfki0l68.cloudfront.net/ab79352a6acfe9a2ac9abba90ec4cddbe1802a11/a4351/images/successstories.png"
+        src="/images/successstories.png"
         alt="Image alt text"></div></div>
   - resources:
       title: Media
