@@ -14,13 +14,13 @@ sections:
       key_highlights:
         - title: Our Co-investment model
           description: Enabling deep-tech startups
-          url: ""
+          url: /about-us/our-co-investment-model/
         - title: Co-investment Partners
           description: See our list of partners here
-          url: ""
+          url: /for-startups/co-investment-partners
         - title: Our Portfolio Companies
           description: Companies we co-invested in
-          url: ""
+          url: /our-portfolio-companies/portfolio-companies
   - infobar:
       description: <div><p class="padding--bottom eyebrow is-uppercase">Our
         Impact</p><div class="row is-centered bp-container
