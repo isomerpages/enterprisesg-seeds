@@ -20,7 +20,7 @@ sections:
           url: /for-startups/co-investment-partners
         - title: Our Portfolio Companies
           description: Companies we co-invested in
-          url: /our-portfolio-companies/portfolio-companies
+          url: /our-portfolio-companies/all-companies
   - infobar:
       description: <div><p class="padding--bottom eyebrow is-uppercase">Our
         Impact</p><div class="row is-centered bp-container
