@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Portfolio Companies/.keep
-      - Portfolio Companies.md
       - Hear From Our Investees.md
