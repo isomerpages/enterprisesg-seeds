@@ -19,12 +19,6 @@ License: MIT
   }
 });*/
 
-console.log("testing csv parse")
-
-fetch('../Investee.csv')
-  .then((response) => response.text())
-  .then((data) => console.log(data));
-
 var app = document.querySelector('#companies-result');
 
 
