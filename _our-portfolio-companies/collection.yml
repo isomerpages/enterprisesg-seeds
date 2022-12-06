@@ -2,6 +2,7 @@ collections:
   our-portfolio-companies:
     output: true
     order:
+      - Portfolio Companies/Agritech & Foodtech.md
       - Portfolio Companies/Advanced Manufacturing and Engineering.md
       - Portfolio Companies/Urban Solutions & Sustainability.md
       - Portfolio Companies/Health & Biomedical Sciences.md
