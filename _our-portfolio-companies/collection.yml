@@ -2,6 +2,7 @@ collections:
   our-portfolio-companies:
     output: true
     order:
+      - Portfolio Companies/Urban Solutions & Sustainability.md
       - Portfolio Companies/Health & Biomedical Sciences.md
       - Portfolio Companies/All Companies.md
       - Portfolio Companies/.keep
