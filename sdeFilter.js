@@ -11,7 +11,7 @@ console.log("testing csv parse")
 
 var app = document.querySelector('#companies-result');
 
-Papa.parse('../../Investee.csv', {
+Papa.parse('/Investee.csv', {
 	header: true,
 	download: true,
 	complete: function(results) {
