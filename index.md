@@ -11,13 +11,16 @@ sections:
       subtitle: We catalyse smart monies into Singapore-based, early-stage technology
         startups.  Find out more about us.
       background: /images/Singapore skyline.jpg
-      dropdown:
-        title: Are you a startup/investor?
-        options:
-          - title: I am a startup
-            url: /for-startups/how-we-invest
-          - title: I am an investor
-            url: /for-investors/co-invest-with-us/
+      key_highlights:
+        - title: Our Co-investment model
+          description: Enabling deep-tech startups
+          url: ""
+        - title: Co-investment Partners
+          description: See our list of partners here
+          url: ""
+        - title: Our Portfolio Companies
+          description: Companies we co-invested in
+          url: ""
   - infobar:
       description: <div><p class="padding--bottom eyebrow is-uppercase">Our
         Impact</p><div class="row is-centered bp-container
@@ -34,18 +37,16 @@ sections:
         class="padding--bottom eyebrow is-uppercase">Our CO-INVESTORS</p><h1
         class="has-text-secondary padding--bottom"><b>40
         investors</b></h1><p>that we partner with</p></div><div class="col
-        force-half padding"><img
-        src="/images/coinvestors.png"
-        alt="Image alt text"></div></div>
+        force-half padding"><img src="/images/coinvestors.png" alt="Image alt
+        text"></div></div>
   - infobar:
       description: <div class="row is-centered bp-container justify-content-between
         padding--bottom"><div class="col force-half has-text-left"><p
         class="padding--bottom eyebrow is-uppercase">Our PORTFOLIO</p><h1
         class="has-text-secondary padding--bottom"><b>>350
         companies</b></h1><p>we invested in</p></div><div class="col force-half
-        padding"><img
-        src="/images/successstories.png"
-        alt="Image alt text"></div></div>
+        padding"><img src="/images/successstories.png" alt="Image alt
+        text"></div></div>
   - resources:
       title: Media
       subtitle: Learn more
