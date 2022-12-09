@@ -11,7 +11,7 @@ description: ""
         <div class="sgds-card-image" style="margin-top: 15px; padding-left: 1.5rem;">
             <figure class="sgds-image"
                 style="height: 200px;display: flex;justify-content: center;flex-direction: column;">
-                <img src="/images/jeffsiow.jpg" style="width: 200px; margin-left: 0; filter:grayscale(1);object-fit: scale-down; max-width: 100%;
+                <img src="/images/jeffsiow.jpg" style="width: 200px; margin-left: 0;object-fit: scale-down; max-width: 100%;
                     max-height: 100%;">
             </figure>
         </div>
@@ -29,29 +29,10 @@ description: ""
 #### **Board Members**
 <div style="display: flex; flex-wrap: wrap; padding: 10px">
 	<div class="sgds-card col" style="flex: 1 1 47%; margin: 10px; max-width: 300px">
-        <div class="sgds-card-image" style="margin-top: 15px; padding-left: 1.5rem;">
-            <figure class="sgds-image"
-                style="height: 200px;display: flex;justify-content: center;flex-direction: column;">
-                <img src="/images/markhon.jpg" style="width: 200px; margin-left: 0; filter:grayscale(1);object-fit: scale-down; max-width: 100%;
-                    max-height: 100%;">
-            </figure>
-        </div>
-        <div class="sgds-card-content">
-            <p><strong>Mark Hon</strong></p>
-            <small>Chairman & Founder</small><br>
-					<small>Sugar Venture</small>
-            <div style="display: flex;margin-top: 10px;">
-                <div><img src="/images/linkedin.png"
-                        style="width: 20px;margin-left: 0; display: inline; margin-right: 10px;"></div>
-                <a href="https://sg.linkedin.com/in/mark-hon-00835412" target="_blank"><small>LinkedIn</small></a>
-            </div>
-        </div>
-    </div>
-	<div class="sgds-card col" style="flex: 1 1 47%; margin: 10px; max-width: 300px">
 	    <div class="sgds-card-image" style="margin-top: 15px; padding-left: 1.5rem;">
             <figure class="sgds-image"
                 style="height: 200px;display: flex;justify-content: center;flex-direction: column;">
-                <img src="/images/chiewyusarn.jpg" style="width: 200px; margin-left: 0; filter:grayscale(1);object-fit: scale-down; max-width: 100%;
+                <img src="/images/chiewyusarn.jpg" style="width: 200px; margin-left: 0;object-fit: scale-down; max-width: 100%;
                     max-height: 100%;">
             </figure>
         </div>
@@ -70,7 +51,7 @@ description: ""
 	    <div class="sgds-card-image" style="margin-top: 15px; padding-left: 1.5rem;">
             <figure class="sgds-image"
                 style="height: 200px;display: flex;justify-content: center;flex-direction: column;">
-                <img src="/images/davidtoh.jpg" style="width: 200px; margin-left: 0; filter:grayscale(1);object-fit: scale-down; max-width: 100%;
+                <img src="/images/davidtoh.jpg" style="width: 200px; margin-left: 0;object-fit: scale-down; max-width: 100%;
                     max-height: 100%;">
             </figure>
         </div>
@@ -89,7 +70,7 @@ description: ""
 	    <div class="sgds-card-image" style="margin-top: 15px; padding-left: 1.5rem;">
             <figure class="sgds-image"
                 style="height: 200px;display: flex;justify-content: center;flex-direction: column;">
-                <img src="/images/limkuoyi.jpg" style="width: 200px; margin-left: 0; filter:grayscale(1);object-fit: scale-down; max-width: 100%;
+                <img src="/images/limkuoyi.jpg" style="width: 200px; margin-left: 0;object-fit: scale-down; max-width: 100%;
                     max-height: 100%;">
             </figure>
         </div>
@@ -105,10 +86,29 @@ description: ""
         </div>
     </div>
     <div class="sgds-card col" style="flex: 1 1 47%; margin: 10px; max-width: 300px">
+        <div class="sgds-card-image" style="margin-top: 15px; padding-left: 1.5rem;">
+            <figure class="sgds-image"
+                style="height: 200px;display: flex;justify-content: center;flex-direction: column;">
+                <img src="/images/markhon.jpg" style="width: 200px; margin-left: 0;object-fit: scale-down; max-width: 100%;
+                    max-height: 100%;">
+            </figure>
+        </div>
+        <div class="sgds-card-content">
+            <p><strong>Mark Hon</strong></p>
+            <small>Chairman & Founder</small><br>
+					<small>Sugar Venture</small>
+            <div style="display: flex;margin-top: 10px;">
+                <div><img src="/images/linkedin.png"
+                        style="width: 20px;margin-left: 0; display: inline; margin-right: 10px;"></div>
+                <a href="https://sg.linkedin.com/in/mark-hon-00835412" target="_blank"><small>LinkedIn</small></a>
+            </div>
+        </div>
+    </div>
+    <div class="sgds-card col" style="flex: 1 1 47%; margin: 10px; max-width: 300px">
 	    <div class="sgds-card-image" style="margin-top: 15px; padding-left: 1.5rem;">
             <figure class="sgds-image"
                 style="height: 200px;display: flex;justify-content: center;flex-direction: column;">
-                <img src="/images/saurav.jpg" style="width: 200px; margin-left: 0; filter:grayscale(1);object-fit: scale-down; max-width: 100%;
+                <img src="/images/saurav.jpg" style="width: 200px; margin-left: 0;object-fit: scale-down; max-width: 100%;
                     max-height: 100%;">
             </figure>
         </div>

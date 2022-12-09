@@ -51,25 +51,6 @@ description: ""
         <div class="sgds-card-image" style="margin-top: 15px; padding-left: 1.5rem;">
             <figure class="sgds-image"
                 style="height: 200px;display: flex;justify-content: center;flex-direction: column;">
-                <img src="/images/saurav.jpg" style="width: 200px; margin-left: 0;object-fit: scale-down; max-width: 100%;
-                max-height: 100%;">
-            </figure>
-        </div>
-        <div class="sgds-card-content">
-            <p><strong>Saurav Bhattacharyya</strong></p>
-            <small>Co-Founder, Quantum Inventions</small><br>
-            <small>CEO, Proxtera</small><br>
-            <div style="display: flex; margin-top: 10px;">
-                <div><img src="/images/linkedin.png"
-                        style="width: 20px;margin-left: 0; display: inline; margin-right: 10px;"></div>
-                <a href="https://www.linkedin.com/in/sauravbhattacharyya" target="_blank"><small>LinkedIn</small></a>
-            </div>
-        </div>
-    </div>
-    <div class="sgds-card col" style="flex: 1 1 47%; margin: 10px; max-width: 300px">
-        <div class="sgds-card-image" style="margin-top: 15px; padding-left: 1.5rem;">
-            <figure class="sgds-image"
-                style="height: 200px;display: flex;justify-content: center;flex-direction: column;">
                 <img src="/images/chrischia.jpg" style="width: 200px; margin-left: 0;object-fit: scale-down; max-width: 100%;
                 max-height: 100%;">
             </figure>
@@ -82,6 +63,25 @@ description: ""
                 <div><img src="/images/linkedin.png"
                         style="width: 20px;margin-left: 0; display: inline; margin-right: 10px;"></div>
                 <a href="https://www.linkedin.com/in/chris-chia-7ba7ab3" target="_blank"><small>LinkedIn</small></a>
+            </div>
+        </div>
+    </div>
+    <div class="sgds-card col" style="flex: 1 1 47%; margin: 10px; max-width: 300px">
+        <div class="sgds-card-image" style="margin-top: 15px; padding-left: 1.5rem;">
+            <figure class="sgds-image"
+                style="height: 200px;display: flex;justify-content: center;flex-direction: column;">
+                <img src="/images/jeanthoh.jpg" style="width: 200px; margin-left: 0;object-fit: scale-down; max-width: 100%;
+                max-height: 100%;">
+            </figure>
+        </div>
+        <div class="sgds-card-content">
+            <p><strong>Jean Thoh</strong></p>
+            <small>Executive Director</small><br>
+            <small>UOB Venture Management</small>
+            <div style="display: flex; margin-top: 10px;">
+                <div><img src="/images/linkedin.png"
+                        style="width: 20px;margin-left: 0; display: inline; margin-right: 10px;"></div>
+                <a href="https://www.linkedin.com/in/jean-thoh-904365/" target="_blank"><small>LinkedIn</small></a>
             </div>
         </div>
     </div>
@@ -108,22 +108,22 @@ description: ""
         <div class="sgds-card-image" style="margin-top: 15px; padding-left: 1.5rem;">
             <figure class="sgds-image"
                 style="height: 200px;display: flex;justify-content: center;flex-direction: column;">
-                <img src="/images/jeanthoh.jpg" style="width: 200px; margin-left: 0;object-fit: scale-down; max-width: 100%;
+                <img src="/images/saurav.jpg" style="width: 200px; margin-left: 0;object-fit: scale-down; max-width: 100%;
                 max-height: 100%;">
             </figure>
         </div>
         <div class="sgds-card-content">
-            <p><strong>Jean Thoh</strong></p>
-            <small>Executive Director</small><br>
-            <small>UOB Venture Management</small>
+            <p><strong>Saurav Bhattacharyya</strong></p>
+            <small>Co-Founder, Quantum Inventions</small><br>
+            <small>CEO, Proxtera</small><br>
             <div style="display: flex; margin-top: 10px;">
                 <div><img src="/images/linkedin.png"
                         style="width: 20px;margin-left: 0; display: inline; margin-right: 10px;"></div>
-                <a href="https://www.linkedin.com/in/jean-thoh-904365/" target="_blank"><small>LinkedIn</small></a>
+                <a href="https://www.linkedin.com/in/sauravbhattacharyya" target="_blank"><small>LinkedIn</small></a>
             </div>
         </div>
     </div>
-	<div class="sgds-card col" style="flex: 1 1 47%; margin: 10px; max-width: 300px">
+    <div class="sgds-card col" style="flex: 1 1 47%; margin: 10px; max-width: 300px">
         <div class="sgds-card-image" style="margin-top: 15px; padding-left: 1.5rem;">
             <figure class="sgds-image"
                 style="height: 200px;display: flex;justify-content: center;flex-direction: column;">
