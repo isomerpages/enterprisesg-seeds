@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Example Title.md
       - Overview.md
       - Our Co Investment Model.md
       - Board of Directors.md
