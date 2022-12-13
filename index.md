@@ -13,7 +13,7 @@ sections:
       background: /images/Singapore skyline.jpg
       key_highlights:
         - title: Co-investment model
-          description: Enabling deep tech startups
+          description: ---
           url: /about-us/our-co-investment-model/
         - title: Co-investment Partners
           description: See our list of partners here
