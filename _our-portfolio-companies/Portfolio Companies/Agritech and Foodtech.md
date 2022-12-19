@@ -1,5 +1,5 @@
 ---
-title: Agritech & Foodtech
+title: Agritech and Foodtech
 permalink: /our-portfolio-companies/Portfolio-Companies/agri/
 description: ""
 third_nav_title: Portfolio Companies
