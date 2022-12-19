@@ -1,5 +1,5 @@
 ---
-title: Health & Biomedical Sciences
+title: Health and Biomedical Sciences
 permalink: /our-portfolio-companies/Portfolio-Companies/hbms/
 description: ""
 third_nav_title: Portfolio Companies
