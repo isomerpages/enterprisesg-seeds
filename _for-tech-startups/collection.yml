@@ -2,6 +2,6 @@ collections:
   for-tech-startups:
     output: true
     order:
-      - Co Investment Partners/Co Investment Partners.md
+      - Co Investment Partners/All Partners.md
       - Co Investment Partners/.keep
       - How To Approach Us.md
