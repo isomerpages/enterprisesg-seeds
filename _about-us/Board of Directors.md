@@ -17,8 +17,8 @@ description: ""
         </div>
         <div class="sgds-card-content">
             <p><strong>Jeffrey Siow</strong></p>
-            <small>Managing Director & Chief Operating Officer</small><br>
-					  <small>Enterprise Singapore</small><br>
+            <small>Chairman</small><br>
+					  <small>SEEDS Capital</small><br>
             <div style="display: flex;margin-top: 10px;">
                 <div><img src="/images/linkedin.png"
                         style="width: 20px;margin-left: 0; display: inline; margin-right: 10px;"></div>
