@@ -18,6 +18,7 @@ description: ""
         <div class="sgds-card-content">
             <p><strong>Jeffrey Siow</strong></p>
             <small>Managing Director & Chief Operating Officer</small><br>
+					  <small>Enterprise Singapore</small><br>
             <div style="display: flex;margin-top: 10px;">
                 <div><img src="/images/linkedin.png"
                         style="width: 20px;margin-left: 0; display: inline; margin-right: 10px;"></div>
@@ -153,7 +154,8 @@ description: ""
         </div>
         <div class="sgds-card-content">
             <p><strong>Ted Tan</strong></p>
-            <small>Enterprise Fellow, Enterprise Singapore</small><br>
+            <small>Enterprise Fellow</small><br>
+					            <small>Enterprise Singapore</small><br>
             <div style="display: flex; margin-top: 10px;">
                 <div><img src="/images/linkedin.png"
                         style="width: 20px;margin-left: 0; display: inline; margin-right: 10px;"></div>
