@@ -70,6 +70,46 @@ description: ""
         <div class="sgds-card-image" style="margin-top: 15px; padding-left: 1.5rem;">
             <figure class="sgds-image"
                 style="height: 200px;display: flex;justify-content: center;flex-direction: column;">
+                <img src="/images/emily2.jpg" style="width: 200px; margin-left: 0;object-fit: scale-down; max-width: 100%;
+                max-height: 100%;">
+            </figure>
+        </div>
+        <div class="sgds-card-content">
+            <p><strong>Emily Liew</strong></p>
+            <small>Director</small><br>
+					  <small>SEEDS Capital</small><br>
+            <div style="display: flex; margin-top: 10px;">
+                <div><img src="/images/linkedin.png"
+                        style="width: 20px;margin-left: 0; display: inline; margin-right: 10px;"></div>
+                <a href="https://www.linkedin.com/in/emily-liew-8a455724"
+                    target="_blank"><small>LinkedIn</small></a>
+            </div>
+        </div>
+    </div>
+    <div class="sgds-card col" style="flex: 1 1 47%; margin: 10px; max-width: 300px">
+        <div class="sgds-card-image" style="margin-top: 15px; padding-left: 1.5rem;">
+            <figure class="sgds-image"
+                style="height: 200px;display: flex;justify-content: center;flex-direction: column;">
+                <img src="/images/geoffreyyeo2.jpg" style="width: 200px; margin-left: 0;object-fit: scale-down; max-width: 100%;
+                max-height: 100%;">
+            </figure>
+        </div>
+        <div class="sgds-card-content">
+            <p><strong>Geoffrey Yeo</strong></p>
+            <small>Director</small><br>
+					  <small>SEEDS Capital</small><br>
+            <div style="display: flex; margin-top: 10px;">
+                <div><img src="/images/linkedin.png"
+                        style="width: 20px;margin-left: 0; display: inline; margin-right: 10px;"></div>
+                <a href="https://www.linkedin.com/in/geoffrey-yeo-2a3b13142/"
+                    target="_blank"><small>LinkedIn</small></a>
+            </div>
+        </div>
+    </div>
+    <div class="sgds-card col" style="flex: 1 1 47%; margin: 10px; max-width: 300px">
+        <div class="sgds-card-image" style="margin-top: 15px; padding-left: 1.5rem;">
+            <figure class="sgds-image"
+                style="height: 200px;display: flex;justify-content: center;flex-direction: column;">
                 <img src="/images/jeanthoh.jpg" style="width: 200px; margin-left: 0;object-fit: scale-down; max-width: 100%;
                 max-height: 100%;">
             </figure>
@@ -82,6 +122,25 @@ description: ""
                 <div><img src="/images/linkedin.png"
                         style="width: 20px;margin-left: 0; display: inline; margin-right: 10px;"></div>
                 <a href="https://www.linkedin.com/in/jean-thoh-904365/" target="_blank"><small>LinkedIn</small></a>
+            </div>
+        </div>
+    </div>
+    <div class="sgds-card col" style="flex: 1 1 47%; margin: 10px; max-width: 300px">
+        <div class="sgds-card-image" style="margin-top: 15px; padding-left: 1.5rem;">
+            <figure class="sgds-image"
+                style="height: 200px;display: flex;justify-content: center;flex-direction: column;">
+                <img src="/images/jeffreysiow.jpg" style="width: 200px; margin-left: 0;object-fit: scale-down; max-width: 100%;
+                max-height: 100%;">
+            </figure>
+        </div>
+        <div class="sgds-card-content">
+            <p><strong>Jeffrey Siow</strong></p>
+            <small>Chairman</small><br>
+					  <small>SEEDS Capital</small><br>
+            <div style="display: flex; margin-top: 10px;">
+                <div><img src="/images/linkedin.png"
+                        style="width: 20px;margin-left: 0; display: inline; margin-right: 10px;"></div>
+                <a href="https://www.linkedin.com/in/jsiow/" target="_blank"><small>LinkedIn</small></a>
             </div>
         </div>
     </div>
@@ -120,65 +179,6 @@ description: ""
                 <div><img src="/images/linkedin.png"
                         style="width: 20px;margin-left: 0; display: inline; margin-right: 10px;"></div>
                 <a href="https://www.linkedin.com/in/sauravbhattacharyya" target="_blank"><small>LinkedIn</small></a>
-            </div>
-        </div>
-    </div>
-    <div class="sgds-card col" style="flex: 1 1 47%; margin: 10px; max-width: 300px">
-        <div class="sgds-card-image" style="margin-top: 15px; padding-left: 1.5rem;">
-            <figure class="sgds-image"
-                style="height: 200px;display: flex;justify-content: center;flex-direction: column;">
-                <img src="/images/jeffreysiow.jpg" style="width: 200px; margin-left: 0;object-fit: scale-down; max-width: 100%;
-                max-height: 100%;">
-            </figure>
-        </div>
-        <div class="sgds-card-content">
-            <p><strong>Jeffrey Siow</strong></p>
-            <small>Chairman</small><br>
-					  <small>SEEDS Capital</small><br>
-            <div style="display: flex; margin-top: 10px;">
-                <div><img src="/images/linkedin.png"
-                        style="width: 20px;margin-left: 0; display: inline; margin-right: 10px;"></div>
-                <a href="https://www.linkedin.com/in/jsiow/" target="_blank"><small>LinkedIn</small></a>
-            </div>
-        </div>
-    </div>
-    <div class="sgds-card col" style="flex: 1 1 47%; margin: 10px; max-width: 300px">
-        <div class="sgds-card-image" style="margin-top: 15px; padding-left: 1.5rem;">
-            <figure class="sgds-image"
-                style="height: 200px;display: flex;justify-content: center;flex-direction: column;">
-                <img src="/images/geoffreyyeo2.jpg" style="width: 200px; margin-left: 0;object-fit: scale-down; max-width: 100%;
-                max-height: 100%;">
-            </figure>
-        </div>
-        <div class="sgds-card-content">
-            <p><strong>Geoffrey Yeo</strong></p>
-            <small>Director</small><br>
-					  <small>SEEDS Capital</small><br>
-            <div style="display: flex; margin-top: 10px;">
-                <div><img src="/images/linkedin.png"
-                        style="width: 20px;margin-left: 0; display: inline; margin-right: 10px;"></div>
-                <a href="https://www.linkedin.com/in/geoffrey-yeo-2a3b13142/"
-                    target="_blank"><small>LinkedIn</small></a>
-            </div>
-        </div>
-    </div>
-	<div class="sgds-card col" style="flex: 1 1 47%; margin: 10px; max-width: 300px">
-        <div class="sgds-card-image" style="margin-top: 15px; padding-left: 1.5rem;">
-            <figure class="sgds-image"
-                style="height: 200px;display: flex;justify-content: center;flex-direction: column;">
-                <img src="/images/emily2.jpg" style="width: 200px; margin-left: 0;object-fit: scale-down; max-width: 100%;
-                max-height: 100%;">
-            </figure>
-        </div>
-        <div class="sgds-card-content">
-            <p><strong>Emily Liew</strong></p>
-            <small>Director</small><br>
-					  <small>SEEDS Capital</small><br>
-            <div style="display: flex; margin-top: 10px;">
-                <div><img src="/images/linkedin.png"
-                        style="width: 20px;margin-left: 0; display: inline; margin-right: 10px;"></div>
-                <a href="https://www.linkedin.com/in/emily-liew-8a455724"
-                    target="_blank"><small>LinkedIn</small></a>
             </div>
         </div>
     </div>
