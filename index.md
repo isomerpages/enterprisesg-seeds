@@ -47,6 +47,11 @@ sections:
         companies</b></h1><p>we invested in</p></div><div class="col force-half
         padding"><img src="/images/successstories.png" alt="Image alt
         text"></div></div>
+  - infobar:
+      title: Infobar Title
+      subtitle: Infobar Subtitle
+      description: Infobar description
+      button: Button Text
   - resources:
       title: Media
       subtitle: Learn more
