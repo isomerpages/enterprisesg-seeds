@@ -48,10 +48,10 @@ sections:
         padding"><img src="/images/successstories.png" alt="Image alt
         text"></div></div>
   - infobar:
-      title: Infobar Title
-      subtitle: Infobar Subtitle
-      description: Infobar description
-      button: Button Text
+      title: Newsletter Sign Up
+      description: Get the latest news on ..
+      button: Subscribe Now
+      url: https://enterprisesg.us14.list-manage.com/subscribe?u=b5fb15f5d3fd9e98d46329c56&id=d848098406
   - resources:
       title: Media
       subtitle: Learn more
