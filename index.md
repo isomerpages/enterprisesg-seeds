@@ -49,7 +49,8 @@ sections:
         text"></div></div>
   - infobar:
       title: Newsletter Sign Up
-      description: Get the latest news on innovative Singapore-based tech startups
+      description: Stay updated on our latest investment activities and Singapore's
+        deep tech ecosystem.
       button: Subscribe Now
       url: https://enterprisesg.us14.list-manage.com/subscribe?u=b5fb15f5d3fd9e98d46329c56&id=d848098406
   - resources:
