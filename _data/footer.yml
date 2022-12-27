@@ -1,4 +1,5 @@
 contact_us: /contact-us/
 show_reach: true
 faq: /faq/
-social_media: {}
+social_media:
+  linkedin: https://www.linkedin.com/company/seedscapitalsg/
