@@ -20,10 +20,10 @@ Papa.parse('/CoInvPartners.csv', {
 	complete: function(results) {
 		console.log("Finished:", results.data);
 		var allresults = results.data.slice(0, -1)
-		console.log("css dynamic scale 4")
+		console.log("css dynamic scale 5")
 		app.innerHTML = allresults
 			.map(function (each) {
-				return '<div class="sgds-card col ' + each.domain + '" style="flex: 1 1 47%; margin: 10px; max-width: 400px"> <div class="sgds-card-image" style="margin-top: 15px"> <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;padding: ' + each.padding + 'px"> <img src="' + each.img_url + '" class="auto-resize"> </figure> </div> <div class="sgds-card-content"> <p> <strong>' + each.name + '</strong> </p><small>' + each.desc + '</small><p> <a href="' + each.url + '" target="_blank"> <small> Visit their website </small> </a> </p> </div> </div>';
+				return '<div class="sgds-card col ' + each.domain + '" style="flex: 1 1 47%; margin: 10px; max-width: 400px"> <div class="sgds-card-image" style="margin-top: 15px"> <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;padding: ' + each.padding + 'px"> <img src="' + each.img_url + '" class="auto-resize" style="--width: 400; --height: 300;"> </figure> </div> <div class="sgds-card-content"> <p> <strong>' + each.name + '</strong> </p><small>' + each.desc + '</small><p> <a href="' + each.url + '" target="_blank"> <small> Visit their website </small> </a> </p> </div> </div>';
 			}).join('')
 	}
 });
