@@ -17421,7 +17421,7 @@ screen and (min-width:769px) {
 img.auto-resize {
     --width: 0;
   --height: 0;
-  --ideal-area: 40000;
+  --ideal-area: 400;
   --area: calc(var(--width) * var(--height));
   --ratio: calc(var(--ideal-area) / var(--area));
   --guess01: calc(calc(var(--ratio) + calc( var(--ratio) / var(--ratio))) / 2);
