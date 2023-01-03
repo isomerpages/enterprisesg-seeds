@@ -9,6 +9,11 @@ License: MIT
 var pathnamearr = window.location.pathname.split("/")
 var indexofcategory = pathnamearr.indexOf("co-investment-partners") + 1
 
+function imageResize(e) {
+	console.log(e)
+	console.log("image resize running")
+}
+
 console.log("testing csv parse")
 
 var app = document.querySelector('#partnerContainer');
@@ -27,7 +32,3 @@ Papa.parse('/CoInvPartners.csv', {
 			}).join('')
 	}
 });
-
-function imageResize(e) {
-  console.log(e)
-}
