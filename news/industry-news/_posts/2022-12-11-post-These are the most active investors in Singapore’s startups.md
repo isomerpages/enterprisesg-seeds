@@ -14,4 +14,6 @@ To keep things concise, we’re only featuring firms that have invested in three
 
 The “# of startups invested” under each firm is also limited to the region and that time frame. 
 
-Our data is a work in progress. If you find that there’s inaccurate or missing information about your fund, please drop us a note at research@techinasia.com and we’ll be happy to assist. 
+Our data is a work in progress. If you find that there’s inaccurate or missing information about your fund, please drop us a note at research@techinasia.com and we’ll be happy to assist.
+
+This article first appeared in [Tech In Asia](https://www.techinasia.com/active-investors-singapores-startups). 
