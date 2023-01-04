@@ -30,7 +30,7 @@ sections:
         class="padding">><b>350</b></h1><p>portfolio companies over 2019 -
         2021</p></div><div class="padding"><h1
         class="padding"><b>>40</b></h1><p>institutional investors over 2019 -
-        2021</p></div></div></div>
+        2021</p></div></div><div class="row is-centered bp-container justify-content-between padding--bottom--xl"><div class="padding"><h1 class="padding"><img src="https://trello.com/1/cards/63b39a86adb2af0575f1bc2e/attachments/63b39a86adb2af0575f1bc87/previews/63b39a87adb2af0575f1bc96/download/image005.png" style="width:300px;"></h1><p>Recognised by Tech In Asia as One of The Most Active VCs in Southeast Asia</p></div></div></div>
   - infobar:
       description: <div class="row is-centered bp-container justify-content-between
         padding--bottom"><div class="col force-half has-text-left"><p
