@@ -17,7 +17,7 @@ sections:
           url: /about-us/our-co-investment-model/
         - title: Co-investment Partners
           description: Meet our partners
-          url: /for-startups/co-investment-partners
+          url: /for-startups/co-investment-partners/all-partners
         - title: Portfolio Companies
           description: Meet our investees
           url: /our-portfolio-companies/all-companies
@@ -30,7 +30,12 @@ sections:
         class="padding">><b>350</b></h1><p>portfolio companies over 2019 -
         2021</p></div><div class="padding"><h1
         class="padding"><b>>40</b></h1><p>institutional investors over 2019 -
-        2021</p></div></div><div class="row is-centered bp-container justify-content-between padding--bottom--xl"><div class="padding"><h1 class="padding"><img src="/images/techinasialogo.png" style="width:300px;"></h1><p>Recognised by Tech In Asia as <a href="/news/industry-news/these-are-the-most-active-investors-in-singapores-startups/">One of The Most Active VCs in Southeast Asia</a></p></div></div></div>
+        2021</p></div></div><div class="row is-centered bp-container
+        justify-content-between padding--bottom--xl"><div class="padding"><h1
+        class="padding"><img src="/images/techinasialogo.png"
+        style="width:300px;"></h1><p>Recognised by Tech In Asia as <a
+        href="/news/industry-news/these-are-the-most-active-investors-in-singapores-startups/">One
+        of The Most Active VCs in Southeast Asia</a></p></div></div></div>
   - infobar:
       description: <div class="row is-centered bp-container justify-content-between
         padding--bottom"><div class="col force-half has-text-left"><p
