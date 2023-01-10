@@ -29,4 +29,3 @@ Our data is a work in progress. If you find that there’s inaccurate or missing
 <a href="https://www.techinasia.com/active-investors-singapores-startups"><img src="/images/topinvestor5.png"></a>
 
 <a href="https://www.techinasia.com/active-investors-singapores-startups"><img src="/images/topinvestor6.png"></a>
-
