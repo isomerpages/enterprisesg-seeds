@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: SEEDS Capital
-      subtitle: <div><div style="font-size: 1.25rem">We catalyse smart monies into Singapore-based, early-stage technology startups.</div><p></p><a href="/about-us/overview/" class="bp-button is-secondary is-uppercase search-button">Find out more about us</a><p></p><a href="https://www.linkedin.com/company/seedscapitalsg/" target="_blank" rel="noreferrer" class="social-link" title="LinkedIn"><span class="sgds-icon sgds-icon-linkedin is-size-4" style="color:white"></span></a></div>
+      subtitle: <div><div>We catalyse smart monies into Singapore-based, early-stage technology startups.</div><p></p><a href="/about-us/overview/" class="bp-button is-secondary is-uppercase search-button">Find out more about us</a><p></p><a href="https://www.linkedin.com/company/seedscapitalsg/" target="_blank" rel="noreferrer" class="social-link" title="LinkedIn"><span class="sgds-icon sgds-icon-linkedin is-size-4" style="color:white"></span></a></div>
       background: /images/Singapore skyline.jpg
       key_highlights:
         - title: Co-investment model
