@@ -6,6 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
+This article first appeared in [Tech In Asia](https://www.techinasia.com/active-investors-singapores-startups).
 
 Which investors are the most active in Singapore? 
 
@@ -17,18 +18,15 @@ The “# of startups invested” under each firm is also limited to the region a
 
 Our data is a work in progress. If you find that there’s inaccurate or missing information about your fund, please drop us a note at research@techinasia.com and we’ll be happy to assist.
 
-![](/images/topinvestor1.png)
+<a href="https://www.techinasia.com/active-investors-singapores-startups"><img src="/images/topinvestor1.png"></a>
 
-![](/images/topinvestor2.png)
+<a href="https://www.techinasia.com/active-investors-singapores-startups"><img src="/images/topinvestor2.png"></a>
 
-![](/images/topinvestor3.png)
+<a href="https://www.techinasia.com/active-investors-singapores-startups"><img src="/images/topinvestor3.png"></a>
 
-![](/images/topinvestor4.png)
+<a href="https://www.techinasia.com/active-investors-singapores-startups"><img src="/images/topinvestor4.png"></a>
 
-![](/images/topinvestor5.png)
+<a href="https://www.techinasia.com/active-investors-singapores-startups"><img src="/images/topinvestor5.png"></a>
 
-![](/images/topinvestor6.png)
+<a href="https://www.techinasia.com/active-investors-singapores-startups"><img src="/images/topinvestor6.png"></a>
 
-
-
-This article first appeared in [Tech In Asia](https://www.techinasia.com/active-investors-singapores-startups).
