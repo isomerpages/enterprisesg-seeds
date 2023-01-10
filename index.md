@@ -8,8 +8,8 @@ notification: ""
 sections:
   - hero:
       title: SEEDS Capital
-      subtitle: We catalyse smart monies into Singapore-based, early-stage technology
-        startups.  Find out more about us.
+      subtitle: "We catalyse smart monies into Singapore-based, early-stage technology
+        startups.  "
       background: /images/Singapore skyline.jpg
       key_highlights:
         - title: Co-investment model
@@ -21,6 +21,8 @@ sections:
         - title: Portfolio Companies
           description: Meet our investees
           url: /our-portfolio-companies/all-companies
+      button: Find out more about us
+      url: /about-us/overview/
   - infobar:
       description: <div><p class="padding--bottom eyebrow is-uppercase">Our
         Impact</p><div class="row is-centered bp-container
