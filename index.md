@@ -41,7 +41,7 @@ sections:
         padding--bottom"><div class="col force-half has-text-left"><p
         class="padding--bottom eyebrow is-uppercase">Our CO-INVESTORS</p><h1
         class="has-text-secondary padding--bottom"><b>>40
-        investors</b></h1><p></p></div><div class="col
+        co-investors</b></h1><p></p></div><div class="col
         force-half padding"><img src="/images/coinvestors.png" alt="Image alt
         text"></div></div>
   - infobar:
