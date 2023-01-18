@@ -13,4 +13,4 @@ Our three focus sectors are Advanced Manufacturing & Engineering, Health & Biome
 
 Leveraging [Enterprise Singapore's](https://www.enterprisesg.gov.sg/) extensive networks across more than 15 sectors and 30+ global overseas centers, we support our portfolio companies to scale strategically and internationalise. 
 
-In recent years, we have deployed more than S$130M and stimulated more than S$1B of private sector investments into >350 companies. Learn more about our [co-investment partners](/for-startups/co-investment-partners) and [portfolio startups](/portfolio-companies/all-companies//).
+In recent years, we have deployed more than S$130M and stimulated more than S$1B of private sector investments into >350 companies. Learn more about our [co-investment partners](/for-startups/co-investment-partners/all-partners/) and [portfolio startups](/portfolio-companies/all-companies//).
