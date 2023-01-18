@@ -18,7 +18,12 @@ SEEDS Capital is one of the appointed fund managers for the [Startup SG Equity (
 Our investment parameters are as such:
 
 
-|  | **General tech**  | **Deep tech** |
+|  | **General tech**  | **Deep tech*** |
 | -------- | -------- | -------- |
 | **Investment cap for each startup**     | S$2M from SEEDS Capital    | S$8M from SEEDS Capital     |
 | **Co-investment ratio (SEEDS Capital: co-investor)** | 7:3 up to the first S$250K from SEEDS Capital; 1:1 thereafter, up to S$2M   | 7:3 up to the first S$500K from SEEDS Capital; 1:1 thereafter, up to S$4M; 3:7 thereafter, up to S$8M    |
+
+<small>*General traits exhibited by a deep technology start up include, but are not limited to:  
+a. Product is built around differentiated, and often protected technological or scientific advances;  
+b. High barrier to entry;  
+c. Long commercialisation period (typically more than 3 years)</small>
