@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Portfolio Companies/.keep
-      - All Companies.md
       - Advanced Manufacturing and Engineering.md
       - Agritech and Foodtech.md
       - Health and Biomedical Sciences.md
