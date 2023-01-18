@@ -2,6 +2,7 @@ collections:
   portfolio-companies:
     output: true
     order:
+      - Portfolio Companies/Urban Solutions and Sustainability.md
       - Portfolio Companies/Services and Digital Economy.md
       - Portfolio Companies/Maritime Tech.md
       - Portfolio Companies/Health and Biomedical Sciences.md
