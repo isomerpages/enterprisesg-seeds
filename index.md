@@ -48,7 +48,7 @@ sections:
         padding--bottom"><div class="col force-half has-text-left"><p
         class="padding--bottom eyebrow is-uppercase">Our CO-INVESTORS</p><h1
         class="has-text-secondary padding--bottom"><b>>40
-        co-investors</b></h1><p></p></div><div class="col force-half
+        co-investors</b></h1><p></p><a href="/for-startups/co-investment-partners/all-partners/" rel="noreferrer" class="bp-sec-button" style="font-size:inherit;margin-top: 10px;"><div><span>Meet Our Partners</span><i class="sgds-icon sgds-icon-arrow-right is-size-4" aria-hidden="true"></i></div></a></div><div class="col force-half
         padding"><img src="/images/coinvestors.png" alt="Image alt
         text"></div></div>
   - infobar:
@@ -56,8 +56,7 @@ sections:
         padding--bottom"><div class="col force-half has-text-left"><p
         class="padding--bottom eyebrow is-uppercase">Our PORTFOLIO</p><h1
         class="has-text-secondary padding--bottom"><b>>350
-        companies</b></h1><p></p></div><div class="col force-half padding"><img
-        src="/images/successstories.png" alt="Image alt text"></div></div>
+        companies</b></h1><p></p><a href="/portfolio-companies/all-companies" rel="noreferrer" class="bp-sec-button" style="font-size:inherit;margin-top: 10px;"><div><span>Meet Our Investees</span><i class="sgds-icon sgds-icon-arrow-right is-size-4" aria-hidden="true"></i></div></a></div><div class="col force-half padding"><img src="/images/successstories.png" alt="Image alt text"></div></div>
   - infobar:
       title: Newsletter Sign Up
       description: Stay updated on our latest investment activities and Singapore's
