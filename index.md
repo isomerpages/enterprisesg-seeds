@@ -44,6 +44,10 @@ sections:
         href="/news/industry-news/these-are-the-most-active-investors-in-singapores-startups/">One
         of The Most Active VCs in Southeast Asia</a></p></div></div></div>
   - infobar:
+      description: <div><p class="padding--bottom eyebrow is-uppercase">Our
+        Investment Themes</p><div class="row is-centered bp-container
+        justify-content-between padding--bottom--xl"></div></div>
+  - infobar:
       description: <div class="row is-centered bp-container justify-content-between
         padding--bottom"><div class="col force-half has-text-left"><p
         class="padding--bottom eyebrow is-uppercase">Our CO-INVESTORS</p><h1
