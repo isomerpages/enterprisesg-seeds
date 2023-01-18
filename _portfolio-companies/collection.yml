@@ -2,10 +2,10 @@ collections:
   portfolio-companies:
     output: true
     order:
-      - Urban Solutions and Sustainability.md
-      - Services and Digital Economy.md
-      - Maritime Tech.md
-      - Health and Biomedical Sciences.md
-      - Agritech and Foodtech.md
       - All Companies.md
       - Advanced Manufacturing and Engineering.md
+      - Agritech and Foodtech.md
+      - Health and Biomedical Sciences.md
+      - Maritime Tech.md
+      - Services and Digital Economy.md
+      - Urban Solutions and Sustainability.md
