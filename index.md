@@ -45,8 +45,8 @@ sections:
         of The Most Active VCs in Southeast Asia</a></p></div></div></div>
   - infobar:
       description: <div><p class="padding--bottom eyebrow is-uppercase">Our
-        Investment Themes</p><div class="row is-centered bp-container
-        justify-content-between padding--bottom--xl"></div></div>
+        Investment Themes</p><div class="row bp-container" style="flex-wrap:wrap;margin-top:10px;"><div style="height:300px;flex:0 0 33.333333%;padding:10px;"><div style="height:100%;background:url(&quot;https://images.unsplash.com/photo-1551033406-611cf9a28f67?ixlib=rb-4.0.3&amp;ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;auto=format&amp;fit=crop&amp;w=774&amp;q=80&quot;);background-size:cover;"><div style="height:100%;display:flex;flex-direction:column;justify-content:flex-end;padding:20px;background:rgba(0,0,0,0.3);"><div style="font-size:1.3rem;text-align:left;font-weight:700;color:white;">Advanced Manufacturing and Engineering</div></div></div></div></div>
+</div>
   - infobar:
       description: <div class="row is-centered bp-container justify-content-between
         padding--bottom"><div class="col force-half has-text-left"><p
