@@ -2,6 +2,7 @@ collections:
   portfolio-companies:
     output: true
     order:
+      - Portfolio Companies/Maritime Tech.md
       - Portfolio Companies/Health and Biomedical Sciences.md
       - Portfolio Companies/Agritech and Foodtech.md
       - Portfolio Companies/Advanced Manufacturing and Engineering.md
