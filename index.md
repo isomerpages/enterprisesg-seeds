@@ -8,7 +8,16 @@ notification: ""
 sections:
   - hero:
       title: SEEDS Capital
-      subtitle: <div style="margin-top:-2rem"><div style="font-size:1.25rem">Investment arm of Enterprise Singapore, nurturing Singapore-based tech startups with intellectual property and global market potential</div><p style="margin-bottom:20px"></p><a href="/about-us/overview/" class="bp-button is-secondary is-uppercase search-button">Find out more</a><p style="margin-bottom:20px"></p><a href="https://www.linkedin.com/company/seedscapitalsg/" target="_blank" rel="noreferrer" class="social-link" title="LinkedIn"><span class="sgds-icon sgds-icon-linkedin is-size-4" style="color:white"></span></a></div>
+      subtitle: <div style="margin-top:-2rem"><div
+        style="font-size:1.25rem">Investment arm of Enterprise Singapore,
+        nurturing Singapore-based tech startups with intellectual property and
+        global market potential</div><p style="margin-bottom:20px"></p><a
+        href="/about-us/overview/" class="bp-button is-secondary is-uppercase
+        search-button">Find out more</a><p style="margin-bottom:20px"></p><a
+        href="https://www.linkedin.com/company/seedscapitalsg/" target="_blank"
+        rel="noreferrer" class="social-link" title="LinkedIn"><span
+        class="sgds-icon sgds-icon-linkedin is-size-4"
+        style="color:white"></span></a></div>
       background: /images/Singapore skyline.jpg
       key_highlights:
         - title: Co-investment model
@@ -19,15 +28,16 @@ sections:
           url: /for-startups/co-investment-partners/all-partners
         - title: Portfolio Companies
           description: Meet our investees
-          url: /our-portfolio-companies/all-companies
+          url: /portfolio-companies/all-companies
   - infobar:
       description: <div><p class="padding--bottom eyebrow is-uppercase">Our
         Impact</p><div class="row is-centered bp-container
         justify-content-between padding--bottom--xl"><div class="padding"><h1
         class="padding"><b>>S$130M</b></h1><p>deployed over 2019 -
         2021</p></div><div class="padding"><h1
-        class="padding">><b>350</b></h1><p>portfolio companies</p></div><div class="padding"><h1
-        class="padding"><b>>40</b></h1><p>co-investment partners</p></div></div><div class="row is-centered bp-container
+        class="padding">><b>350</b></h1><p>portfolio companies</p></div><div
+        class="padding"><h1 class="padding"><b>>40</b></h1><p>co-investment
+        partners</p></div></div><div class="row is-centered bp-container
         justify-content-between padding--bottom--xl"><div class="padding"><h1
         class="padding"><img src="/images/techinasialogo.png"
         style="width:300px;"></h1><p>Recognised by Tech In Asia as <a
@@ -38,17 +48,16 @@ sections:
         padding--bottom"><div class="col force-half has-text-left"><p
         class="padding--bottom eyebrow is-uppercase">Our CO-INVESTORS</p><h1
         class="has-text-secondary padding--bottom"><b>>40
-        co-investors</b></h1><p></p></div><div class="col
-        force-half padding"><img src="/images/coinvestors.png" alt="Image alt
+        co-investors</b></h1><p></p></div><div class="col force-half
+        padding"><img src="/images/coinvestors.png" alt="Image alt
         text"></div></div>
   - infobar:
       description: <div class="row is-centered bp-container justify-content-between
         padding--bottom"><div class="col force-half has-text-left"><p
         class="padding--bottom eyebrow is-uppercase">Our PORTFOLIO</p><h1
         class="has-text-secondary padding--bottom"><b>>350
-        companies</b></h1><p></p></div><div class="col force-half
-        padding"><img src="/images/successstories.png" alt="Image alt
-        text"></div></div>
+        companies</b></h1><p></p></div><div class="col force-half padding"><img
+        src="/images/successstories.png" alt="Image alt text"></div></div>
   - infobar:
       title: Newsletter Sign Up
       description: Stay updated on our latest investment activities and Singapore's
