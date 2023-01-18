@@ -2,6 +2,7 @@ collections:
   portfolio-companies:
     output: true
     order:
+      - Portfolio Companies/All Companies.md
       - Portfolio Companies/.keep
       - Advanced Manufacturing and Engineering.md
       - Agritech and Foodtech.md
