@@ -2,5 +2,5 @@ collections:
   portfolio-companies:
     output: true
     order:
-      - Advanced Manufacturing and Engineering.md
       - All Companies.md
+      - Advanced Manufacturing and Engineering.md
