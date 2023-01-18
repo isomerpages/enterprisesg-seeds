@@ -2,10 +2,11 @@ collections:
   our-portfolio-companies:
     output: true
     order:
+      - Portfolio Companies/.keep
       - Portfolio Companies/All Companies.md
       - Portfolio Companies/Advanced Manufacturing and Engineering.md
       - Portfolio Companies/Agritech & Foodtech.md
-      - Portfolio Companies/Health & Biomedical Sciences.md
       - Portfolio Companies/Maritime Tech.md
-      - Portfolio Companies/Services And Digital Economy.md
+      - Portfolio Companies/Health & Biomedical Sciences.md
       - Portfolio Companies/Urban Solutions & Sustainability.md
+      - Portfolio Companies/Services And Digital Economy.md
