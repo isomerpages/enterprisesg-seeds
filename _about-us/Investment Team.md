@@ -1,10 +1,8 @@
 ---
 title: Investment Team
-permalink: /about-us/investment-team
+permalink: /about-us/investment-team/
 description: ""
 ---
-
-
 <link rel="stylesheet" href="/sgds.css" />
 <h2><strong>Investment Team</strong></h2>
 <div style="display: flex; flex-wrap: wrap; padding: 10px">
@@ -12,7 +10,7 @@ description: ""
         <div class="sgds-card-image" style="margin-top: 15px; padding-left: 1.5rem;">
             <figure class="sgds-image"
                 style="height: 200px;display: flex;justify-content: center;flex-direction: column;">
-                <img src="/images/kaixin-tan.png" style="width: 200px; margin-left: 0; filter:grayscale(1);object-fit: scale-down; max-width: 100%;
+                <img src="/images/Tan_Kaixin_GM.jpg" style="width: 200px; margin-left: 0; filter:grayscale(1);object-fit: scale-down; max-width: 100%;
                     max-height: 100%;">
             </figure>
         </div>
