@@ -3,14 +3,15 @@ title: Overview
 permalink: /about-us/overview/
 description: ""
 ---
-##### **Investment arm of Enterprise Singapore, nurturing Singapore-based tech startups with intellectual property and global market potential**
+##### **Investment arm of Enterprise Singapore, nurturing Singapore-based tech startups with intellectual property and global market potential **
 
-SEEDS Capital was founded in 2001 when its first co-investment fund was launched to foster entrepreneurship. 
+SEEDS Capital was founded in 2001 to foster entrepreneurship in Singapore when the technology and startup ecosystem was nascent Today, Singapore is ranked first in Asia and seventh globally in Startup Blink’s Global Startup Ecosystem Index 2022 . SEEDS is one of the most active investors in Singapore .
 
-SEEDS Capital catalyses private sector investments into Singapore-based technology startups that are pioneering breakthrough scientific and engineering solutions to better the world we live in. We operate on a co-investment model with private sector investors, focusing on the first and second institutional rounds for new investments. 
+As the investment arm of Enterprise Singapore, SEEDS catalyses private sector investments into Singapore-based, early-stage technology startups that are pioneering scientific and engineering solutions. We co-invest with institutional investors such as venture capital funds (VCs), corporate venture capital arms (CVCs) and family offices in innovative startups with strong intellectual content and global market potential. As early-stage investors, we invest in the first and second institutional rounds of technology startups.  
 
-Our three focus sectors are Advanced Manufacturing & Engineering, Health & Biomedical Sciences and Urban Solutions & Sustainability. We also look at other emerging verticals such as Agri-tech, Artificial Intelligence, Blockchain, Quantum and Space Technologies.  
+Our focus sectors are Advanced Manufacturing & Engineering, Health & Biomedical Sciences and Urban Solutions & Sustainability. We also look at emerging areas such as Agri-tech, Artificial Intelligence, Blockchain, Quantum and Space Technologies.
 
-Leveraging [Enterprise Singapore's](https://www.enterprisesg.gov.sg/) extensive networks across more than 15 sectors and 30+ global overseas centers, we support our portfolio companies to scale strategically and internationalise. 
 
-In recent years, we have deployed more than S$130M and stimulated more than S$1B of private sector investments into >350 companies. Learn more about our [co-investment partners](/for-startups/co-investment-partners/all-partners/) and [portfolio startups](/portfolio-companies/all-companies//).
+Post-investment, we leverage [Enterprise Singapore's](https://www.enterprisesg.gov.sg/)  network across industries and global overseas centres to add value to our portfolio companies. 
+
+Since 2020, we have deployed more than S$122M and stimulated more than S$670M of private sector investments into some 132 companies, of which 70 are new investments. Learn more about our [co-investment partners](/for-startups/co-investment-partners/all-partners/) and [portfolio startups](/portfolio-companies/all-companies//).
