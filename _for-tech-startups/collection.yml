@@ -2,7 +2,7 @@ collections:
   for-tech-startups:
     output: true
     order:
-      - How To Approach Us.md
+      - How To Work With Us.md
       - Co-Investment Partners/.keep
       - Co-Investment Partners/All Partners.md
       - Co-Investment Partners/Advanced Manufacturing and Engineering.md
