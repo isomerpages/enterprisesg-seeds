@@ -5,17 +5,18 @@ description: ""
 ---
 ##### **Enabling the growth of deep tech startups through co-investments**
 
-Globally, the application of deep technology has tackled previously challenging problems and showcased its immense transformative potential to better human society.
+Deep-tech startups possess unique and innovative solutions with the potential to transform industries and solve the most challenging problems we face today.    
 
-In the last ten years, Singapore’s startup ecosystem has evolved tremendously. While the ecosystem has been largely successful in supporting and financing tech startups, deep tech startups are underserved by most VCs / PEs due to their long gestation periods, high-risk profiles and need for in-house expertise. 
+However, these technologies tend to be underinvested. Investments into deep-tech startups are generally perceived as risky as these frontier technologies have longer gestation period.
 
-Our co-investment schemes are designed to provide leverage to our co-investors, thereby driving investments into deep tech sectors and enabling deep tech startup growth. 
+Our co-investment scheme is designed to address these risks by providing support to our co-investors, thereby encouraging more private sector investments into these nascent areas, and enabling the growth of deep tech in Singapore.  
+
 
 ##### **Fund Manager of StartupSG Equity**
 
-SEEDS Capital is one of the appointed fund managers for the [Startup SG Equity (SSGE) scheme](https://www.startupsg.gov.sg/programmes/4895/startup-sg-equity). The SSGE scheme is part of Singapore’s national R&D blueprint that spans [Research, Innovation and Enterprise (RIE)](https://www.nrf.gov.sg/rie2025-plan). 
+SEEDS Capital is one of the appointed fund managers for the [Startup SG Equity (SSGE) scheme](https://www.startupsg.gov.sg/programmes/4895/startup-sg-equity).
 
-Our investment parameters are as such:
+Our investment parameters are:
 
 
 |  | **General tech**  | **Deep tech*** |
