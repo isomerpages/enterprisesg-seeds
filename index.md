@@ -33,9 +33,8 @@ sections:
       description: <div><p class="padding--bottom eyebrow is-uppercase">Our
         Impact</p><div class="row is-centered bp-container
         justify-content-between padding--bottom--xl"><div class="padding"><h1
-        class="padding"><b>>S$130M</b></h1><p>deployed over 2019 -
-        2021</p></div><div class="padding"><h1
-        class="padding">><b>350</b></h1><p>portfolio companies</p></div><div
+        class="padding"><b>>S$122M</b></h1><p>deployed from 2020</p></div><div class="padding"><h1
+        class="padding">><b>132</b></h1><p>investments from 2020</p></div><div
         class="padding"><h1 class="padding"><b>>40</b></h1><p>co-investment
         partners</p></div></div><div class="row is-centered bp-container
         justify-content-between padding--bottom--xl"><div class="padding"><h1
@@ -57,8 +56,8 @@ sections:
       description: <div class="row is-centered bp-container justify-content-between
         padding--bottom"><div class="col force-half has-text-left"><p
         class="padding--bottom eyebrow is-uppercase">Our PORTFOLIO</p><h1
-        class="has-text-secondary padding--bottom"><b>>350
-        companies</b></h1><p></p><a href="/portfolio-companies/all-companies" rel="noreferrer" class="bp-sec-button" style="font-size:inherit;margin-top:10px;"><div><span>Meet Our Investees</span><i class="sgds-icon sgds-icon-arrow-right is-size-4" aria-hidden="true"></i></div></a></div><div class="col force-half padding"><img src="/images/successstories.png" alt="Image alt text"></div></div>
+        class="has-text-secondary padding--bottom"><b>>132
+        investments</b></h1><p></p><a href="/portfolio-companies/all-companies" rel="noreferrer" class="bp-sec-button" style="font-size:inherit;margin-top:10px;"><div><span>Meet Our Investees</span><i class="sgds-icon sgds-icon-arrow-right is-size-4" aria-hidden="true"></i></div></a></div><div class="col force-half padding"><img src="/images/successstories.png" alt="Image alt text"></div></div>
   - infobar:
       title: Newsletter Sign Up
       description: Stay updated on our latest investment activities and Singapore's
