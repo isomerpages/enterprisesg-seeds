@@ -1,10 +1,8 @@
 ---
 title: Investment Team
-permalink: /about-us/investment-team
+permalink: /about-us/investment-team/
 description: ""
 ---
-
-
 <link rel="stylesheet" href="/sgds.css" />
 <h2><strong>Investment Team</strong></h2>
 <div style="display: flex; flex-wrap: wrap; padding: 10px">
@@ -179,7 +177,7 @@ description: ""
             </figure>
         </div>
         <div class="sgds-card-content">
-            <p><strong>Pang Xue Bun</strong></p>
+            <p><strong>Pang Xue Bin</strong></p>
             <small>Investment Analyst</small><br>
             <div style="display: flex;margin-top: 10px;">
                 <div><img src="/images/linkedin.png"
