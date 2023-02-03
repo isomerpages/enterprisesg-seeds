@@ -10,7 +10,7 @@ description: ""
 We are looking for team players who are seeking a purposeful role and have a passion for growing deep tech startups.
 
 <p class="eyebrow is-uppercase">Life @ Seeds Capital</p>
-<h3>We are looking for team players who are seeking a purposeful role and have a passion for growing deep tech startups.</h3>
+### We are looking for team players who are seeking a purposeful role and have a passion for growing deep tech startups.
 
 ![](/images/IMG-20221123-WA0016.jpg)
 
