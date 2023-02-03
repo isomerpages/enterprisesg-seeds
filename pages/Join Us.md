@@ -9,7 +9,7 @@ description: ""
 </div>
 </div>
 <br>
-<h3 class="text-center">What you can expect</h2>
+<h3 class="text-center">What you can expect</h3>
 <div class="text-center">At SEEDS Capital, you will get the chance to take a hands-on approach in developing and  
 implementing national- or industry-level initiatives to grow deep tech startups in Singapore.</div>
 <br>
