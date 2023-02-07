@@ -6,15 +6,15 @@ colors:
   secondary-color: "#43493a"
   media-colors:
     - title: media-color-one
-      color: "#a7ae9c"
+      color: "#749e41"
     - title: media-color-two
-      color: "#008dac"
+      color: "#749e41"
     - title: media-color-three
-      color: "#005b8f"
+      color: "#749e41"
     - title: media-color-four
-      color: "#005b8f"
+      color: "#749e41"
     - title: media-color-five
-      color: "#005b8f"
+      color: "#749e41"
 resources_name: news
 description: Catalysing smart monies into Singapore-based, early-stage technology startups.
 permalink: none
