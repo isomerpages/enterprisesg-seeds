@@ -24,7 +24,7 @@ Applicants will be assessed based on their alignment to the Startup SG Equity co
 * Investment decision making, governance and fund management process 
 
 
-Find out more about our appointed partners [here](/for-startups/co-investment-partners).
+Find out more about our appointed partners [here](/for-startups/co-investment-partners/all-partners/).
 
 ##### **2. Approach us for ad-hoc co-investments**
 
