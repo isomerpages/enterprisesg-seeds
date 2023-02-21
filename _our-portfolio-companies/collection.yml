@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Portfolio Companies/.keep
-      - Portfolio Companies/All Companies.md
+      - Portfolio Companies/Our Companies.md
       - Portfolio Companies/Advanced Manufacturing and Engineering.md
       - Portfolio Companies/Agritech & Foodtech.md
       - Portfolio Companies/Maritime Tech.md
