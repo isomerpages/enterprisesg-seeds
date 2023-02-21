@@ -1,6 +1,6 @@
 ---
 title: Our Partners
-permalink: /for-startups/co-investment-partners/our-partners/
+permalink: /for-startups/co-investment-partners/all-partners/
 description: ""
 third_nav_title: Co-Investment Partners
 ---
