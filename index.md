@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Invested In The Future
+      title: Growing tech startups in Singapore
       subtitle: <div style="margin-top:-2rem"><div
         style="font-size:1.25rem">Investment arm of Enterprise Singapore,
         nurturing Singapore-based tech startups with intellectual property and
