@@ -1,6 +1,6 @@
 ---
 title: Our Companies
-permalink: /our-portfolio-companies/our-companies/
+permalink: /our-portfolio-companies/all-companies/
 description: ""
 third_nav_title: Portfolio Companies
 ---
