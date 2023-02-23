@@ -18,7 +18,7 @@ sections:
         rel="noreferrer" class="social-link" title="LinkedIn"><span
         class="sgds-icon sgds-icon-linkedin is-size-4"
         style="color:white"></span></a></div>
-      background: /images/Singapore skyline.jpg
+      background: /images/heromontage.png
       key_highlights:
         - title: Co-investment model
           description: Enabling deep tech startups
