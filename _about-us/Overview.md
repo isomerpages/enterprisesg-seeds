@@ -3,8 +3,8 @@ title: Overview
 permalink: /about-us/overview/
 description: ""
 ---
-##### **Investment arm of Enterprise Singapore, nurturing Singapore-based tech startups with intellectual property and global market potential **
-
+##### Investment arm of Enterprise Singapore, nurturing Singapore-based tech startups with intellectual property and global market potential 
+ 
 SEEDS Capital was founded in 2001 to foster entrepreneurship in Singapore when the technology and startup ecosystem was nascent Today, Singapore is ranked first in Asia and seventh globally in Startup Blink’s Global Startup Ecosystem Index 2022<sup>1</sup>. SEEDS is one of the most active investors in Singapore<sup>2</sup>.
 
 As the investment arm of Enterprise Singapore, SEEDS catalyses private sector investments into Singapore-based, early-stage technology startups that are pioneering scientific and engineering solutions. We co-invest with institutional investors such as venture capital funds (VCs), corporate venture capital arms (CVCs) and family offices in innovative startups with strong intellectual content and global market potential. As early-stage investors, we invest in the first and second institutional rounds of technology startups.  
