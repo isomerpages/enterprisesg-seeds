@@ -25,7 +25,7 @@ Papa.parse('/CoInvPartners.csv', {
 				return each.domain.includes(pathnamearr[indexofcategory])
 			})
 			.map(function (each) {
-				return '<div class="sgds-card col ' + each.domain + '" style="flex: 1 1 47%; margin: 10px; max-width: 400px"> <div class="sgds-card-image" style="margin-top: 15px"> <figure class="sgds-image" style="height: 100px;display: flex;justify-content: center;flex-direction: column;"> <img src="' + each.img_url + '" style="object-fit: scale-down; max-width: 70%; max-height: 100%;"> </figure> </div> <div class="sgds-card-content"> <p> <strong>' + each.name + '</strong> </p><small>' + each.desc + '</small><p> <a href="' + each.url + '" target="_blank"> <small> Visit their website </small> </a> </p> </div> </div>';
+				return '<div style="box-shadow: 0 2px 3px rgba(10,10,10,.1), 0 0 0 1px rgba(10,10,10,.1); padding: 1.75em;flex: 1 1 47%; margin: 10px; max-width: 400px"> <div style="margin-top: 15px"> <figure style="height: 100px;display: flex;justify-content: center;flex-direction: column;"> <img src="' + each.img_url + '" style="object-fit: scale-down; max-width: 70%; max-height: 100%;"> </figure> </div> <div class="sgds-card-content"> <p> <strong>' + each.name + '</strong> </p><small>' + each.desc + '</small><p> <a href="' + each.url + '" target="_blank"> <small> Visit their website </small> </a> </p> </div> </div>';
 			}).join('')
 	}
 });
