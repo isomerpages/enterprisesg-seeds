@@ -50,8 +50,8 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://enterprisesg-seeds-staging.netlify.app
-prod: https://enterprisesg-seeds-prod.netlify.app
+staging: https://staging.d22xzwwivgfe0v.amplifyapp.com/
+prod: https://master.d22xzwwivgfe0v.amplifyapp.com/
 google_analytics: "312673821"
 is_government: true
 shareicon: /images/isomer-logo.svg
