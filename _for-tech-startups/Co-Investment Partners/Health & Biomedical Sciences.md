@@ -1,6 +1,6 @@
 ---
 title: Health and Biomedical Sciences
-permalink: /for-tech-startups/Co-Investment-Partners/hbms/
+permalink: /for-tech-startups/co-investment-partners/hbms/
 description: ""
 third_nav_title: Co-Investment Partners
 ---

@@ -1,6 +1,6 @@
 ---
 title: Maritime Tech
-permalink: /for-tech-startups/Co-Investment-Partners/mtt/
+permalink: /for-tech-startups/co-investment-partners/mtt/
 description: ""
 third_nav_title: Co-Investment Partners
 ---

@@ -1,6 +1,6 @@
 ---
 title: Urban Solutions and Sustainability
-permalink: /for-tech-startups/Co-Investment-Partners/uss/
+permalink: /for-tech-startups/co-investment-partners/uss/
 description: ""
 third_nav_title: Co-Investment Partners
 ---

@@ -1,6 +1,6 @@
 ---
 title: Advanced Manufacturing and Engineering
-permalink: /for-tech-startups/Co-Investment-Partners/ame/
+permalink: /for-tech-startups/co-investment-partners/ame/
 description: ""
 third_nav_title: Co-Investment Partners
 ---

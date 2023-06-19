@@ -1,6 +1,6 @@
 ---
 title: Agritech and Foodtech
-permalink: /for-tech-startups/Co-Investment-Partners/agri/
+permalink: /for-tech-startups/co-investment-partners/agri/
 description: ""
 third_nav_title: Co-Investment Partners
 ---

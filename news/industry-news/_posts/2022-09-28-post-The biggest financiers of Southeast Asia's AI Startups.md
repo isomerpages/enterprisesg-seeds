@@ -1,6 +1,6 @@
 ---
 title: The biggest financiers of Southeast Asia's AI Startups
-permalink: /news/industry-news/The-biggest-financiers-of-Southeast-Asias-AI-Startups/
+permalink: /news/industry-news/the-biggest-financiers-of-southeast-asias-ai-startups/
 date: 2022-09-28
 layout: post
 description: ""
