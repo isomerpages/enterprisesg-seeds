@@ -108,4 +108,12 @@ sections:
       title: Media
       subtitle: Learn more
       button: View More
+  - infobar:
+      title: ">S$200M      >S$800M"
+      subtitle: Our Impact
+      description: <p>additional funding raised by portfolio companies</p>
+  - infobar:
+      title: ">S$200M"
+      subtitle: Our impact
+      description: deployed since 2017
 ---
