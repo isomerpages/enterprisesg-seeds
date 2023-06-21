@@ -27,14 +27,15 @@ sections:
           description: Meet our partners
           url: /for-startups/co-investment-partners/all-partners
         - title: Portfolio Companies
-          description: Meet our investees
+          description: Meet our founders
           url: /portfolio-companies/all-companies
   - infobar:
       description: <div><p class="padding--bottom eyebrow is-uppercase">Our
         Impact</p><div class="row is-centered bp-container
         justify-content-between padding--bottom--xl"><div class="padding"><h1
-        class="padding"><b>>S$122M</b></h1><p>deployed from 2020</p></div><div
-        class="padding"><h1 class="padding">><b>132</b></h1><p>investments from
+        class="padding"><b>>S$122M</b></h1><p>deployed from
+        2020</p></div><div class="padding"><h1
+        class="padding">><b>132</b></h1><p>investments from
         2020</p></div><div class="padding"><h1
         class="padding"><b>>40</b></h1><p>co-investment
         partners</p></div></div><div class="row is-centered bp-container
