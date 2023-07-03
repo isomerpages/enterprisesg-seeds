@@ -9,12 +9,12 @@ SEEDS Capital was founded in 2001 to foster entrepreneurship in Singapore when t
 
 As the investment arm of Enterprise Singapore, SEEDS catalyses private sector investments into Singapore-based, early-stage technology startups that are pioneering scientific and engineering solutions. We co-invest with institutional investors such as venture capital funds (VCs), corporate venture capital arms (CVCs) and family offices in innovative startups with strong intellectual content and global market potential. As early-stage investors, we invest in the first and second institutional rounds of technology startups.  
 
-Our focus sectors are Advanced Manufacturing & Engineering, Health & Biomedical Sciences and Urban Solutions & Sustainability. We also look at emerging areas such as Agri-tech, Artificial Intelligence, Blockchain, Quantum and Space Technologies.
+Our focus sectors are Advanced Manufacturing &amp; Engineering, Health &amp; Biomedical Sciences and Urban Solutions &amp; Sustainability. We also look at emerging areas such as Agri-tech, Artificial Intelligence, Blockchain, Quantum and Space Technologies.
 
 
 Post-investment, we leverage [Enterprise Singapore's](https://www.enterprisesg.gov.sg/)  network across industries and global overseas centres to add value to our portfolio companies. 
 
-Since 2020, we have deployed more than S$122M and stimulated more than S$670M of private sector investments into some 132 companies, of which 70 are new investments. Learn more about our [co-investment partners](/for-startups/co-investment-partners/all-partners/) and [portfolio startups](/portfolio-companies/all-companies//).
+Since 2020, we have deployed more than S$120M and stimulated more than S$670M of private sector investments into some 130 companies, of which 70 are new investments. Learn more about our [co-investment partners](/for-startups/co-investment-partners/all-partners/) and [portfolio startups](/portfolio-companies/all-companies//).
 
 
 <br>
