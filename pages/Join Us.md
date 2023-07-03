@@ -35,7 +35,5 @@ We will also discuss and spar intellectually over valuations, business models, a
 
 
 **Life @ SEEDS Capital**
-
+![]()
 We work hard and play hard.
-
-
