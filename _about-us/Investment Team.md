@@ -61,11 +61,11 @@ description: ""
             </figure>
         </div>
         <div class="sgds-card-content">
-            <p><strong>Desiree Lim</strong></p>
+            <p><strong>Huang Xiaowen</strong></p>
             <small>Senior Investment Manager</small><br>
             <div style="display: flex;margin-top: 10px;">
                 <div><img src="/images/linkedin.png" style="width: 20px;margin-left: 0; display: inline; margin-right: 10px;"></div>
-                <a href="https://www.linkedin.com/in/dslim/" target="_blank"><small>LinkedIn</small></a>
+                <a href="https://www.linkedin.com/in/xiaowen-huang-03aa5366/" target="_blank"><small>LinkedIn</small></a>
             </div>
         </div>
     </div>
