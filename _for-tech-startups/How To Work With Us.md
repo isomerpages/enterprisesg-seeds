@@ -8,7 +8,7 @@ SEEDS Capital supports founders who are pushing the boundaries of scientific inn
 If your startup is ready to fundraise from us and our co-investment partners, here are two steps:
 
 
-##### **1. Check your eligibility:** <br/><br/>
+##### **1. Check your eligibility:** <br><br>
 
 * Singapore-based company with core activities carried out here.
 * Incorporated as a Private Limited company for less than 10 years.
