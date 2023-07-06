@@ -2,6 +2,7 @@ collections:
   portfolio-companies:
     output: true
     order:
+      - Portfolio Companies/Trialpage.md
       - Portfolio Companies/.keep
       - Portfolio Companies/Our Companies.md
       - Portfolio Companies/Advanced Manufacturing and Engineering.md
