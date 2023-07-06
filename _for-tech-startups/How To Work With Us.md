@@ -3,7 +3,7 @@ title: How To Work With Us
 permalink: /for-startups/how-to-work-with-us/
 description: ""
 ---
-SEEDS Capital supports founders who are pushing the boundaries of scientific innovation and solving global challenges. Learn about our [co-investment model](/about-us/our-co-investment-model/) and our [our investees](/our-portfolio-companies/portfolio-companies/).
+SEEDS Capital supports founders who are pushing the boundaries of scientific innovation and solving global challenges. Learn about our [co-investment model](/about-us/our-co-investment-model/) and our [our investees](/portfolio-companies/all-companies/).
 
 If your startup is ready to fundraise from us and our co-investment partners, here are two steps:
 
@@ -21,7 +21,7 @@ If your startup is ready to fundraise from us and our co-investment partners, he
 
 
 ##### **2. Identify an institutional investor** 
-SEEDS Capital works with 50 co-investment partners i.e., VC firms, that were selected based on their experience and track record in our focus sectors. Approach our partners [here](/for-startups/co-investment-partners).
+SEEDS Capital works with 50 co-investment partners i.e., VC firms, that were selected based on their experience and track record in our focus sectors. Approach our partners [here](for-startups/co-investment-partners/all-partners/).
 
 If you have already identified an investor that is not listed as our appointed co-investment partners, contact us at [seeds@enterprisesg.gov.sg](mailto:seeds@enterprisesg.gov.sg) with the following documents:
 
