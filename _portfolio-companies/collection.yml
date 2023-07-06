@@ -2,7 +2,6 @@ collections:
   portfolio-companies:
     output: true
     order:
-      - Portfolio Companies/Trialpage.md
       - Portfolio Companies/.keep
       - Portfolio Companies/Our Companies.md
       - Portfolio Companies/Advanced Manufacturing and Engineering.md
@@ -11,3 +10,4 @@ collections:
       - Portfolio Companies/Maritime Tech.md
       - Portfolio Companies/Services and Digital Economy.md
       - Portfolio Companies/Urban Solutions and Sustainability.md
+      - Portfolio Companies/Trialpage.md
