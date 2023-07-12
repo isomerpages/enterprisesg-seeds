@@ -28,7 +28,7 @@ sections:
         - title: Portfolio Companies
           description: Meet our founders
           url: /portfolio-companies/all-companies
-      background: /images/20 opacity.png
+      background: /images/70 opacity.png
   - infobar:
       description: <div><p class="padding--bottom eyebrow is-uppercase">Our
         Impact</p><div class="row is-centered bp-container
