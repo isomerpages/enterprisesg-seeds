@@ -108,4 +108,12 @@ sections:
       title: Media
       subtitle: Learn more
       button: View More
+  - infopic:
+      title: ">132 investments"
+      subtitle: OUR PORTFOLIO
+      description: across various domains
+      button: Meet our investees
+      url: https://enterprisesg-seeds-staging.netlify.app/portfolio-companies/all-companies
+      image: /images/successstories.png
+      alt: Image alt text
 ---
