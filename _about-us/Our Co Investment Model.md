@@ -12,7 +12,7 @@ However, these technologies tend to be underinvested. Investments into deep-tech
 Our co-investment scheme is designed to address these risks by providing support to our co-investors, thereby encouraging more private sector investments into these nascent areas, and enabling the growth of deep tech in Singapore.  
 
 
-##### **Fund Manager of StartupSG Equity**
+##### **Fund Manager of Startup SG Equity**
 
 SEEDS Capital is one of the appointed fund managers for the [Startup SG Equity (SSGE) scheme](https://www.startupsg.gov.sg/programmes/4895/startup-sg-equity).
 
@@ -21,8 +21,8 @@ Our investment parameters are:
 
 |  | **General tech**  | **Deep tech*** |
 | -------- | -------- | -------- |
-| **Investment cap for each startup**     | S$2M from SEEDS Capital    | S$8M from SEEDS Capital     |
-| **Co-investment ratio (SEEDS Capital: co-investor)** | 7:3 up to the first S$250K from SEEDS Capital; 1:1 thereafter, up to S$2M   | 7:3 up to the first S$500K from SEEDS Capital; 1:1 thereafter, up to S$4M; 3:7 thereafter, up to S$8M    |
+| **Investment cap for each startup**     | S$2 million from SEEDS Capital    | S$8 million from SEEDS Capital     |
+| **Co-investment ratio (SEEDS Capital: co-investor)** | 7:3 up to the first S$250,000 from SEEDS Capital; 1:1 thereafter, up to S$2 million   | 7:3 up to the first S$500,000 from SEEDS Capital; 1:1 thereafter, up to S$4 million; 3:7 thereafter, up to S$8 million    |
 
 <small>*General traits exhibited by a deep technology start up include, but are not limited to:  
 a. Product is built around differentiated, and often protected technological or scientific advances;  
