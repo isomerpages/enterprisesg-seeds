@@ -6,17 +6,6 @@ description: ""
 <h2><strong>Board of Directors</strong></h2>
 
 
-  <img src="/images/jeffreysiow.jpg" style="width: 200px; margin-left: 0;object-fit: scale-down; max-width: 100%;
-                    max-height: 100%;">
-    <p><strong>Jeffrey Siow</strong></p>
-            <small>Chairman</small><br>
-					  <small>SEEDS Capital</small><br>
-            <div style="display: flex;margin-top: 10px;">
-                <div><img src="/images/linkedin.png" style="width: 20px;margin-left: 0; display: inline; margin-right: 10px;"></div>
-                <a href="https://www.linkedin.com/in/jsiow/" target="_blank"><small>LinkedIn</small></a>
-   </div>
-	<br>
-	<br>
 
 #### **Chairman**
 <div style="display: flex; flex-wrap: wrap; padding: 10px">
