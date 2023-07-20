@@ -99,7 +99,7 @@ sections:
         padding"><img src="/images/successstories.png" alt="Image alt
         text"></div></div>
   - infobar:
-      title: Newsletter Sign Up
+      title: Get the latest news
       description: Stay updated on our latest investment activities and Singapore's
         deep tech ecosystem.
       button: Subscribe Now
