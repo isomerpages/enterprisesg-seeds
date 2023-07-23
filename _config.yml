@@ -8,7 +8,7 @@ colors:
     - title: media-color-one
       color: "#749e41"
     - title: media-color-two
-      color: "#749e41"
+      color: "#7f7f7f"
     - title: media-color-three
       color: "#749e41"
     - title: media-color-four
@@ -57,3 +57,4 @@ is_government: true
 shareicon: /images/isomer-logo.svg
 facebook-pixel: ""
 linkedin-insights: ""
+google_analytics_ga4: ""
