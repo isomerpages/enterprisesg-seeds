@@ -99,13 +99,12 @@ sections:
         padding"><img src="/images/successstories.png" alt="Image alt
         text"></div></div>
   - infobar:
-      title: Get the latest news
+      title: Get our latest news
       description: Stay updated on our latest investment activities and Singapore's
         deep tech ecosystem.
-      button: Subscribe Now
+      button: Subscribe to our newsletter
       url: https://enterprisesg.us14.list-manage.com/subscribe?u=b5fb15f5d3fd9e98d46329c56&id=d848098406
   - resources:
-      title: Media
-      subtitle: Learn more
+      title: Our media mentions
       button: View More
 ---
