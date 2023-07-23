@@ -14,7 +14,7 @@ If your startup is ready to fundraise from us and our co-investment partners, he
 * Incorporated as a Private Limited company for less than 10 years.
 * Paid-up capital of at least $50,000.
 * Prove substantial innovative and intellectual content for its products and/or services and applications
-* High-growth potential with clear scalability for the international market.
+* Showcase high-growth potential with clear scalability for the international market.
 * Have identified a ready, independent third-party investor(s).
 * Business must not be involved in the following business activities: gambling, tobacco-related products, or any other activities which are in violation of law, or against public interest.
 * Company cannot be a subsidiary or joint venture.
