@@ -3,7 +3,7 @@ title: Work with us
 permalink: /for-startups/how-to-work-with-us/
 description: ""
 ---
-SEEDS Capital supports founders who are pushing the boundaries of scientific innovation and solving global challenges. Learn about our [co-investment model](/about-us/our-co-investment-model/) and our [our investees](/portfolio-companies/all-companies/).
+SEEDS Capital supports founders who are pushing the boundaries of scientific innovation and solving global challenges. Learn about our [co-investment model](/about-us/our-co-investment-model/) and [our investees](/portfolio-companies/all-companies/).
 
 If your startup is ready to fundraise from us and our co-investment partners, here are two steps:
 
