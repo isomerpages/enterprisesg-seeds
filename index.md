@@ -8,16 +8,6 @@ notification: ""
 sections:
   - hero:
       title: Invested In The Future
-      subtitle: <div style="margin-top:-2rem"><div
-        style="font-size:1.25rem">Investment arm of Enterprise Singapore,
-        nurturing Singapore-based tech startups with intellectual property and
-        global market potential</div><p style="margin-bottom:20px"></p><a
-        href="/about-us/overview/" class="bp-button is-secondary is-uppercase
-        search-button">Find out more</a><p style="margin-bottom:20px"></p><a
-        href="https://www.linkedin.com/company/seedscapitalsg/" target="_blank"
-        rel="noreferrer" class="social-link" title="LinkedIn"><span
-        class="sgds-icon sgds-icon-linkedin is-size-4"
-        style="color:white"></span></a></div>
       key_highlights:
         - title: Co-investment model
           description: Enabling deep tech startups
@@ -29,6 +19,8 @@ sections:
           description: Meet our founders
           url: /portfolio-companies/all-companies
       background: /images/100 opacity.png
+      button: Follow Us
+      url: www.linkedin.com/company/seedscapitalsg/
   - infobar:
       description: <div><p class="padding--bottom eyebrow is-uppercase">Our
         Impact</p><div class="row is-centered bp-container
