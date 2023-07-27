@@ -35,8 +35,6 @@ We will also discuss and spar intellectually over valuations, business models, a
 
 
 **Life @ SEEDS Capital**
-![]()
-We work hard and play hard.
+![]() 
 
-**Openings**
-We do not have any openings now. You can meet [our investment team](/about-us/investment-team/) and follow our [LinkedIn](www.linkedin.com/company/seedscapitalsg). 
+Meet our [investment team](/about-us/investment-team/).
