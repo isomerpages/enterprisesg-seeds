@@ -35,6 +35,6 @@ We will also discuss and spar intellectually over valuations, business models, a
 
 
 **Life @ SEEDS Capital**
-![]() 
+![SEEDS Capital team shot](/images/seeds%20dandd%20group%20shot.jpg)
 
 Meet our [investment team](/about-us/investment-team/).
