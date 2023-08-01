@@ -45,3 +45,5 @@ The final stage of assessment will be conducted by:
 * [Our Investment Panel](/about-us/investment-panel/) (for co-investments with non-appointed partners)
 
 Companies that are not a fit with our investment mandate will be informed.
+
+Please see our [FAQs](/about-us/faqs) if you have further questions.
