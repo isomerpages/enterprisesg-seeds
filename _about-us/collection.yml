@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - FAQs.md
       - Overview.md
       - Our Co Investment Model.md
       - Board of Directors.md
