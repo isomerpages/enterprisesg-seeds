@@ -42,3 +42,6 @@ If you are a non-appointed partner and keen to co-invest with us, contact us at 
 	* Business plan of your startup
 	* Financial statements or management accounts of your startup
 	* Business ACRA of your startup
+
+
+Please see our [FAQs](/about-us/faqs) if you have further questions.
