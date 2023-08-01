@@ -89,7 +89,7 @@ The final stage of assessment varies and will be conducted by:
 *   Our Investment Committee (for co-investments with our appointed partners) or
 *   [Our Investment Panel](/about-us/investment-panel/) (for co-investments with non-appointed partners)
 
-#### Post Investment Stage
+##### Post Investment Stage
 
 **What role will SEEDS Capital assume after its investment?**
 
