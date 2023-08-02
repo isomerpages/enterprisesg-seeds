@@ -3,7 +3,7 @@ title: FAQs
 permalink: /about-us/faqs/
 description: ""
 ---
-##### Assessment stage
+#### Assessment Stage
 
 **What are the key business attributes that SEEDS Capital looks for in assessing the startup before it can be considered for potential funding?**
 
@@ -58,7 +58,7 @@ The members of the [investment panel](/about-us/investment-panel/) are largely m
 
 The startup does not need to submit official/confidential documents and application form unless otherwise advised by the team.
 
-##### Third-Party Co-Investor (excludes SEEDS Capital’s appointed partners)
+#### Third-Party Co-Investor (excludes SEEDS Capital’s appointed partners)
 
  **How do I become one of SEEDS’ co-investment partners?**
 
@@ -89,7 +89,7 @@ The final stage of assessment varies and will be conducted by:
 *   Our Investment Committee (for co-investments with our appointed partners) or
 *   [Our Investment Panel](/about-us/investment-panel/) (for co-investments with non-appointed partners)
 
-##### Post-Investment Stage
+#### Post-Investment Stage
 
 **What role will SEEDS Capital assume after its investment?**
 
