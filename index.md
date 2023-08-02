@@ -25,10 +25,10 @@ sections:
       description: <div><p class="padding--bottom eyebrow is-uppercase">Our
         Impact</p><div class="row is-centered bp-container
         justify-content-between padding--bottom--xl"><div class="padding"><h1
-        class="padding"><b>>S$122M</b></h1><p>deployed from
-        2020</p></div><div class="padding"><h1
-        class="padding">><b>132</b></h1><p>investments from
-        2020</p></div><div class="padding"><h1
+        class="padding"><b>>S$120M</b></h1><p>deployed since
+        2017</p></div><div class="padding"><h1
+        class="padding">><b>130</b></h1><p>new portfolio companies since
+        2017</p></div><div class="padding"><h1
         class="padding"><b>>40</b></h1><p>co-investment
         partners</p></div></div><div class="row is-centered bp-container
         justify-content-between padding--bottom--xl"><div class="padding"><h1
