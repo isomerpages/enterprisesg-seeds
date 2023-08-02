@@ -22,12 +22,7 @@ sections:
       button: Follow Us
       url: https://www.linkedin.com/company/seedscapitalsg/
   - infobar:
-      description: <div><p class="padding--bottom eyebrow is-uppercase">Our Impact</p><div class="row is-centered bp-container justify-content-between padding--bottom--xl"><div class="padding"><h1 class="padding">
-<b>>S$200M</b></h1><p>deployed since 2017</p></div><div class="padding"><h1 class="padding">>
-<b>130</b></h1><p>new portfolio companies since 2017</p></div><div class="padding"><h1 class="padding">
-<b>>S$800M</b>
-</h1>
-<p>additional funding raised by portfolio companies</p></div></div><div class="row is-centered bp-container justify-content-between padding--bottom--xl"><div class="padding"><h1 class="padding"><img style="width:300px;" src="/images/techinasialogo.png"></h1><p>Recognised by Tech In Asia as <a href="/news/industry-news/these-are-the-most-active-investors-in-singapores-startups/">One of The Most Active VCs in Singapore</a></p></div></div></div>
+      description: <div><p class="padding--bottom eyebrow is-uppercase">Our Impact</p><div class="row is-centered bp-container justify-content-between padding--bottom--xl"><div class="padding"><h1 class="padding"><b>>S$200M</b></h1><p>deployed since 2017</p></div><div class="padding"><h1 class="padding"><b>130</b></h1><p>new portfolio companies since 2017</p></div><div class="padding"><h1 class="padding"><b>>S$800M</b></h1><p>additional funding raised by portfolio companies</p></div></div><div class="row is-centered bp-container justify-content-between padding--bottom--xl"><div class="padding"><h1 class="padding"><img style="width:300px;" src="/images/techinasialogo.png"></h1><p>Recognised by Tech In Asia as <a href="/news/industry-news/these-are-the-most-active-investors-in-singapores-startups/">One of The Most Active VCs in Singapore</a></p></div></div></div>
   - infobar:
       description: <div><p class="padding--bottom eyebrow is-uppercase">Our Investment
         Themes</p><div class="row is-centered bp-container padding--bottom"
