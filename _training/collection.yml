@@ -2,6 +2,7 @@ collections:
   training:
     output: true
     order:
+      - Emily.md
       - Muneerah.md
       - Lawrence.md
       - Test Page.md
