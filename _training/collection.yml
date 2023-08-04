@@ -2,6 +2,7 @@ collections:
   training:
     output: true
     order:
+      - Backup.md
       - Xue Bin.md
       - Miaowen.md
       - Emily.md
