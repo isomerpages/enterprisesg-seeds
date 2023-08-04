@@ -2,10 +2,10 @@ collections:
   training:
     output: true
     order:
-      - Backup.md
-      - Xue Bin.md
-      - Miaowen.md
-      - Emily.md
       - Muneerah.md
       - Lawrence.md
+      - Emily.md
       - Kelly.md
+      - Miaowen.md
+      - Xue Bin.md
+      - Backup.md
