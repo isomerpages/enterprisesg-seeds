@@ -1,4 +1,5 @@
 collections:
   training:
     output: true
-    order: []
+    order:
+      - Test Page.md
