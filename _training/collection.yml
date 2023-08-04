@@ -2,6 +2,6 @@ collections:
   training:
     output: true
     order:
-      - Trainee 1.md
+      - Muneerah.md
       - Trainee 2.md
       - Test Page.md
