@@ -2,7 +2,6 @@ collections:
   training:
     output: true
     order:
-      - Correct answers.md
       - Muneerah.md
       - Lawrence.md
       - Emily.md
@@ -10,3 +9,4 @@ collections:
       - Miaowen.md
       - Xue Bin.md
       - Backup.md
+      - Correct answers.md
