@@ -2,5 +2,6 @@ collections:
   training:
     output: true
     order:
+      - Trainee 2.md
       - Trainee 1.md
       - Test Page.md
