@@ -7,7 +7,8 @@ description: ""
 
 * Kheng Nam
 * Coronet Ventures
-
+![](/images/khengnam_desiree.jpg)
+![](/images/cs_desiree.jpg)
 
 
 2.	Add/edit members in directory
@@ -15,7 +16,7 @@ description: ""
 <div class="sgds-card col" style="flex: 1 1 47%; margin: 10px; max-width: 300px">
         <div class="sgds-card-image" style="margin-top: 15px; padding-left: 1.5rem;">
             <figure class="sgds-image" style="height: 200px;display: flex;justify-content: center;flex-direction: column;">
-                <img src="/images/wonglinhong.jpg" style="width: 200px; margin-left: 0;object-fit: scale-down; max-width: 100%;
+                <img src="/images/khengnam_desiree.jpg" style="width: 200px; margin-left: 0;object-fit: scale-down; max-width: 100%;
                 max-height: 100%;">
             </figure>
         </div>
