@@ -90,20 +90,6 @@ sections:
         aria-hidden="true"></i></div></a></div><div class="col force-half
         padding"><img src="/images/successstories.png" alt="Image alt
         text"></div></div>
-  - infopic:
-      title: ">40 co-investors"
-      subtitle: Our co-investors
-      button: Meet our partners
-      url: //for-startups/co-investment-partners/all-partners/
-      image: /images/coinvestors.png
-      alt: SEEDS co-investors
-  - infopic:
-      title: ">132 investments"
-      subtitle: Our portfolio
-      button: Meet our investees
-      url: /portfolio-companies/all-companies/
-      image: /images/successstories.png
-      alt: Image alt text
   - infobar:
       title: Get our latest news
       description: Stay updated on our latest investment activities and Singapore's
