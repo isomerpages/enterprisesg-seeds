@@ -10,7 +10,6 @@ description: ""
 ![](/images/khengnam_desiree.jpg)
 ![](/images/cs_desiree.jpg)
 
-![](/images/cs_desiree.jpg)
 
 2.	Add/edit members in directory
 #### **Chairman**
