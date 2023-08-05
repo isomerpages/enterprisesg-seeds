@@ -22,7 +22,20 @@ sections:
       button: Follow Us
       url: https://www.linkedin.com/company/seedscapitalsg/
   - infobar:
-      description: <div><p class="padding--bottom eyebrow is-uppercase">Our Impact</p><div class="row is-centered bp-container justify-content-between padding--bottom--xl"><div class="padding"><h1 class="padding"><b>>S$200M</b></h1><p>deployed since 2017</p></div><div class="padding"><h1 class="padding"><b>>130</b></h1><p>companies backed</p></div><div class="padding"><h1 class="padding"><b>>S$800M</b></h1><p>additional funds catalysed</p></div></div><div class="row is-centered bp-container justify-content-between padding--bottom--xl"><div class="padding"><h1 class="padding"><img style="width:300px;" src="/images/techinasialogo.png"></h1><p>Recognised by Tech In Asia as <a href="/news/industry-news/these-are-the-most-active-investors-in-singapores-startups/">One of The Most Active VCs in Singapore</a></p></div></div></div>
+      description: <div><p class="padding--bottom eyebrow is-uppercase">Our
+        Impact</p><div class="row is-centered bp-container
+        justify-content-between padding--bottom--xl"><div class="padding"><h1
+        class="padding"><b>>S$200M</b></h1><p>deployed since
+        2017</p></div><div class="padding"><h1
+        class="padding"><b>>130</b></h1><p>companies backed</p></div><div
+        class="padding"><h1 class="padding"><b>>S$800M</b></h1><p>additional
+        funds catalysed</p></div></div><div class="row is-centered bp-container
+        justify-content-between padding--bottom--xl"><div class="padding"><h1
+        class="padding"><img style="width:300px;"
+        src="/images/techinasialogo.png"></h1><p>Recognised by Tech In Asia as
+        <a
+        href="/news/industry-news/these-are-the-most-active-investors-in-singapores-startups/">One
+        of The Most Active VCs in Singapore</a></p></div></div></div>
   - infobar:
       description: <div><p class="padding--bottom eyebrow is-uppercase">Our Investment
         Themes</p><div class="row is-centered bp-container padding--bottom"
@@ -77,6 +90,20 @@ sections:
         aria-hidden="true"></i></div></a></div><div class="col force-half
         padding"><img src="/images/successstories.png" alt="Image alt
         text"></div></div>
+  - infopic:
+      title: ">40 co-investors"
+      subtitle: Our co-investors
+      button: Meet our partners
+      url: //for-startups/co-investment-partners/all-partners/
+      image: /images/coinvestors.png
+      alt: SEEDS co-investors
+  - infopic:
+      title: ">132 investments"
+      subtitle: Our portfolio
+      button: Meet our investees
+      url: /portfolio-companies/all-companies/
+      image: /images/successstories.png
+      alt: Image alt text
   - infobar:
       title: Get our latest news
       description: Stay updated on our latest investment activities and Singapore's
