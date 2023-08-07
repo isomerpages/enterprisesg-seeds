@@ -1,9 +1,0 @@
----
-title: Training MB
-permalink: /news/press-releases/permalink/
-date: 2023-08-07
-layout: post
-description: Training MB
-image: ""
----
-Training MB
