@@ -106,4 +106,10 @@ sections:
       subtitle: Infobar Subtitle
       description: Infobar description
       button: Button Text
+  - infobar:
+      title: Training
+      subtitle: lawrence
+      description: this is for training
+      button: Click here for the next training segment
+      url: https://www.google.com/search?rlz=1C5GCEM_enSG1024SG1024&q=ha+sike+gif&tbm=isch&source=lnms&sa=X&ved=2ahUKEwibyKHIlsqAAxUeg2MGHQCBBpEQ0pQJegQICxAB&biw=1570&bih=724&dpr=1.8#imgrc=NY9LrEJo7F3RFM
 ---
