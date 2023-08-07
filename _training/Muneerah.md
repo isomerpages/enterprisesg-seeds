@@ -11,8 +11,7 @@ description: ""
 
 ![](/images/lee%20keng%20nam%20seeds%20training%20mb.png)
 
-
-![]()
+![](/images/cedarlogo.png)
 
 2.	Add/edit members in directory
 #### **Chairman**
@@ -26,7 +25,7 @@ description: ""
         <div class="sgds-card-content">
             <p><strong>Lee Keng Nam</strong></p>
             <small>Managing Director</small><br>
-            <small>Wingz Capital</small>
+            <small>GGV Capital Venture Partner</small>
             <div style="margin-top: 10px;">
                 <p>
                     <a href="http://www.wingz.com.sg/Wingz_Capital_Corporate/MD_Profile.html" target="_blank"><small>Bio</small></a>
