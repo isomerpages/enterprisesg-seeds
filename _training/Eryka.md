@@ -7,8 +7,8 @@ description: ""
 
 * Kheng Nam
 * Coronet Ventures
-* ![](/images/keng%20nam_eryka.jpg)
-* ![](/images/cs_eryka.jpg)
+![](/images/keng%20nam_eryka.jpg)
+![](/images/cs_eryka.jpg)
 
 
 
