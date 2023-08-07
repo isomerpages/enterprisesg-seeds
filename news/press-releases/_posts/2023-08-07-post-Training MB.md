@@ -6,3 +6,4 @@ layout: post
 description: Training MB
 image: ""
 ---
+Training MB
