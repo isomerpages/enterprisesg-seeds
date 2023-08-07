@@ -22,7 +22,7 @@ description: ""
         <div class="sgds-card-content">
             <p><strong>Kheng Nam</strong></p>
             <small>Managing Director</small><br>
-            <small>Wingz Capital</small>
+            <small>Coronet Ventures</small>
             <div style="margin-top: 10px;">
                 <p>
                     <a href="http://www.wingz.com.sg/Wingz_Capital_Corporate/MD_Profile.html" target="_blank"><small>Bio</small></a>
