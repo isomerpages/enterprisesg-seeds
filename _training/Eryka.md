@@ -22,12 +22,12 @@ description: ""
             </figure>
         </div>
         <div class="sgds-card-content">
-            <p><strong>Wong Lin Hong</strong></p>
-            <small>Managing Director</small><br>
-            <small>Wingz Capital</small>
+            <p><strong>Lee Keng Nam</strong></p>
+            <small>Venture Partner</small><br>
+            <small>GGV Capital</small>
             <div style="margin-top: 10px;">
                 <p>
-                    <a href="http://www.wingz.com.sg/Wingz_Capital_Corporate/MD_Profile.html" target="_blank"><small>Bio</small></a>
+                    <a href="https://www.ggvc.com/team/kheng-nam-lee/" target="_blank"><small>Bio</small></a>
                 </p>
             </div>
         </div>
