@@ -7,7 +7,8 @@ description: ""
 
 * Kheng Nam
 * Coronet Ventures
-
+![](/images/_cedar%20pic.jpg)
+![](/images/cedarlogo.png)
 
 
 2.	Add/edit members in directory
