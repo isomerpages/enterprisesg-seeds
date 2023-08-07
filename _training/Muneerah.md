@@ -9,6 +9,7 @@ description: ""
 * Coronet Ventures
 
 
+![](/images/lee%20keng%20nam%20seeds%20training%20mb.png)
 
 2.	Add/edit members in directory
 #### **Chairman**
