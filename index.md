@@ -101,4 +101,9 @@ sections:
   - resources:
       title: Our media mentions
       button: View More
+  - infobar:
+      title: hafiz
+      subtitle: Infobar Subtitle
+      description: Infobar description
+      button: Button Text
 ---
