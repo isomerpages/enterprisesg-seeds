@@ -36,6 +36,8 @@ sections:
         <a
         href="/news/industry-news/these-are-the-most-active-investors-in-singapores-startups/">One
         of The Most Active VCs in Singapore</a></p></div></div></div>
+      subtitle: Yo
+      title: Yo
   - infobar:
       description: <div><p class="padding--bottom eyebrow is-uppercase">Our Investment
         Themes</p><div class="row is-centered bp-container padding--bottom"
