@@ -15,17 +15,17 @@ description: ""
 <div class="sgds-card col" style="flex: 1 1 47%; margin: 10px; max-width: 300px">
         <div class="sgds-card-image" style="margin-top: 15px; padding-left: 1.5rem;">
             <figure class="sgds-image" style="height: 200px;display: flex;justify-content: center;flex-direction: column;">
-                <img src="/images/wonglinhong.jpg" style="width: 200px; margin-left: 0;object-fit: scale-down; max-width: 100%;
+                <img src="/images/LeeKengnamemily.jpg" style="width: 200px; margin-left: 0;object-fit: scale-down; max-width: 100%;
                 max-height: 100%;">
             </figure>
         </div>
         <div class="sgds-card-content">
-            <p><strong>Wong Lin Hong</strong></p>
+            <p><strong>Lee Keng Nam</strong></p>
             <small>Managing Director</small><br>
-            <small>Wingz Capital</small>
+            <small>Coronet Ventures</small>
             <div style="margin-top: 10px;">
                 <p>
-                    <a href="http://www.wingz.com.sg/Wingz_Capital_Corporate/MD_Profile.html" target="_blank"><small>Bio</small></a>
+                    <a href="https://www.ggvc.com/team/kheng-nam-lee/" target="_blank"><small>Bio</small></a>
                 </p>
             </div>
         </div>
