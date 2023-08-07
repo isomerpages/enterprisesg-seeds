@@ -7,8 +7,8 @@ description: ""
 
 * Kheng Nam
 * Coronet Ventures
-
-
+![](/images/chairman_headshot_hafiz.jpg)
+![](/images/cs_eryka.jpg)
 
 2.	Add/edit members in directory
 #### **Chairman**
