@@ -3,7 +3,7 @@ title: Hafiz
 permalink: /training/hafiz/
 description: ""
 ---
-![]()1.	Upload two images
+1.	Upload two images
 
 * Kheng Nam
 * Coronet Ventures
