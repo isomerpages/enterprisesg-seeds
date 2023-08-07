@@ -21,7 +21,7 @@ description: ""
             </figure>
         </div>
         <div class="sgds-card-content">
-            <p><strong>Lee Keng Nam</strong></p>
+            <p><strong>Lee Kheng Nam</strong></p>
             <small>Managing Director</small><br>
             <small>Wingz Capital</small>
             <div style="margin-top: 10px;">
