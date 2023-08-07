@@ -21,8 +21,8 @@ description: ""
         </div>
         <div class="sgds-card-content">
             <p><strong>Kheng Nam</strong></p>
-            <small>Managing Director</small><br>
-            <small>Coronet Ventures</small>
+            <small>Kheng Name Designation</small><br>
+            <small>Kheng Nam Company</small>
             <div style="margin-top: 10px;">
                 <p>
                     <a href="http://www.wingz.com.sg/Wingz_Capital_Corporate/MD_Profile.html" target="_blank"><small>Bio</small></a>
