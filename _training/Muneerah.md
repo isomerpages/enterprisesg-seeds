@@ -11,6 +11,9 @@ description: ""
 
 ![](/images/lee%20keng%20nam%20seeds%20training%20mb.png)
 
+
+![]()
+
 2.	Add/edit members in directory
 #### **Chairman**
 <div class="sgds-card col" style="flex: 1 1 47%; margin: 10px; max-width: 300px">
@@ -21,7 +24,7 @@ description: ""
             </figure>
         </div>
         <div class="sgds-card-content">
-            <p><strong>Wong Lin Hong</strong></p>
+            <p><strong>Lee Keng Nam</strong></p>
             <small>Managing Director</small><br>
             <small>Wingz Capital</small>
             <div style="margin-top: 10px;">
