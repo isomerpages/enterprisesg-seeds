@@ -3,7 +3,7 @@ title: FAQs
 permalink: /about-us/faqs/
 description: ""
 ---
-#### Assessment Stage
+<h4><b>Assessment Stage</b></h4>
 
 **What are the key business attributes that SEEDS Capital looks for in assessing the startup before it can be considered for potential funding?**
 
@@ -12,7 +12,7 @@ The startup would be considered for investment if it possesses the following key
 * Has substantial innovative and/or intellectual property content developed or owned in-house
 * Able to demonstrate a commercially viable business model from its products and/or services – this includes being able to secure some pilot/paying customers
 * Able to articulate clearly its value proposition and potential for scalability in the target customer segment(s) and across international markets
-* Has a committed and capable management team, with the relevant experience and business acumen skills (e.g. business, industry, technical capability) and receptive to guidance from co-investors
+* Has a committed and capable management team, with the relevant experience and business acumen skills (e.g. business, industry, technical capability) and receptive to guidance from&nbsp;co-investors
 
 
 **Does SEEDS Capital co-invest in startups in certain sectors only?**
@@ -40,9 +40,9 @@ Both SEEDS Capital and third-party co-investor will be investing on the same ter
 
 **Is there a limit to the investment quantum by SEEDS Capital at first or subsequent rounds?**
 
-The maximum potential investment amount that could be raised from SEEDS Capital is S$2 million (for General tech) or S$8 million (for Deep tech) over several investment rounds. Tranching based on milestones within each investment round can be expected. The basis of the fund-raising amount must be clearly articulated by the investee/co-investor.
+The maximum potential investment amount that could be raised from SEEDS Capital is S$2 million (for General tech) or S$8&nbsp;million (for Deep tech) over several investment rounds. Tranching based on milestones within each investment round can be expected. The basis of the fund-raising amount must be clearly articulated by the investee/co-investor.
 
-Subject to company’s specific progress and performance, additional investment into the company can be considered for follow-on investment rounds (up to S$2 million or S$8 million in total, inclusive of initial investment).
+Subject to company’s specific progress and performance, additional investment into the company can be considered for follow-on investment rounds (up to S$2 million or S$8&nbsp;million in total, inclusive of initial investment).
 
 **Who is involved in the final decision to support or reject an investment case?**
 
@@ -52,15 +52,15 @@ For co-investors who are not appointed partners of SEEDS Capital, the [Investmen
 
 **Who are involved as the investment panel members?**
 
-The members of the [investment panel](/about-us/investment-panel/) are largely made up of private-sector individuals from diverse professional background and experience (i.e. venture capital/finance/investment, entrepreneurial, corporate expertise, legal, & senior management skills), including several executive personnel from SEEDS Capital/ Singapore.
+The members of the [investment panel](/about-us/investment-panel/) are largely made up of private-sector individuals from diverse professional background and experience (i.e. venture capital/finance/investment, entrepreneurial, corporate expertise, legal, &amp; senior management skills), including several executive personnel from SEEDS Capital/ Singapore.
 
 **What other information regarding the investment procedure should the startup be aware of?**
 
 The startup does not need to submit official/confidential documents and application form unless otherwise advised by the team.
 
-#### Third-Party Co-Investor (excludes SEEDS Capital’s appointed partners)
+<h4><b>Third-Party Co-Investor (excludes SEEDS Capital’s appointed partners)</b></h4>
 
- **How do I become one of SEEDS’ co-investment partners?**
+&nbsp;**How do I become one of SEEDS’ co-investment partners?**
 
 SEEDS appoints its partners through open calls for co-investment partner applications. We do not have an open call now.
 
@@ -87,9 +87,9 @@ As with independent third-party co-investors, the appointed partners will also h
 The final stage of assessment varies and will be conducted by:
 
 *   Our Investment Committee (for co-investments with our appointed partners) or
-*   [Our Investment Panel](/about-us/investment-panel/) (for co-investments with non-appointed partners)
+*   [Our Investment Panel](/about-us/investment-panel/)&nbsp;(for co-investments with non-appointed partners)
 
-#### Post-Investment Stage
+<h4><b>Post-Investment Stage</b></h4>
 
 **What role will SEEDS Capital assume after its investment?**
 
@@ -97,4 +97,4 @@ Like commercially-managed fund managers, SEEDS Capital maintains a close account
 
 **How long does it take and what modes of exit will SEEDS Capital seek after investing?**
 
-SEEDS Capital is looking at an investment horizon period of about five to seven years. However, this is dependent on the traction of the company and its growth. Exit options include (but are not limited to) trade sale, merger & acquisition, redemption or cash offers for SEEDS Capital’s shares, and initial public offering.
+SEEDS Capital is looking at an investment horizon period of about five to seven years. However, this is dependent on the traction of the company and its growth. Exit options include (but are not limited to) trade sale, merger &amp; acquisition, redemption or cash offers for SEEDS Capital’s shares, and initial public offering.
