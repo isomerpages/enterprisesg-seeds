@@ -41,7 +41,7 @@ If you have already identified an investor that is not listed as our appointed c
 Our Investment Team will assess the investment opportunity and undertake due diligence accordingly. 
 
 The final stage of assessment will be conducted by: 
-* Our Investment Committee (for co-investments with our appointed partners) or 
+* Our Investment Committee (for co-investments with our [appointed partners](/for-startups/co-investment-partners/all-partners/)) or 
 * [Our Investment Panel](/about-us/investment-panel/) (for co-investments with non-appointed partners)
 
 Companies that are not a fit with our investment mandate will be informed.
