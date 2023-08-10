@@ -1,17 +1,16 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/seedslogo2.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Collection
-    collection: example-collection
-  - title: Resources
+  - title: About Us
+    collection: about-us
+  - title: For Tech Startups
+    collection: for-tech-startups
+  - title: For Investors
+    collection: for-investors
+  - title: Our Portfolio Companies
+    collection: portfolio-companies
+  - title: News
     resource_room: true
+  - title: Careers
+    url: /careers
+  - title: Subscribe
+    url: https://enterprisesg.us14.list-manage.com/subscribe?u=b5fb15f5d3fd9e98d46329c56&id=d848098406

@@ -335,3 +335,22 @@ $desktop: 960px + (2 * $gap) !default;
     width: 100%;
   }
 }
+
+.justify-content-between {
+	justify-content: space-between;
+}
+
+@media screen and (min-width: 769px) {
+	.col.force-half {
+    		flex: none;
+    		width: 50%;
+	}
+}
+	  
+#main-content .is-offset-one-quarter {
+	margin-left: 0!important
+}
+	  
+#main-content .is-half {
+	width: 100%!important
+}

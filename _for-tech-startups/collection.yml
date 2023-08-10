@@ -1,0 +1,12 @@
+collections:
+  for-tech-startups:
+    output: true
+    order:
+      - Work with us.md
+      - Co-Investment Partners/.keep
+      - Co-Investment Partners/Our Partners.md
+      - Co-Investment Partners/Advanced Manufacturing and Engineering.md
+      - Co-Investment Partners/Agritech & Foodtech.md
+      - Co-Investment Partners/Health & Biomedical Sciences.md
+      - Co-Investment Partners/Maritime Tech.md
+      - Co-Investment Partners/Urban Solutions And Sustainability.md

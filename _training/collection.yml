@@ -1,0 +1,15 @@
+collections:
+  training:
+    output: true
+    order:
+      - Eryka.md
+      - Hafiz.md
+      - Myra.md
+      - Muneerah.md
+      - Lawrence.md
+      - Emily.md
+      - Kelly.md
+      - Miaowen.md
+      - Xue Bin.md
+      - Backup.md
+      - Correct answers.md
