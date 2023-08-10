@@ -2,7 +2,7 @@
 layout: homepage
 title: SEEDS Capital
 description: Catalysing smart monies into Singapore-based, early-stage technology startups.
-image: /images/isomer-logo.svg
+image: /images/seedslogo2.png
 permalink: /
 notification: ""
 sections:
