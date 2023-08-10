@@ -53,8 +53,8 @@ plugins:
 staging: https://staging.d22xzwwivgfe0v.amplifyapp.com/
 prod: https://master.d22xzwwivgfe0v.amplifyapp.com/
 google_analytics: "312673821"
-is_government: true
-shareicon: /images/isomer-logo.svg
+is_government: false
+shareicon: /images/seedslogo2.png
 facebook-pixel: ""
 linkedin-insights: ""
 google_analytics_ga4: G-Q5HY78G0HD
