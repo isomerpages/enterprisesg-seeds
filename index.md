@@ -82,7 +82,7 @@ sections:
       description: <div class="row is-centered bp-container justify-content-between
         padding--bottom"><div class="col force-half has-text-left"><p
         class="padding--bottom eyebrow is-uppercase">Our PORTFOLIO</p><h1
-        class="has-text-secondary padding--bottom"><b>>132
+        class="has-text-secondary padding--bottom"><b>>120
         investments</b></h1><p></p><a href="/portfolio-companies/all-companies"
         rel="noreferrer" class="bp-sec-button"
         style="font-size:inherit;margin-top:10px;"><div><span>Meet Our
