@@ -16,14 +16,14 @@ description: ""
 <div class="sgds-card col" style="flex: 1 1 47%; margin: 10px; max-width: 300px">
         <div class="sgds-card-image" style="margin-top: 15px; padding-left: 1.5rem;">
             <figure class="sgds-image" style="height: 200px;display: flex;justify-content: center;flex-direction: column;">
-                <img src="/images/cedarpic.jpg" style="width: 200px; margin-left: 0;object-fit: scale-down; max-width: 100%;
+                <img src="/images/lee keng nam.jpg" style="width: 200px; margin-left: 0;object-fit: scale-down; max-width: 100%;
                 max-height: 100%;">
             </figure>
         </div>
         <div class="sgds-card-content">
             <p><strong>Lee Kheng Nam</strong></p>
-            <small>Venture Partner</small><br>
-            <small>GGV Capital</small>
+            <small>Deputy Chairman</small><br>
+            <small>Vertex Venture</small>
             <div style="margin-top: 10px;">
                 <p>
                     <a href="https://www.ggvc.com/team/kheng-nam-lee/" target="_blank"><small>Bio</small></a>
