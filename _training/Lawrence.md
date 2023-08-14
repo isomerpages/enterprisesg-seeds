@@ -25,7 +25,7 @@ description: ""
             <small>Vertex Venture</small>
             <div style="margin-top: 10px;">
                 <p>
-                    <a href="https://www.ggvc.com/team/kheng-nam-lee/" target="_blank"><small>Bio</small></a>
+                    <a href="/files/Mr Lee Kheng Nam's Bio_SEEDS.pdf" target="_blank"><small>Bio</small></a>
                 </p>
             </div>
         </div>
