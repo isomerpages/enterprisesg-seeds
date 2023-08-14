@@ -14,6 +14,6 @@ Our focus sectors are Advanced Manufacturing &amp; Engineering, Health &amp; Bio
 
 Post-investment, we leverage [Enterprise Singapore's](https://www.enterprisesg.gov.sg/)  network across industries and global overseas centres to add value to our portfolio companies. 
 
-Since 2020, we have deployed more than S$120 million and stimulated more than S$670 million of private sector investments into some 130 companies, of which 70 are new investments. Learn more about our [co-investment partners](/for-startups/co-investment-partners/all-partners/) and [portfolio startups](/portfolio-companies/all-companies//).
+Since 2020, we have deployed more than S$200 million and stimulated more than S$800 million of private sector investments into 130 companies. Learn more about our [co-investment partners](/for-startups/co-investment-partners/all-partners/) and [portfolio startups](/portfolio-companies/all-companies/).
 
 <br>
