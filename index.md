@@ -23,11 +23,10 @@ sections:
       url: https://www.linkedin.com/company/seedscapitalsg/
   - infobar:
       description: <div><p class="padding--bottom eyebrow is-uppercase">Our
-        Impact</p><div class="row is-centered bp-container
+        Impact Since 2017</p><div class="row is-centered bp-container
         justify-content-between padding--bottom--xl"><div class="padding"><h1
-        class="padding"><b>>S$200M</b></h1><p>deployed since
-        2017</p></div><div class="padding"><h1
-        class="padding"><b>>130</b></h1><p>companies backed</p></div><div
+        class="padding"><b>>S$200M</b></h1><p>deployed</p></div><div class="padding"><h1
+        class="padding"><b>>150</b></h1><p>companies backed</p></div><div
         class="padding"><h1 class="padding"><b>>S$800M</b></h1><p>additional
         funds catalysed</p></div></div><div class="row is-centered bp-container
         justify-content-between padding--bottom--xl"><div class="padding"><h1
@@ -83,7 +82,7 @@ sections:
         padding--bottom"><div class="col force-half has-text-left"><p
         class="padding--bottom eyebrow is-uppercase">Our PORTFOLIO</p><h1
         class="has-text-secondary padding--bottom"><b>>120
-        investments</b></h1><p></p><a href="/portfolio-companies/all-companies"
+        companies</b></h1><p></p><a href="/portfolio-companies/all-companies"
         rel="noreferrer" class="bp-sec-button"
         style="font-size:inherit;margin-top:10px;"><div><span>Meet Our
         Investees</span><i class="sgds-icon sgds-icon-arrow-right is-size-4"

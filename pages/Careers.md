@@ -33,8 +33,7 @@ You will hone your investment expertise and business acumen as you review pitch 
 
 We will also discuss and spar intellectually over valuations, business models, and startups’ strategies as a team. We will train and equip you to understand venture capital financial and legal jargon. 
 
-
-**Life @ SEEDS Capital**
+<!--**Life @ SEEDS Capital**
 ![SEEDS Capital team shot](/images/seeds%20dandd%20group%20shot.jpg)
-
+-->
 Meet our [investment team](/about-us/investment-team/).
