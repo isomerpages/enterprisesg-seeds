@@ -15,7 +15,7 @@ description: Our Investment Panel conducts the final stage of assessment for
         <div class="sgds-card-content">
             <p><strong>Lee Kheng Nam</strong></p>
             <small>Deputy Chairman</small><br>
-            <small>Vertex Ventures</small>
+            <small>Vertex Holdings</small>
             <div style="margin-top: 10px;">
                 <p>
                     <a href="/files/MR Lee Kheng Nam's Bio_SEEDS.pdf" target="_blank"><small>Bio</small></a>
