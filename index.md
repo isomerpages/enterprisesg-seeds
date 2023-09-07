@@ -25,9 +25,9 @@ sections:
       description: <div><p class="padding--bottom eyebrow is-uppercase">Our
         Impact Since 2017</p><div class="row is-centered bp-container
         justify-content-between padding--bottom--xl"><div class="padding"><h1
-        class="padding"><b>>S$200M</b></h1><p>deployed</p></div><div class="padding"><h1
-        class="padding"><b>>150</b></h1><p>companies backed</p></div><div
-        class="padding"><h1 class="padding"><b>>S$800M</b></h1><p>additional
+        class="padding"><b>>S$220M</b></h1><p>deployed</p></div><div class="padding"><h1
+        class="padding"><b>>160</b></h1><p>companies backed</p></div><div
+        class="padding"><h1 class="padding"><b>>S$950M</b></h1><p>additional
         funds catalysed</p></div></div><div class="row is-centered bp-container
         justify-content-between padding--bottom--xl"><div class="padding"><h1
         class="padding"><img style="width:300px;"
