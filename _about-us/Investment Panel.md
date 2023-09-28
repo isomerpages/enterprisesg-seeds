@@ -18,7 +18,7 @@ description: Our Investment Panel conducts the final stage of assessment for
             <small>Vertex Holdings</small>
             <div style="margin-top: 10px;">
                 <p>
-                    <a href="/files/MR Lee Kheng Nam's Bio_SEEDS.pdf" target="_blank"><small>Bio</small></a>
+                    <a href="/files/mr lee kheng nam's bio_seeds.pdf" target="_blank"><small>Bio</small></a>
                 </p>
             </div>
         </div>
