@@ -2,6 +2,7 @@
 title: Investment Team
 permalink: /about-us/investment-team/
 description: ""
+variant: markdown
 ---
 <div style="display: flex; flex-wrap: wrap; padding: 10px">
   <div class="sgds-card col" style="flex: 1 1 47%; margin: 10px; max-width: 300px">
@@ -103,22 +104,6 @@ description: ""
     <div class="sgds-card col" style="flex: 1 1 47%; margin: 10px; max-width: 300px">
         <div class="sgds-card-image" style="margin-top: 15px; padding-left: 1.5rem;">
             <figure class="sgds-image" style="height: 200px;display: flex;justify-content: center;flex-direction: column;">
-                <img src="/images/Ong_Wei_Zhong_IM.jpg" style="width: 200px; margin-left: 0; object-fit: scale-down; max-width: 100%;
-                    max-height: 100%;">
-            </figure>
-        </div>
-        <div class="sgds-card-content">
-            <p><strong>Ong Wei Zhong</strong></p>
-            <small>Investment Manager</small><br>
-            <div style="display: flex;margin-top: 10px;">
-                <div><img src="/images/linkedin.png" style="width: 20px;margin-left: 0; display: inline; margin-right: 10px;"></div>
-                <a href="https://www.linkedin.com/in/ongweizhong/" target="_blank"><small>LinkedIn</small></a>
-            </div>
-        </div>
-    </div>
-    <div class="sgds-card col" style="flex: 1 1 47%; margin: 10px; max-width: 300px">
-        <div class="sgds-card-image" style="margin-top: 15px; padding-left: 1.5rem;">
-            <figure class="sgds-image" style="height: 200px;display: flex;justify-content: center;flex-direction: column;">
                 <img src="/images/Kelly_Ng_IA.jpg" style="width: 200px; margin-left: 0;object-fit: scale-down; max-width: 100%;
                     max-height: 100%;">
             </figure>
@@ -140,7 +125,7 @@ description: ""
             </figure>
         </div>
         <div class="sgds-card-content">
-            <p><strong>Miao Wen Lim</strong></p>
+            <p><strong>Lim Miao Wen</strong></p>
             <small>Investment Manager</small><br>
             <div style="display: flex;margin-top: 10px;">
                 <div><img src="/images/linkedin.png" style="width: 20px;margin-left: 0; display: inline; margin-right: 10px;"></div>
@@ -180,16 +165,4 @@ description: ""
             </div>
         </div>
     </div>
-    <div class="sgds-card col" style="flex: 1 1 47%; margin: 10px; max-width: 300px">
-        <div class="sgds-card-image" style="margin-top: 15px; padding-left: 1.5rem;">
-            <figure class="sgds-image" style="height: 200px;display: flex;justify-content: center;flex-direction: column;">
-                <img src="/images/Eve_Loo_SE.jpg" style="width: 200px; margin-left: 0;object-fit: scale-down; max-width: 100%;
-                    max-height: 100%;">
-            </figure>
-        </div>
-        <div class="sgds-card-content">
-            <p><strong>Eve Loo</strong></p>
-            <small>Senior Executive</small><br>
-        </div>
-    </div>
- </div>
+	 </div>
