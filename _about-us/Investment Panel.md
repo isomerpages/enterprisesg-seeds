@@ -3,6 +3,7 @@ title: Investment Panel
 permalink: /about-us/investment-panel/
 description: Our Investment Panel conducts the final stage of assessment for
   co-investments with non-appointed partners
+variant: markdown
 ---
 #### **Chairman**
 <div class="sgds-card col" style="flex: 1 1 47%; margin: 10px; max-width: 300px">
@@ -34,7 +35,7 @@ description: Our Investment Panel conducts the final stage of assessment for
         </div>
         <div class="sgds-card-content">
             <p><strong>Jeffrey Siow</strong></p>
-            <small>Chairman</small><br>
+            <small>Board of Directors</small><br>
 					  <small>SEEDS Capital</small><br>
             <div style="display: flex; margin-top: 10px;">
                 <div><img src="/images/linkedin.png" style="width: 20px;margin-left: 0; display: inline; margin-right: 10px;"></div>
@@ -68,7 +69,7 @@ description: Our Investment Panel conducts the final stage of assessment for
         </div>
         <div class="sgds-card-content">
             <p><strong>Emily Liew</strong></p>
-            <small>Director</small><br>
+            <small>Board of Directors</small><br>
 					  <small>SEEDS Capital</small><br>
             <div style="display: flex; margin-top: 10px;">
                 <div><img src="/images/linkedin.png" style="width: 20px;margin-left: 0; display: inline; margin-right: 10px;"></div>
