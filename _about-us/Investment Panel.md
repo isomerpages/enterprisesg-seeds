@@ -3,6 +3,7 @@ title: Investment Panel
 permalink: /about-us/investment-panel/
 description: Our Investment Panel conducts the final stage of assessment for
   co-investments with non-appointed partners
+variant: markdown
 ---
 #### **Chairman**
 <div class="sgds-card col" style="flex: 1 1 47%; margin: 10px; max-width: 300px">
