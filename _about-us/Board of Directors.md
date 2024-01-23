@@ -2,6 +2,7 @@
 title: Board of Directors
 permalink: /about-us/board-of-directors/
 description: ""
+variant: markdown
 ---
 #### **Chairman**
 <div style="display: flex; flex-wrap: wrap; padding: 10px">
@@ -85,7 +86,7 @@ description: ""
         </div>
         <div class="sgds-card-content">
             <p><strong>Geoffrey Yeo</strong></p>
-            <small>Assistant CEO</small><br>
+            <small>Director</small><br>
             <small>Enterprise Singapore</small><br>
             <div style="display: flex; margin-top: 10px;">
                 <div><img src="/images/linkedin.png" style="width: 20px;margin-left: 0; display: inline; margin-right: 10px;"></div>
