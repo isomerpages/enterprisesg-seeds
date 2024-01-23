@@ -69,7 +69,7 @@ variant: markdown
         </div>
         <div class="sgds-card-content">
             <p><strong>Emily Liew</strong></p>
-            <small>Board of Directors</small><br>
+            <small>Director</small><br>
 					  <small>SEEDS Capital</small><br>
             <div style="display: flex; margin-top: 10px;">
                 <div><img src="/images/linkedin.png" style="width: 20px;margin-left: 0; display: inline; margin-right: 10px;"></div>
@@ -86,7 +86,7 @@ variant: markdown
         </div>
         <div class="sgds-card-content">
             <p><strong>Geoffrey Yeo</strong></p>
-            <small>Board of Directors</small><br>
+            <small>Director</small><br>
 					  <small>SEEDS Capital</small><br>
             <div style="display: flex; margin-top: 10px;">
                 <div><img src="/images/linkedin.png" style="width: 20px;margin-left: 0; display: inline; margin-right: 10px;"></div>
