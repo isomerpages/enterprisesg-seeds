@@ -81,7 +81,7 @@ variant: markdown
             <small>Senior Investment Manager</small><br>
             <div style="display: flex;margin-top: 10px;">
                 <div><img src="/images/linkedin.png" style="width: 20px;margin-left: 0; display: inline; margin-right: 10px;"></div>
-                <a href="https://www.linkedin.com/in/clementckw/" target="_blank"><small>LinkedIn</small></a>
+                <a href="https://www.linkedin.com/in/clement-chua-/" target="_blank"><small>LinkedIn</small></a>
             </div>
         </div>
     </div>
