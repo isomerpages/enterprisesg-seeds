@@ -6,5 +6,5 @@ layout: link
 description: ""
 image: ""
 variant: tiptap
-external: https://https://www.businesstimes.com.sg/startups-tech/startups/singapores-deep-tech-startups-snare-lions-share-funding-vc-interest-returns
+external: https://www.businesstimes.com.sg/startups-tech/startups/singapores-deep-tech-startups-snare-lions-share-funding-vc-interest-returns
 ---
