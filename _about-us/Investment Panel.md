@@ -19,7 +19,7 @@ variant: markdown
             <small>Vertex Holdings</small>
             <div style="margin-top: 10px;">
                 <p>
-                    <a href="https://enterprisesg-seeds-staging.netlify.app/files/lee%20kheng%20nam%20bio_seeds.pdf" target="_blank"><small>Bio</small></a>
+                    <a href="/files/lee%20kheng%20nam%20bio_seeds.pdf" target="_blank"><small>Bio</small></a>
                 </p>
             </div>
         </div>
