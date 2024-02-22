@@ -1,0 +1,12 @@
+collections:
+  portfolio-companies:
+    output: true
+    order:
+      - All/.keep
+      - All/Our Companies.md
+      - All/Advanced Manufacturing and Engineering.md
+      - All/Agritech and Foodtech.md
+      - All/Health and Biomedical Sciences.md
+      - All/Maritime Tech.md
+      - All/Services and Digital Economy.md
+      - All/Urban Solutions and Sustainability.md
