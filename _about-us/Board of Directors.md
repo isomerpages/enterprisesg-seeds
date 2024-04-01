@@ -52,8 +52,8 @@ variant: markdown
         </div>
         <div class="sgds-card-content">
             <p><strong>Cyril Ebersweile</strong></p>
-            <small>General Partner at SOSV and Founder/Managing Director of HAX</small><br>
-					<small>SOSV</small>
+             <small>General Partner, SOSV</small><br>
+					<small>Founder and Managing Director, HAX</small>
             <div style="display: flex;margin-top: 10px;">
                 <div><img src="/images/linkedin.png" style="width: 20px;margin-left: 0; display: inline; margin-right: 10px;"></div>
                 <a href="https://www.linkedin.com/in/cyrilebersweiler/" target="_blank"><small>LinkedIn</small></a>
