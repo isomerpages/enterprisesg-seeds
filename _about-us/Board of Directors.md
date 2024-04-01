@@ -19,7 +19,7 @@ variant: markdown
 					  <small>SEEDS Capital</small><br>
             <div style="display: flex;margin-top: 10px;">
                 <div><img src="/images/linkedin.png" style="width: 20px;margin-left: 0; display: inline; margin-right: 10px;"></div>
-                <a href="https://www.linkedin.com/in/jsiow/" target="_blank"><small>LinkedIn</small></a>
+                <a href="https://www.linkedin.com/in/cindy-khoo-15831b29/" target="_blank"><small>LinkedIn</small></a>
             </div>
         </div>
     </div>
