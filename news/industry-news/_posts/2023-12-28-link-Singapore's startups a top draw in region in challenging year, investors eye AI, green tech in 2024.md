@@ -6,5 +6,5 @@ layout: link
 description: ""
 image: ""
 variant: tiptap
-external: https://https://www.straitstimes.com/business/companies-markets/s-pore-s-start-ups-a-top-draw-in-region-in-challenging-year-investors-eye-ai-green-tech-in-2024
+external: https://www.straitstimes.com/business/companies-markets/s-pore-s-start-ups-a-top-draw-in-region-in-challenging-year-investors-eye-ai-green-tech-in-2024
 ---
