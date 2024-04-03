@@ -51,7 +51,7 @@ variant: markdown
             </figure>
         </div>
         <div class="sgds-card-content">
-            <p><strong>Cyril Ebersweile</strong></p>
+            <p><strong>Cyril Ebersweiler</strong></p>
              <small>General Partner, SOSV</small><br>
 					<small>Founder and Managing Director, HAX</small>
             <div style="display: flex;margin-top: 10px;">
