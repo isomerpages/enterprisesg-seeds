@@ -18,7 +18,7 @@ sections:
         - title: Portfolio Companies
           description: Meet our founders
           url: /portfolio-companies/all-companies
-      background: /images/Web_Banner_Sample.jpg
+      background: /images/Question 4 - SIAMH logo.png
       button: Follow Us
       url: https://www.linkedin.com/company/seedscapitalsg/
   - infobar:
