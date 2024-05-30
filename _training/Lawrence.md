@@ -32,6 +32,7 @@ Applicants will be assessed based on their alignment to the Startup SG Equity co
 
 [Read more here four ](/files/PDF_test_1_3mb.pdf)
 
+[help meeeee](/files/seeds%20capital_cfp2021_04%2008%202021_seeds%20capital%20appoints%2013%20new%20partners.pdf)
 
 2.	Add/edit members in directory
 #### **Chairman**
@@ -48,7 +49,7 @@ Applicants will be assessed based on their alignment to the Startup SG Equity co
             <small>Vertex Venture</small>
             <div style="margin-top: 10px;">
                 <p>
-                    <a href="/files/Lee Kheng Nam Bio_SEEDS.pdf" target="_blank"><small>Bio</small></a>
+                    <a href="/files/lee kheng nam bio_seeds.pdf" target="_blank"><small>Bio</small></a>
                 </p>
             </div>
         </div>
