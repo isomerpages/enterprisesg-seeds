@@ -2,12 +2,35 @@
 title: Lawrence
 permalink: /training/lawrence/
 description: ""
+variant: markdown
 ---
-1.	Upload two images
+SEEDS Capital’s mandate is to stimulate private sector investments into Singapore-based deep tech startups. 
 
-* Kheng Nam
-* Coronet Ventures
+We value partners who can:
+* Identify and co-invest in Singapore-based, deep tech and early-stage startups in the Advanced Manufacturing &amp; Engineering, Agrifood Tech, Health &amp; Biomedical Sciences and Urban Solutions sectors and
+* Contribute to the startups' growth strategies.
 
+There are two ways to co-invest with us: 
+
+##### **1. Apply to be a co-investment partner**
+
+We will publicly release information on the next call for new co-investment partner applications. We do not have an open call now.
+
+Co-investment applicants will be evaluated against a robust set of criteria.
+
+Applicants will be assessed based on their alignment to the Startup SG Equity co-investment scheme objectives and their ability to value-add to startups. This would include: 
+* Ability to contribute to the startup’s growth strategies 
+* Management experience, relevant business contacts and/or technical expertise that can value-add to the startup. 
+* Access to good deal flow and availability of investment funds for immediate deployment.  
+* Investment decision making, governance and fund management process 
+
+[Read more](/files/Doc2_copy_2.pdf)
+
+[Read more here too](/files/Doc2_copy.pdf)
+
+[Read more here three](/files/Doc2.pdf)
+
+[Read more here four ](/files/PDF_test_1_3mb.pdf)
 
 
 2.	Add/edit members in directory
