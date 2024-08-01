@@ -31,6 +31,4 @@ Their entrepreneurial roots go back to 1849.</small><div style="display: flex; m
 </div>
 	
 
-	
-	
 	</div>
