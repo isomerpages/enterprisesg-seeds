@@ -3,6 +3,7 @@ title: Contact Us
 permalink: /about-us/contact/
 description: Investment arm of Enterprise Singapore, nurturing Singapore-based
   tech startups with intellectual property and global market potential
+variant: markdown
 ---
 For media opportunities, email us at [seeds@teamlewis.com](mailto:seeds@teamlewis.com) and [media@enterprisesg.gov.sg](mailto:media@enterprisesg.gov.sg "mailto:media@enterprisesg.gov.sg")
 
