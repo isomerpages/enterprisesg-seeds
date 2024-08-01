@@ -2,6 +2,7 @@
 title: Overview
 permalink: /about-us/overview/
 description: ""
+variant: markdown
 ---
 <h4><b>Investment arm of Enterprise Singapore, nurturing Singapore-based tech startups with intellectual property and global market potential </b></h4>
  
