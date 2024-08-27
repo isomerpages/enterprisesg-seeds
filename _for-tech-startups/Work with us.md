@@ -2,6 +2,7 @@
 title: Work with us
 permalink: /for-startups/how-to-work-with-us/
 description: ""
+variant: markdown
 ---
 SEEDS Capital supports founders who are pushing the boundaries of scientific innovation and solving global challenges. Learn about our [co-investment model](/about-us/our-co-investment-model/) and [our investees](/portfolio-companies/all-companies/).
 
@@ -17,7 +18,6 @@ If your startup is ready to fundraise from us and our co-investment partners, he
 * Showcase high-growth potential with clear scalability for the international market.
 * Have identified a ready, independent third-party investor(s).
 * Business must not be involved in the following business activities: gambling, tobacco-related products, or any other activities which are in violation of law, or against public interest.
-* Company cannot be a subsidiary or joint venture.
 
 
 ##### **2. Identify an institutional investor** 
