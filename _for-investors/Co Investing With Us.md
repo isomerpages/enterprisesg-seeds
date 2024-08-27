@@ -2,6 +2,7 @@
 title: Co-Invest With Us
 permalink: /for-investors/co-invest-with-us/
 description: ""
+variant: markdown
 ---
 SEEDS Capital’s mandate is to stimulate private sector investments into Singapore-based deep tech startups. 
 
@@ -13,18 +14,18 @@ There are two ways to co-invest with us:
 
 ##### **1. Apply to be a co-investment partner**
 
-We will publicly release information on the next call for new co-investment partner applications. We do not have an open call now.
-
-Co-investment applicants will be evaluated against a robust set of criteria.
-
-Applicants will be assessed based on their alignment to the Startup SG Equity co-investment scheme objectives and their ability to value-add to startups. This would include: 
-* Ability to contribute to the startup’s growth strategies 
-* Management experience, relevant business contacts and/or technical expertise that can value-add to the startup. 
-* Access to good deal flow and availability of investment funds for immediate deployment.  
-* Investment decision making, governance and fund management process 
+We are seeking strategic partners, who have the ability to lead funding rounds, and possess strong record, expertise and capabilities in the following areas:
 
 
-Find out more about our appointed partners [here](/for-startups/co-investment-partners/all-partners/).
+a. **Track record of investing in Deep Tech:** Experienced in identifying and backing founders commercialising Emerging / Disruptive Technologies with transformative potential. 
+
+b. **Technical and Domain Expertise:** Specialised knowledge and capabilities related to Advanced Manufacturing, Pharmbio/Medtech, Agrifood Tech, Sustainability (such as Energy, Circular Economy, Urban Mobility, Water), Spacetech and, Quantumtech, to help startups navigate technical challenges and drive innovation.  
+
+c.	**International Networks:** Global networks to facilitate market entry and expansion. 
+
+d.	**Early Growth Investment Capabilities:** Ability to lead Series B/ C rounds to support scaling of Deep Tech startups’ commercialisation efforts.
+
+SEEDS will be accepting applications till 11 September 2024. For more details, please refer to the information pack (insert hyperlink to PDF) and press release (link).
 
 ##### **2. Approach us for ad-hoc co-investments**
 
