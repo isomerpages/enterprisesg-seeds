@@ -2,6 +2,7 @@
 title: Our Co-Investment Model
 permalink: /about-us/our-co-investment-model/
 description: ""
+variant: markdown
 ---
 ##### **Enabling the growth of deep tech startups through co-investments**
 
@@ -21,8 +22,9 @@ Our investment parameters are:
 
 |  | **General tech**  | **Deep tech*** |
 | -------- | -------- | -------- |
-| **Investment cap for each startup**     | S$2 million from SEEDS Capital    | S$8 million from SEEDS Capital     |
-| **Co-investment ratio (SEEDS Capital: co-investor)** | 7:3 up to the first S$250,000 from SEEDS Capital; 1:1 thereafter, up to S$2 million   | 7:3 up to the first S$500,000 from SEEDS Capital; 1:1 thereafter, up to S$4 million; 3:7 thereafter, up to S$8 million    |
+| **Investment cap for each startup**     | S$2 million from SEEDS Capital    | S$12 million from SEEDS Capital     |
+| **Co-investment ratio (SEEDS Capital: co-investor)** | 7:3 up to the first S$250,000 from SEEDS Capital; 1:1 thereafter, up to S$2 million   | 2:1 up to the first S$1 million (for 1st institutional round of financing, otherwise 1:1) from SEEDS Capital; 1:1 thereafter, up to S$4 million; 1:2 thereafter, up to S$8 million, 1:3 thereafter, up to S$12m
+   |
 
 <small>*General traits exhibited by a deep technology start up include, but are not limited to:  
 a. Product is built around differentiated, and often protected technological or scientific advances;  
