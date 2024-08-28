@@ -24,6 +24,7 @@ variant: markdown
             </div>
         </div>
     </div>
+		
 #### **Members**
 <div style="display: flex; flex-wrap: wrap; padding: 10px">
 	<div class="sgds-card col" style="flex: 1 1 47%; margin: 10px; max-width: 300px">
@@ -46,17 +47,17 @@ variant: markdown
     <div class="sgds-card col" style="flex: 1 1 47%; margin: 10px; max-width: 300px">
         <div class="sgds-card-image" style="margin-top: 15px; padding-left: 1.5rem;">
             <figure class="sgds-image" style="height: 200px;display: flex;justify-content: center;flex-direction: column;">
-                <img src="/images/carmenyuen.jpg" style="width: 200px; margin-left: 0;object-fit: scale-down; max-width: 100%;
+                <img src="/images/Cyril_Profile.png" style="width: 200px; margin-left: 0;object-fit: scale-down; max-width: 100%;
                     max-height: 100%;">
             </figure>
         </div>
         <div class="sgds-card-content">
-            <p><strong>Carmen Yuen</strong></p>
-            <small>Partner</small><br>
-            <small>Vertex Venture</small>
+            <p><strong>Cyril Ebersweiler</strong></p>
+            <small>General Partner, SOSV</small><br>
+            <small>Founder and Managing Director, HAX</small>
             <div style="display: flex;margin-top: 10px;">
                 <div><img src="/images/linkedin.png" style="width: 20px;margin-left: 0; display: inline; margin-right: 10px;"></div>
-                <a href="https://www.linkedin.com/in/yuencarmen" target="_blank"><small>LinkedIn</small></a>
+                <a href="https://www.linkedin.com/in/cyrilebersweiler/" target="_blank"><small>LinkedIn</small></a>
             </div>
         </div>
     </div>
@@ -131,35 +132,15 @@ variant: markdown
     <div class="sgds-card col" style="flex: 1 1 47%; margin: 10px; max-width: 300px">
         <div class="sgds-card-image" style="margin-top: 15px; padding-left: 1.5rem;">
             <figure class="sgds-image" style="height: 200px;display: flex;justify-content: center;flex-direction: column;">
-                <img src="/images/jeremyloh.jpg" style="width: 200px; margin-left: 0;object-fit: scale-down; max-width: 100%;
-                max-height: 100%;">
-            </figure>
-        </div>
-        <div class="sgds-card-content">
-            <p><strong>Jeremy Loh</strong></p>
-            <small>Co-Founder and Managing Partner</small><br>
-            <small>Genesis Alternative Ventures</small>
-            <div style="display: flex; margin-top: 10px;">
-                <div><img src="/images/linkedin.png" style="width: 20px;margin-left: 0; display: inline; margin-right: 10px;"></div>
-                <a href="https://www.linkedin.com/in/drmmhloh/" target="_blank"><small>LinkedIn</small></a>
-            </div>
-        </div>
-    </div>
-    <div class="sgds-card col" style="flex: 1 1 47%; margin: 10px; max-width: 300px">
-        <div class="sgds-card-image" style="margin-top: 15px; padding-left: 1.5rem;">
-            <figure class="sgds-image" style="height: 200px;display: flex;justify-content: center;flex-direction: column;">
                 <img src="/images/saurav.jpg" style="width: 200px; margin-left: 0;object-fit: scale-down; max-width: 100%;
                 max-height: 100%;">
             </figure>
         </div>
         <div class="sgds-card-content">
             <p><strong>Saurav Bhattacharyya</strong></p>
-            <small>Co-Founder, Quantum Inventions</small><br>
+           <small>Co-Founder, Quantum Inventions</small><br>
             <small>CEO, Proxtera</small><br>
             <div style="display: flex; margin-top: 10px;">
                 <div><img src="/images/linkedin.png" style="width: 20px;margin-left: 0; display: inline; margin-right: 10px;"></div>
                 <a href="https://www.linkedin.com/in/sauravbhattacharyya" target="_blank"><small>LinkedIn</small></a>
-            </div>
-        </div>
-    </div>
-</div>
+            </div></div></div></div>
