@@ -25,7 +25,7 @@ c.	**International Networks:** Global networks to facilitate market entry and ex
 
 d.	**Early Growth Investment Capabilities:** Ability to lead Series B/ C rounds to support scaling of Deep Tech startups’ commercialisation efforts.
 
-SEEDS will be accepting applications till **11 September 2024**. For more details, please refer to **information pack and press release.**
+SEEDS will be accepting applications till **11 September 2024**. For more details, please refer to [information pack](/files/SEEDS_Capital_Partnership_Info_Pack.pdf) and [press release](/files/SEEDS_Capital___Press_release_to_seek_for_new_partners.pdf).
 
 ##### **2. Approach us for ad-hoc co-investments**
 
