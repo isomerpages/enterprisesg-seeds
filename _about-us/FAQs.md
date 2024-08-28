@@ -68,7 +68,7 @@ b.	**Technical and Domain Expertise:** Specialised knowledge and capabilities re
 c.	**International Networks:** Global networks to facilitate market entry and expansion.  
 d.	**Early Growth Investment Capabilities:** Ability to lead Series B/ C rounds to support scaling of Deep Tech startups’ commercialisation efforts.
 
-SEEDS will be accepting applications till 11 September 2024. For more details, please refer to the Info pack (link) and press release (link).
+SEEDS will be accepting applications till **11 September 2024**. For more details, please refer to **information pack, Executive Summary Template and press release.**
 
 
 **Is it necessary for my startup to bring forth a third-party co-investor when considering raising investment from SEEDS Capital?**
