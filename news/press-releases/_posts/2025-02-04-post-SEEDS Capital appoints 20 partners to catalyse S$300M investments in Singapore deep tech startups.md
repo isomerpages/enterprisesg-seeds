@@ -100,6 +100,7 @@ A. For more details, please visit <strong><a rel="noopener noreferrer nofollow" 
 </p>
 <p><strong>-END-</strong>
 </p>
+<hr>
 <p><strong>About SEEDS Capital</strong>
 </p>
 <p>As the investment arm of Enterprise Singapore, SEEDS Capital catalyses
@@ -119,6 +120,7 @@ brings together the investment expertise and networks of EDBI and SEEDS
 Capital, to support the growth of innovative enterprises and anchor key
 operations and capabilities in Singapore.</p>
 <p>Learn more about SEEDS Capital at <a rel="noopener noreferrer nofollow" target="_blank">https://www.seedscapital.sg</a>.</p>
+<hr>
 <p><strong>ANNEX A</strong>
 </p>
 <p><strong><u>New Co-investment Partners</u></strong>
@@ -275,8 +277,8 @@ key sectors: Compute &amp; Communications, Climate &amp; Energy, and AI
 in Physical Industries.</p>
 <hr>
 <p>[1] Startup SG Equity catalyses private-sector investment for startups
-through government equity co-investment. Please refer to <a rel="noopener noreferrer nofollow" target="_blank">www.startupsg.net</a> for
-more details. Deputy Prime Minister Heng Swee Keat had announced an additional
-S$440 million allocation to the Startup SG Equity Scheme at the Singapore
-Week of Innovation and Technology (SWITCH) in October 2024.</p>
+through government equity co-investment. Please refer to <a rel="noopener noreferrer nofollow" target="_blank">www.startupsg.net</a> for more details.
+Deputy Prime Minister Heng Swee Keat had announced an additional S$440
+million allocation to the Startup SG Equity Scheme at the Singapore Week
+of Innovation and Technology (SWITCH) in October 2024.</p>
 <p>&nbsp;</p>
