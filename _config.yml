@@ -1,0 +1,60 @@
+title: SEEDS Capital
+url: https://seedscapital.sg
+favicon: /images/scfavicon.ico
+colors:
+  primary-color: "#8eba58"
+  secondary-color: "#43493a"
+  media-colors:
+    - title: media-color-one
+      color: "#7f7f7f"
+    - title: media-color-two
+      color: "#7f7f7f"
+    - title: media-color-three
+      color: "#749e41"
+    - title: media-color-four
+      color: "#749e41"
+    - title: media-color-five
+      color: "#749e41"
+resources_name: news
+description: Catalysing smart monies into Singapore-based, early-stage technology startups.
+permalink: none
+baseurl: ""
+exclude:
+  - travis-script.js
+  - .travis.yml
+  - README.md
+  - package.json
+  - package-lock.json
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Gemfile
+  - Gemfile.lock
+include:
+  - _redirects
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
+paginate: 12
+remote_theme: isomerpages/isomerpages-template@next-gen
+safe: false
+plugins:
+  - jekyll-feed
+  - jekyll-assets
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-remote-theme
+staging: https://staging.d22xzwwivgfe0v.amplifyapp.com/
+prod: https://master.d22xzwwivgfe0v.amplifyapp.com/
+google_analytics: "312673821"
+is_government: false
+shareicon: /images/seedslogo2.png
+facebook-pixel: ""
+linkedin-insights: ""
+google_analytics_ga4: G-Q5HY78G0HD

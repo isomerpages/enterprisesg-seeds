@@ -1,0 +1,5 @@
+collections:
+  for-investors:
+    output: true
+    order:
+      - Co Investing With Us.md
