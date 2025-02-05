@@ -25,10 +25,10 @@ sections:
       description: <div><p class="padding--bottom eyebrow is-uppercase">Our Impact
         Since 2017</p><div class="row is-centered bp-container
         justify-content-between padding--bottom--xl"><div class="padding"><h1
-        class="padding"><b>>S$220M</b></h1><p>deployed</p></div><div
+        class="padding"><b>>S$250M</b></h1><p>deployed</p></div><div
         class="padding"><h1 class="padding"><b>>160</b></h1><p>companies
         backed</p></div><div class="padding"><h1
-        class="padding"><b>>S$950M</b></h1><p>additional funds
+        class="padding"><b>>S$1.12B</b></h1><p>additional funds
         catalysed</p></div></div><div class="row is-centered bp-container
         justify-content-between padding--bottom--xl"><div class="padding"><h1
         class="padding"><img style="width:300px;"
@@ -69,7 +69,7 @@ sections:
       description: <div class="row is-centered bp-container justify-content-between
         padding--bottom"><div class="col force-half has-text-left"><p
         class="padding--bottom eyebrow is-uppercase">Our CO-INVESTORS</p><h1
-        class="has-text-secondary padding--bottom"><b>>40
+        class="has-text-secondary padding--bottom"><b>>50
         co-investors</b></h1><p></p><a
         href="/for-startups/co-investment-partners/all-partners/"
         rel="noreferrer" class="bp-sec-button"
@@ -82,7 +82,7 @@ sections:
       description: <div class="row is-centered bp-container justify-content-between
         padding--bottom"><div class="col force-half has-text-left"><p
         class="padding--bottom eyebrow is-uppercase">Our PORTFOLIO</p><h1
-        class="has-text-secondary padding--bottom"><b>>120
+        class="has-text-secondary padding--bottom"><b>>150
         companies</b></h1><p></p><a href="/portfolio-companies/all-companies"
         rel="noreferrer" class="bp-sec-button"
         style="font-size:inherit;margin-top:10px;"><div><span>Meet Our
