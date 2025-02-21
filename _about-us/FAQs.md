@@ -59,18 +59,6 @@ The startup does not need to submit official/confidential documents and applicat
 
 <h4><b>Third-Party Co-Investor (excludes SEEDS Capital’s appointed partners)</b></h4>
 
-&nbsp;**How do I become one of SEEDS’ co-investment partners?**
-
-SEEDS is currently seeking strategic partners, who have the ability to lead funding rounds, and possess strong record, expertise and capabilities in the following areas: 
-
-a.	**Track record of investing in Deep Tech:** Experienced in identifying and backing founders commercialising Emerging / Disruptive Technologies with transformative potential.  
-b.	**Technical and Domain Expertise:** Specialised knowledge and capabilities related to Advanced Manufacturing, Pharmbio/Medtech, Agrifood Tech, Sustainability (such as Energy, Circular Economy, Urban Mobility, Water), Spacetech and, Quantumtech, to help startups navigate technical challenges and drive innovation.  
-c.	**International Networks:** Global networks to facilitate market entry and expansion.  
-d.	**Early Growth Investment Capabilities:** Ability to lead Series B/ C rounds to support scaling of Deep Tech startups’ commercialisation efforts.
-
-SEEDS will be accepting applications till **11 September 2024**. For more details, please refer to [information pack](/files/SEEDS_Capital___Partnership_Info_Pack.pdf) and [press release](/files/SEEDS_Capital___Press_release_to_seek_for_new_partners.pdf).
-
-
 **Is it necessary for my startup to bring forth a third-party co-investor when considering raising investment from SEEDS Capital?**
 
 Yes. SEEDS Capital operates on a co-investment equity financing model. The investment principle is based on a matching commitment from an independent co-investor. The depth of assessment by the potential co-investor and his/her professional background and ability to value-add will be taken into consideration.
