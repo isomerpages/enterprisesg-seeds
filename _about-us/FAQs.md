@@ -35,9 +35,9 @@ However, firms with the following business activities (but not limited to activi
 As SEEDS Capital operates on a co-investment equity financing model, it will take shares in the startup. The amount of shareholding taken by SEEDS Capital is dependent on the valuation of the company.
 
 
-**On what terms would the co-investment be made with the Co-investment Partner into the startup?**
+**On what terms would the co-investment be made with the co-investor into the startup?**
 
-SEEDS and the Co-investment Partner must invest on pari passu terms – on the principle of equal risk and reward.  
+Both SEEDS Capital and third-party co-investor will be investing on the same terms, which are discussed after an initial assessment is made. Matters such as valuation, shareholding distribution and fund raising amount are advised to be disclosed during initial discussion for SEEDS to gain a better understanding.
 
 **Is there a limit to the investment quantum by SEEDS Capital at first or subsequent rounds?**
 
@@ -58,6 +58,17 @@ The members of the [investment panel](/about-us/investment-panel/) are largely m
 The startup does not need to submit official/confidential documents and application form unless otherwise advised by the team.
 
 <h4><b>Third-Party Co-Investor (excludes SEEDS Capital’s appointed partners)</b></h4>
+
+**How do I become one of SEEDS’ co-investment partners?**
+
+SEEDS appoints its partners through open calls for co-investment partner applications. We do not have an open call now.
+
+Investors will be assessed based on their alignment to the Startup SG Equity co-investment scheme objectives and their ability to value-add to startups. This would include:
+
+*   Ability to contribute to the startup’s growth strategies
+*   Management experience, relevant business contacts and/or technical expertise that can value-add to the startup.
+*   Access to good deal flow and availability of investment funds for immediate deployment.
+*   Investment decision making, governance and fund management process
 
 **Is it necessary for my startup to bring forth a third-party co-investor when considering raising investment from SEEDS Capital?**
 
@@ -82,10 +93,9 @@ The final stage of assessment varies and will be conducted by:
 
 **What role will SEEDS Capital assume after its investment?**
 
+Like commercially-managed fund managers, SEEDS Capital maintains a close account-management relationship with the invested company and shall be kept updated on a regular basis. We do have reserve right items as prescribed in our legal documentation, should the investment proceed. We retain an observer status in Board of Directors meetings, are involved in Shareholders’ meeting, and any other regular updates from the company/founder(s). The same level of commitment is expected from the co-investor. SEEDS Capital also takes proactive measures to add value to our investee companies in various advisory and strategic means.
 
-SEEDS typically retains a Board observer seat post-investment, which beyond governance also allows for a deeper understanding of portfolio company’s challenges and growth plans following which relevant support could be provided in tandem with other teams from within Enterprise Singapore. This may include leveraging Enterprise Singapore’s Industry Cluster and Global Markets teams for business facilitation, market expansion, manpower facilitation and capability development projects.
 
+**How long does it take and what modes of exit will SEEDS Capital seek after investing?**
 
-**How does SEEDS think about exiting a company, in terms of the modes of exit, and timeframe?**
-
-SEEDS is looking at a holding period of about seven years for deep tech startups invested, although as a government fund we retain flexibility on when we need to exit companies. Exit options include (but are not limited to) trade sales, mergers &amp; acquisitions, secondary sales of shares, and initial public offerings at fair market value.
+SEEDS Capital is looking at an investment horizon period of about five to seven years. However, this is dependent on the traction of the company and its growth. Exit options include (but are not limited to) trade sale, merger &amp; acquisition, redemption or cash offers for SEEDS Capital’s shares, and initial public offering.
