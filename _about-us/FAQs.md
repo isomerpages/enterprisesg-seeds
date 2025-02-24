@@ -41,7 +41,8 @@ Both SEEDS Capital and third-party co-investor will be investing on the same ter
 
 **Is there a limit to the investment quantum by SEEDS Capital at first or subsequent rounds?**
 
-The maximum investment amount that could be raised from SEEDS is S$2 million (for General tech) or S$12 million (for Deep tech) per company, typically over several investment rounds. Follow-on investments, up to SEEDS’ investment caps would be subject to company’s continued progress and business performance, as well as deal terms in subsequent rounds. 
+The maximum investment amount that could be raised from SEEDS is S$2 million (for General tech) or S$12 million (for Deep tech) per company, typically over several investment rounds.Tranching based on milestones within each investment round can be expected. The basis of the fund-raising amount must be clearly articulated by the investee/co-investor.
+Subject to company’s specific progress and performance, additional investment into the company can be considered for follow-on investment rounds (up to S$2 million or S$8&nbsp;million in total, inclusive of initial investment).
 
 **Who is involved in the final decision to support or reject an investment case?**
 
