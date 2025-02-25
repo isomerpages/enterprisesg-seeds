@@ -35,13 +35,13 @@ However, firms with the following business activities (but not limited to activi
 As SEEDS Capital operates on a co-investment equity financing model, it will take shares in the startup. The amount of shareholding taken by SEEDS Capital is dependent on the valuation of the company.
 
 
-**On what terms would the co-investment be made with the Co-investment Partner into the startup?**
+**On what terms would the co-investment be made with the Co-investor Partner into the startup?**
 
-SEEDS and the Co-investment Partner must invest on pari passu terms – on the principle of equal risk and reward.  
+SEEDS and the Co-investment Partner must invest on pari passu terms - on the principle of equal risk and reward.
 
 **Is there a limit to the investment quantum by SEEDS Capital at first or subsequent rounds?**
 
-The maximum investment amount that could be raised from SEEDS is S$2 million (for General tech) or S$12 million (for Deep tech) per company, typically over several investment rounds. Follow-on investments, up to SEEDS’ investment caps would be subject to company’s continued progress and business performance, as well as deal terms in subsequent rounds. 
+The maximum investment amount that could be raised from SEEDS is S$2 million (for General tech) or S$12 million (for Deep tech) per company, typically over several investment rounds. Follow-on investments, up to SEEDS' investment caps would be subject to company's continued progress and business performance, as well as deal terms in subsequent rounds. 
 
 **Who is involved in the final decision to support or reject an investment case?**
 
@@ -59,17 +59,16 @@ The startup does not need to submit official/confidential documents and applicat
 
 <h4><b>Third-Party Co-Investor (excludes SEEDS Capital’s appointed partners)</b></h4>
 
-&nbsp;**How do I become one of SEEDS’ co-investment partners?**
+**How do I become one of SEEDS’ co-investment partners?**
 
-SEEDS is currently seeking strategic partners, who have the ability to lead funding rounds, and possess strong record, expertise and capabilities in the following areas: 
+SEEDS appoints its partners through open calls for co-investment partner applications. We do not have an open call now.
 
-a.	**Track record of investing in Deep Tech:** Experienced in identifying and backing founders commercialising Emerging / Disruptive Technologies with transformative potential.  
-b.	**Technical and Domain Expertise:** Specialised knowledge and capabilities related to Advanced Manufacturing, Pharmbio/Medtech, Agrifood Tech, Sustainability (such as Energy, Circular Economy, Urban Mobility, Water), Spacetech and, Quantumtech, to help startups navigate technical challenges and drive innovation.  
-c.	**International Networks:** Global networks to facilitate market entry and expansion.  
-d.	**Early Growth Investment Capabilities:** Ability to lead Series B/ C rounds to support scaling of Deep Tech startups’ commercialisation efforts.
+Investors will be assessed based on their alignment to the Startup SG Equity co-investment scheme objectives and their ability to value-add to startups. This would include:
 
-SEEDS will be accepting applications till **11 September 2024**. For more details, please refer to [information pack](/files/SEEDS_Capital___Partnership_Info_Pack.pdf) and [press release](/files/SEEDS_Capital___Press_release_to_seek_for_new_partners.pdf).
-
+*   Ability to contribute to the startup’s growth strategies
+*   Management experience, relevant business contacts and/or technical expertise that can value-add to the startup.
+*   Access to good deal flow and availability of investment funds for immediate deployment.
+*   Investment decision making, governance and fund management process
 
 **Is it necessary for my startup to bring forth a third-party co-investor when considering raising investment from SEEDS Capital?**
 
@@ -94,10 +93,8 @@ The final stage of assessment varies and will be conducted by:
 
 **What role will SEEDS Capital assume after its investment?**
 
+SEEDS typically retains a Board observer seat post-investment, which beyond governance also allows for a deeper understanding of portfolio company's challenges and growth plans following which relevant support could be provided in tandem with other teams from within Enterprise Singapore. This may include leveraging Enterprise Singapore's Industry Cluster and Global Markets teams for business facilitation, market expansion, manpower facilitation and capability development projects.
 
-SEEDS typically retains a Board observer seat post-investment, which beyond governance also allows for a deeper understanding of portfolio company’s challenges and growth plans following which relevant support could be provided in tandem with other teams from within Enterprise Singapore. This may include leveraging Enterprise Singapore’s Industry Cluster and Global Markets teams for business facilitation, market expansion, manpower facilitation and capability development projects.
+**How long does it take and what modes of exit will SEEDS Capital seek after investing?**
 
-
-**How does SEEDS think about exiting a company, in terms of the modes of exit, and timeframe?**
-
-SEEDS is looking at a holding period of about seven years for deep tech startups invested, although as a government fund we retain flexibility on when we need to exit companies. Exit options include (but are not limited to) trade sales, mergers &amp; acquisitions, secondary sales of shares, and initial public offerings at fair market value.
+SEEDS is looking at a holding period of about seven years for deep tech startups invested, although as a government fund we retain flexibility on when we need to exit companies. Exit options include (but are not limited to) trade sales, merger &amp; acquisitions, secondary sales of shares and initial public offerings at fair market value.
