@@ -23,7 +23,7 @@ If your startup is ready to fundraise from us and our co-investment partners, he
 ##### **2. Identify an institutional investor** 
 SEEDS Capital works with 50 co-investment partners i.e., VC firms, that were selected based on their experience and track record in our focus sectors. Approach our partners [here](/for-startups/co-investment-partners/all-partners/).
 
-If you have already identified an investor that is not listed as our appointed co-investment partners, contact us at [seeds@enterprisesg.gov.sg](mailto:seeds@enterprisesg.gov.sg) with the following documents:
+If you have already identified an investor that is not listed as our appointed co-investment partners, contact us at [infohq@sggc.sg](mailto:infohq@sggc.sg) with the following documents:
 
 **Background information of the co-investor**
 * Ability to contribute to the startup’s growth strategies
