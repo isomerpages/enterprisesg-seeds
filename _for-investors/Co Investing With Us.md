@@ -4,7 +4,7 @@ permalink: /for-investors/co-invest-with-us/
 description: ""
 variant: markdown
 ---
-SEEDS Capital’s mandate is to stimulate private sector investments into Singapore-based deep tech startups. 
+SEEDS' mandate is to stimulate private sector investments into Singapore-based deep tech startups. 
 
 We value partners who can:
 * Identify and co-invest in Singapore-based, deep tech and early-stage startups in the Advanced Manufacturing & Engineering, Agrifood Tech, Health & Biomedical Sciences and Urban Solutions sectors and
