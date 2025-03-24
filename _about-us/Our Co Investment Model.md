@@ -15,7 +15,7 @@ Our co-investment scheme is designed to address these risks by providing support
 
 ##### **Fund Manager of Startup SG Equity**
 
-SEEDS Capital is one of the appointed fund managers for the [Startup SG Equity (SSGE) scheme](https://www.startupsg.gov.sg/programmes/4895/startup-sg-equity).
+SEEDS is one of the appointed fund managers for the [Startup SG Equity (SSGE) scheme](https://www.startupsg.gov.sg/programmes/4895/startup-sg-equity).
 
 Our investment parameters are:
 
