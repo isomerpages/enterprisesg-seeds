@@ -28,7 +28,7 @@ Find out more about our appointed partners [here](https://www.seedscapital.sg/f
 
 ##### **2. Approach us for ad-hoc co-investments**
 
-If you are a non-appointed partner and keen to co-invest with us, contact us at [seeds@enterprisesg.gov.sg](mailto:seeds@enterprisesg.gov.sg) with the following documents. Our [Investment Panel](/about-us/investment-panel/) will assess these investment opportunities:
+If you are a non-appointed partner and keen to co-invest with us, contact us at [infohq@sggc.sg](mailto:infohq@sggc.sg) with the following documents. Our [Investment Panel](/about-us/investment-panel/) will assess these investment opportunities:
 
 **Information of the co-investor**
 * Ability to contribute to the startup’s growth strategies
