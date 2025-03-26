@@ -182,3 +182,11 @@ variant: markdown
         </div>
     </div>
 	 </div>
+	 <div class="sgds-card col" style="flex: 1 1 47%; margin: 10px; max-width: 300px">
+	<div style="display: flex;margin-top: 10px;">
+                <div><img src="/images/linkedin.png" style="width: 100px;margin-left: 0; display: inline; margin-right: 10px;"></div>
+                <a href="https://www.linkedin.com/in/dannychiam/" target="_blank"><big>Meet the full team</big></a>
+            </div>
+        </div>
+    
+	 
