@@ -181,12 +181,10 @@ variant: markdown
             </div>
         </div>
     </div>
-	 </div>
-	 <div class="sgds-card col" style="flex: 1 1 47%; margin: 10px; max-width: 300px">
-	<div style="display: flex;margin-top: 10px;">
-                <div><img src="/images/linkedin.png" style="width: 100px;margin-left: 0; display: inline; margin-right: 10px;"></div>
-                <a href="https://www.linkedin.com/in/dannychiam/" target="_blank"><big>Meet the full team</big></a>
-            </div>
-        </div>
-    
-	 
+		 <div class="sgds-card col" style="flex: 1 1 47%; margin: 10px; max-width: 350px">
+    <a style="display: flex; align-items: center; padding: 15px 30px; background-color: #82BC00; color: #fff; text-decoration: none; border-radius: 8px; font-weight: bold; font-size: 18px; transition: background-color 0.3s ease; justify-content: center; gap: 15px; box-shadow: 0 3px 8px rgba(0,0,0,0.2);" href="https://edbi.com/" target="_blank">
+        <img alt="LinkedIn Logo" style="width: 30px; height: 30px;" src="/images/linkedin.png">
+        <span>Meet the Full Team</span>
+    </a>
+</div>
+</div>
