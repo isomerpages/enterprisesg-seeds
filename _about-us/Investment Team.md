@@ -141,7 +141,7 @@ variant: markdown
         <div class="sgds-card-image" style="width: 100%; position: relative;">
             <a style="display: block; width: 100%; height: 100%; position: absolute; top: 0; left: 0; z-index: 2;" href="https://www.linkedin.com/in/dannychiam/" target="_blank"></a>
             <figure class="sgds-image" style="margin: 0; height: 350px; width: 100%;">
-                <img src="/images/Profile Photos/Danny_CHIAM.png" style="width: 100%; height: 100%; object-fit: cover; border-radius: 5px;">
+                <img src="/images/Profile Photos/danny_chiam.png" style="width: 100%; height: 100%; object-fit: cover; border-radius: 5px;">
             </figure>
         </div>
         <div style="display: flex; flex-direction: column; align-items: flex-start; gap: 5px; padding: 5px 0;" class="sgds-card-content">
