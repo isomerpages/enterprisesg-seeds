@@ -191,3 +191,67 @@ variant: markdown
     </a>
 </div>
 </div>
+
+<div style="display: flex; flex-wrap: wrap; padding: 10px">
+<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; margin: 10px;">
+    <div class="sgds-card col" style="max-width: 300px;">
+        <a href="https://www.linkedin.com/in/kaixintan/" target="_blank">
+            <div class="sgds-card-image" style="width: 100%;">
+                <figure class="sgds-image" style="margin: 0; height: 350px; width: 100%;">
+                    <img src="/images/Profile Photos/Tan_Kaixin.png" style="width: 100%; height: 100%; object-fit: contain; border-radius: 5px;">
+                </figure>
+            </div>
+        </a>
+        <div style="display: flex; flex-direction: column; align-items: flex-start; gap: 10px; padding: 10px; padding-left: 0;" class="sgds-card-content">
+            <div>
+                <p style="margin: 0; text-align: left;"><strong>Kaixin Tan</strong></p>
+                <small style="text-align: left;">General Manager</small>
+            </div>
+        </div>
+    </div>
+    <div class="sgds-card col" style="max-width: 300px;">
+        <a href="https://www.linkedin.com/in/derekneo/" target="_blank">
+            <div class="sgds-card-image" style="width: 100%;">
+                <figure class="sgds-image" style="margin: 0; height: 350px; width: 100%;">
+                    <img src="/images/Profile Photos/Derek_NEO.png" style="width: 100%; height: 100%; object-fit: contain; border-radius: 5px;">
+                </figure>
+            </div>
+        </a>
+        <div style="display: flex; flex-direction: column; align-items: flex-start; gap: 10px; padding: 10px; padding-left: 0;" class="sgds-card-content">
+            <div>
+                <p style="margin: 0; text-align: left;"><strong>Derek Neo</strong></p>
+                <small style="text-align: left;">Deputy General Manager</small>
+            </div>
+        </div>
+    </div>
+    <div class="sgds-card col" style="max-width: 300px;">
+        <a href="https://www.linkedin.com/in/jacquelinechia/" target="_blank">
+            <div class="sgds-card-image" style="width: 100%;">
+                <figure class="sgds-image" style="margin: 0; height: 350px; width: 100%;">
+                    <img src="/images/Profile Photos/Jacqueline_CHIA.png" style="width: 100%; height: 100%; object-fit: contain; border-radius: 5px;">
+                </figure>
+            </div>
+        </a>
+        <div style="display: flex; flex-direction: column; align-items: flex-start; gap: 10px; padding: 10px; padding-left: 0;" class="sgds-card-content">
+            <div>
+                <p style="margin: 0; text-align: left;"><strong>Jacqueline Chia</strong></p>
+                <small style="text-align: left;">Deputy General Manager</small>
+            </div>
+        </div>
+    </div>
+    <div class="sgds-card col" style="max-width: 300px;">
+        <a href="https://www.linkedin.com/in/angsim/" target="_blank">
+            <div class="sgds-card-image" style="width: 100%;">
+                <figure class="sgds-image" style="margin: 0; height: 350px; width: 100%;">
+                    <img src="/images/Profile Photos/Ang_Si_Min.png" style="width: 100%; height: 100%; object-fit: contain; border-radius: 5px;">
+                </figure>
+            </div>
+        </a>
+        <div style="display: flex; flex-direction: column; align-items: flex-start; gap: 10px; padding: 10px; padding-left: 0;" class="sgds-card-content">
+            <div>
+                <p style="margin: 0; text-align: left;"><strong>Ang Si Min</strong></p>
+                <small style="text-align: left;">Senior Investment Manager</small>
+            </div>
+        </div>
+    </div>
+</div></div>
