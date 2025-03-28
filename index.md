@@ -25,7 +25,7 @@ sections:
       id: infobar
       url: https://sggc.sg/
       button: SG Growth Capital
-      description: An Investment arm of
+      description: An Investment arm of SG Growth Capital
   - infobar:
       description: <div><p class="padding--bottom eyebrow is-uppercase">Our Impact
         Since 2017</p><div class="row is-centered bp-container
