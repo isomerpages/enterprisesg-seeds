@@ -20,6 +20,23 @@ variant: markdown
         </div>
     </div>
 </div>
+	
+<div class="sgds-card col" style="flex: 1 1 47%; margin: 10px; max-width: 300px;">
+    <a style="display: block;" href="https://www.linkedin.com/in/kaixintan/" target="_blank">
+        <div class="sgds-card-image" style="width: 100%;">
+            <figure class="sgds-image" style="margin: 0; height: 350px; width: 100%;">
+                <img src="/images/Profile Photos/Kaixin_TAN.png" style="width: 100%; height: 100%; object-fit: cover; border-radius: 5px;">
+            </figure>
+        </div>
+    </a>
+    <div style="display: flex; flex-direction: column; align-items: flex-start; gap: 5px; padding: 5px 10px 10px 10px; padding-left: 0;" class="sgds-card-content">
+        <div>
+            <p style="margin: 0; text-align: left;"><strong>Kaixin Tan (Test)</strong></p>
+            <small style="text-align: left;">General Manager</small>
+        </div>
+    </div>
+</div>	
+	
 <div class="sgds-card col" style="flex: 1 1 47%; margin: 10px; max-width: 300px;">
     <a href="https://www.linkedin.com/in/derekneo/" target="_blank">
         <div class="sgds-card-image" style="width: 100%;">
