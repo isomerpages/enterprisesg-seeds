@@ -22,10 +22,10 @@ sections:
       button: Follow Us
       url: https://www.linkedin.com/company/seedscapitalsg/
   - infobar:
-      title: AN INVESTMENT ARM OF SG GROWTH CAPITAL
       id: infobar
       url: https://sggc.sg/
       button: SG Growth Capital
+      description: An Investment arm of
   - infobar:
       description: <div><p class="padding--bottom eyebrow is-uppercase">Our Impact
         Since 2017</p><div class="row is-centered bp-container
@@ -95,12 +95,6 @@ sections:
         aria-hidden="true"></i></div></a></div><div class="col force-half
         padding"><img src="/images/successstories.png" alt="Image alt
         text"></div></div>
-  - infobar:
-      title: Get our latest news
-      description: Stay updated on our latest investment activities and Singapore's
-        deep tech ecosystem.
-      button: Subscribe to our newsletter
-      url: https://enterprisesg.us14.list-manage.com/subscribe?u=b5fb15f5d3fd9e98d46329c56&id=d848098406
   - resources:
       title: Our media mentions
       button: View More
