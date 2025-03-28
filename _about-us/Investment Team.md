@@ -192,7 +192,8 @@ variant: markdown
 </div>
 </div>
 
-<div style="display: flex; flex-wrap: wrap; padding: 10px">
+
+
 <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; margin: 10px;">
     <div class="sgds-card col" style="max-width: 300px;">
         <a href="https://www.linkedin.com/in/kaixintan/" target="_blank">
@@ -254,4 +255,4 @@ variant: markdown
             </div>
         </div>
     </div>
-</div></div>
+</div>
