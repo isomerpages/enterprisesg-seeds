@@ -22,6 +22,11 @@ sections:
       button: Follow Us
       url: https://www.linkedin.com/company/seedscapitalsg/
   - infobar:
+      title: AN INVESTMENT ARM OF SG GROWTH CAPITAL
+      id: infobar
+      button: Button Text
+      url: https://sggc.sg/
+  - infobar:
       description: <div><p class="padding--bottom eyebrow is-uppercase">Our Impact
         Since 2017</p><div class="row is-centered bp-container
         justify-content-between padding--bottom--xl"><div class="padding"><h1
