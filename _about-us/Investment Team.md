@@ -27,10 +27,10 @@ variant: markdown
             <img src="/images/Profile Photos/Kaixin_TAN.png" style="width: 100%; height: 100%; object-fit: cover; border-radius: 5px;">
         </figure>
     </div>
-    <div style="display: flex; flex-direction: column; align-items: flex-start; gap: 5px; padding: 5px 10px;" class="sgds-card-content">
-        <div style="width: 100%; margin-left: 0;">
-            <p style="margin: 0; text-align: left;"><strong>Kaixin Tan</strong></p>
-            <small style="text-align: left;">General Manager</small>
+    <div style="display: flex; flex-direction: column; align-items: flex-start; gap: 5px; padding: 5px;" class="sgds-card-content">
+        <div style="width: 100%;">
+            <p style="margin: 0; text-align: left; padding-left: 5px;"><strong>Kaixin Tan</strong></p>
+            <small style="text-align: left; padding-left: 5px;">General Manager</small>
         </div>
     </div>
 </div>
