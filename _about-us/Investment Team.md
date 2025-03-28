@@ -21,13 +21,13 @@ variant: markdown
     </div>
 </div>
 	<div class="sgds-card col" style="flex: 1 1 47%; margin: 10px; max-width: 300px;">
-    <a href="https://www.linkedin.com/in/kaixintan/" target="_blank">
-        <div class="sgds-card-image" style="width: 100%;">
+    <div class="sgds-card-image" style="width: 100%;">
+        <a style="display: block;" href="https://www.linkedin.com/in/kaixintan/" target="_blank">
             <figure class="sgds-image" style="margin: 0; height: 350px; width: 100%;">
                 <img src="/images/Profile Photos/Kaixin_TAN.png" style="width: 100%; height: 100%; object-fit: cover; border-radius: 5px;">
             </figure>
-        </div>
-    </a>
+        </a>
+    </div>
     <div style="display: flex; flex-direction: column; align-items: flex-start; gap: 5px; padding: 5px 10px;" class="sgds-card-content">
         <div style="width: 100%; margin-left: 0;">
             <p style="margin: 0; text-align: left;"><strong>Kaixin Tan</strong></p>
