@@ -9,7 +9,7 @@ variant: markdown
     <a href="https://www.linkedin.com/in/kaixintan/" target="_blank">
         <div class="sgds-card-image" style="width: 100%;">
             <figure class="sgds-image" style="margin: 0; height: 350px; width: 100%;">
-                <img src="/images/Profile Photos/Kaixin_Tan.png" style="width: 100%; height: 100%; object-fit: cover; border-radius: 5px;">
+                <img src="/images/Profile Photos/Kaixin_TAN.png" style="width: 100%; height: 100%; object-fit: cover; border-radius: 5px;">
             </figure>
         </div>
     </a>
@@ -198,7 +198,7 @@ variant: markdown
         <a href="https://www.linkedin.com/in/kaixintan/" target="_blank">
             <div class="sgds-card-image" style="width: 100%;">
                 <figure class="sgds-image" style="margin: 0; height: 350px; width: 100%;">
-                    <img src="/images/Profile Photos/Tan_Kaixin.png" style="width: 100%; height: 100%; object-fit: contain; border-radius: 5px;">
+                    <img src="/images/Profile Photos/Kaixin_TAN.png" style="width: 100%; height: 100%; object-fit: contain; border-radius: 5px;">
                 </figure>
             </div>
         </a>
@@ -243,7 +243,7 @@ variant: markdown
         <a href="https://www.linkedin.com/in/angsim/" target="_blank">
             <div class="sgds-card-image" style="width: 100%;">
                 <figure class="sgds-image" style="margin: 0; height: 350px; width: 100%;">
-                    <img src="/images/Profile Photos/Ang_Si_Min.png" style="width: 100%; height: 100%; object-fit: contain; border-radius: 5px;">
+                    <img src="/images/Profile Photos/ANG_Si_Min.png" style="width: 100%; height: 100%; object-fit: contain; border-radius: 5px;">
                 </figure>
             </div>
         </a>
