@@ -24,7 +24,6 @@ sections:
   - infobar:
       title: AN INVESTMENT ARM OF SG GROWTH CAPITAL
       id: infobar
-      button: Button Text
       url: https://sggc.sg/
   - infobar:
       description: <div><p class="padding--bottom eyebrow is-uppercase">Our Impact
