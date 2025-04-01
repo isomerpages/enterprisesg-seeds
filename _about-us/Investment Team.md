@@ -64,7 +64,7 @@ variant: markdown
     </div>
     <div style="display: flex; flex-direction: column; align-items: flex-start; gap: 5px; padding: 5px 0;" class="sgds-card-content">
         <div style="width: 100%; margin-left: 0;">
-            <p style="margin: 0; text-align: left;"><strong>LOH Wei Zhou</strong></p>
+            <p style="margin: 0; text-align: left;"><strong>Wei Zhou LOH</strong></p>
             <small style="text-align: left;">Senior Investment Manager</small>
         </div>
         <div style="display: flex; margin-top: 10px;">
@@ -81,7 +81,7 @@ variant: markdown
     </div>
     <div style="display: flex; flex-direction: column; align-items: flex-start; gap: 5px; padding: 5px 0;" class="sgds-card-content">
         <div style="width: 100%; margin-left: 0;">
-            <p style="margin: 0; text-align: left;"><strong>ANG Si Min</strong></p>
+            <p style="margin: 0; text-align: left;"><strong>Si Min ANG</strong></p>
             <small style="text-align: left;">Senior Investment Manager</small>
         </div>
         <div style="display: flex; margin-top: 10px;">
@@ -98,7 +98,7 @@ variant: markdown
     </div>
     <div style="display: flex; flex-direction: column; align-items: flex-start; gap: 5px; padding: 5px 0;" class="sgds-card-content">
         <div style="width: 100%; margin-left: 0;">
-            <p style="margin: 0; text-align: left;"><strong>HUANG Xiaowen</strong></p>
+            <p style="margin: 0; text-align: left;"><strong>Xiaowen HUANG</strong></p>
             <small style="text-align: left;">Senior Investment Manager</small>
         </div>
         <div style="display: flex; margin-top: 10px;">
@@ -132,7 +132,7 @@ variant: markdown
     </div>
     <div style="display: flex; flex-direction: column; align-items: flex-start; gap: 5px; padding: 5px 0;" class="sgds-card-content">
         <div style="width: 100%; margin-left: 0;">
-            <p style="margin: 0; text-align: left;"><strong>FOO Hui Shi</strong></p>
+            <p style="margin: 0; text-align: left;"><strong>Hui Shi FOO</strong></p>
             <small style="text-align: left;">Senior Investment Manager</small>
         </div>
         <div style="display: flex; margin-top: 10px;">
@@ -167,7 +167,7 @@ variant: markdown
     </div>
     <div style="display: flex; flex-direction: column; align-items: flex-start; gap: 5px; padding: 5px 0;" class="sgds-card-content">
         <div style="width: 100%; margin-left: 0;">
-            <p style="margin: 0; text-align: left;"><strong>LIM Miao Wen</strong></p>
+            <p style="margin: 0; text-align: left;"><strong>Miao Wen LIM</strong></p>
             <small style="text-align: left;">Investment Manager</small>
         </div>
         <div style="display: flex; margin-top: 10px;">
@@ -201,7 +201,7 @@ variant: markdown
     </div>
     <div style="display: flex; flex-direction: column; align-items: flex-start; gap: 5px; padding: 5px 0;" class="sgds-card-content">
         <div style="width: 100%; margin-left: 0;">
-            <p style="margin: 0; text-align: left;"><strong>LIM Miao Wen</strong></p>
+            <p style="margin: 0; text-align: left;"><strong>Jia Hui LIM</strong></p>
             <small style="text-align: left;">Investment Manager</small>
         </div>
         <div style="display: flex; margin-top: 10px;">
