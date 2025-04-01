@@ -5,9 +5,9 @@ permalink: /contact-us/
 agency_name: SEEDS Capital
 locations:
   - address:
-      - 230 Victoria Street, Level 9
-      - Bugis Junction Office Tower
-      - Singapore 188024
+      - "250 North Bridge Road, #28-00"
+      - Raffles City Tower
+      - Singapore 179101
     operating_hours:
       - days: Mon - Fri
         time: 8.30am - 6.00pm
@@ -22,7 +22,8 @@ contacts:
     title: Media Opportunities
   - content:
       - phone: ""
-      - email: seeds@enterprisesg.gov.sg
+      - email: infohq@sggc.sg
       - other: ""
     title: All other matters
+feedback: ""
 ---

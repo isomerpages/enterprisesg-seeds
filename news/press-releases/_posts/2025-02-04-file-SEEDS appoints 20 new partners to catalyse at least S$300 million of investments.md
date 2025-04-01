@@ -1,6 +1,6 @@
 ---
-title: SEEDS Capital appoints 20 new partners to catalyse at least S$300 million
-  of investments
+title: SEEDS appoints 20 new partners to catalyse at least S$300 million of
+  investments
 date: 2025-02-04
 layout: file
 description: ""

@@ -1,6 +1,6 @@
 ---
-title: SEEDS Capital seeks new strategic partners to co invest and catalyse at
-  least S$150 million into
+title: SEEDS seeks new strategic partners to co invest and catalyse at least
+  S$150 million into
 date: 2024-08-28
 layout: file
 description: ""
