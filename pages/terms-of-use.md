@@ -25,4 +25,3 @@ Disclaimer
 4.  Nothing in this website constitutes or is intended to constitute an offer of, or an invitation to purchase or subscribe for, securities. SGGC holds the copyright to this website. SGGC grants you a limited licence to download the information on this website for personal use only. You are not permitted to reproduce or alter this website, or any copy of it, for any other purpose without the prior express written consent of SGGC.  
       
 5.  SGGC reserves the right to make changes, modifications, additions, deletions and corrections to this website, at any time and without notice.
-    
