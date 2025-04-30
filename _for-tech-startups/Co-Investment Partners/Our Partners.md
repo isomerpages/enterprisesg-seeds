@@ -33,4 +33,3 @@ Their entrepreneurial roots go back to 1849.</small><div style="display: flex; m
 </div>
 <div style="box-shadow: 0 2px 3px rgba(	(255,255,255)), 0 0 0 1px rgba(1,1,1,.1); padding: 1.75em; flex: 1 1 47%; margin: 10px; max-width: 400px">
 </div>
-	
