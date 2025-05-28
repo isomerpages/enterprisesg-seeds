@@ -110,7 +110,7 @@ variant: markdown
 <div class="sgds-card col" style="flex: 1 1 47%; margin: 10px; max-width: 300px;">
     <div class="sgds-card-image" style="width: 100%; position: relative;">
         <figure class="sgds-image" style="margin: 0; width: 100%; height: 100%;">
-            <img src="/images/Profile Photos/HUANG_Xiao_Wen.png" style="width: 100%; height: 100%; object-fit: cover; border-radius: 5px;">
+            <img src="/images/Profile Photos/Xiaowen_HUANG.png" style="width: 100%; height: 100%; object-fit: cover; border-radius: 5px;">
         </figure>
     </div>
     <div style="display: flex; flex-direction: column; align-items: flex-start; gap: 5px; padding: 5px 0;" class="sgds-card-content">
@@ -178,7 +178,7 @@ variant: markdown
 	<div class="sgds-card col" style="flex: 1 1 47%; margin: 10px; max-width: 300px;">
     <div class="sgds-card-image" style="width: 100%; position: relative;">
         <figure class="sgds-image" style="margin: 0; width: 100%; height: 100%;">
-            <img src="/images/Profile Photos/danny_chiam.png" style="width: 100%; height: 100%; object-fit: cover; border-radius: 5px;">
+            <img src="/images/Profile Photos/Danny_CHIAM.png" style="width: 100%; height: 100%; object-fit: cover; border-radius: 5px;">
         </figure>
     </div>
     <div style="display: flex; flex-direction: column; align-items: flex-start; gap: 5px; padding: 5px 0;" class="sgds-card-content">
