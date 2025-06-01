@@ -1,5 +1,6 @@
 ---
-title: SG warehouse automation startup XQUARE raises Series A funcing led by Wavemaker
+title: SG warehouse automation startup XSQUARE raises Series A funcing led by
+  Wavemaker
 date: 2024-05-23
 layout: link
 description: ""
