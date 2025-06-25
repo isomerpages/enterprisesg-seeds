@@ -17,7 +17,7 @@ locations:
 contacts:
   - content:
       - phone: ""
-      - email: seeds@teamlewis.com
+      - email: sggc@teamlewis.com
       - other: ""
     title: Media Opportunities
   - content:
