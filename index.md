@@ -4,7 +4,10 @@ title: SEEDS Capital
 description: Catalysing smart monies into Singapore-based, early-stage technology startups.
 image: /images/seedslogo2.png
 permalink: /
-notification: ""
+notification: "Notice: Unauthorised use of the SEEDS Capital name and branding.
+  Learn more  SEEDS Capital officers will never offer financial incentives for
+  participation in our programmes. Report any incident to infoHQ@sggc.sg if you
+  are unsure if something is a scam."
 sections:
   - hero:
       title: Invested In The Future
