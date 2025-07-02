@@ -5,9 +5,9 @@ description: Catalysing smart monies into Singapore-based, early-stage technolog
 image: /images/seedslogo2.png
 permalink: /
 notification: '<p style="font-size: 16px;"> Notice: Unauthorised use of the
-  SEEDS name and branding.      <a rel="noopener noreferrer" target="_blank"
+  SEEDS name and branding. <a rel="noopener noreferrer" target="_blank"
   href="https://seedscapital.com">Learn more.</a><br> SEEDS officers will never
-  offer financial incentives for participation in our programmes.<br> Report any
+  offer financial incentives for participation in our programmes. Report any
   incident to <a href="mailto:infoHQ@sggc.sg">infoHQ@sggc.sg</a> if you are
   unsure if something is a scam. </p>'
 sections:
