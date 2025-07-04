@@ -16,7 +16,7 @@ promote events and community membership recruitment with financial incentive
 schemes.</p>
 <p></p>
 <p>These activities are in no way affiliated with SEEDS, Enterprise Singapore
-(EnterpriseSG), Singapore Economic Development Board (EDB) or SG Growth
+(EnterpriseSG), the Singapore Economic Development Board (EDB) or SG Growth
 Capital. SEEDS does not operate in China and SEEDS officers will never
 offer financial incentives for participation in our programmes.</p>
 <p></p>
