@@ -6,10 +6,11 @@ image: /images/seedslogo2.png
 permalink: /
 notification: '<p style="font-size: 16px;"> Notice: Unauthorised use of the
   SEEDS name and branding. <a rel="noopener noreferrer" target="_blank"
-  href="https://seedscapital.com">Learn more.</a><br> SEEDS officers will never
-  offer financial incentives for participation in our programmes. Report any
-  incident to <a href="mailto:infoHQ@sggc.sg">infoHQ@sggc.sg</a> if you are
-  unsure if something is a scam. </p>'
+  href="https://www.seedscapital.sg/notice-unauthorised-use-of-the-seeds-capital-name-and-branding/">Learn
+  more.</a><br> SEEDS officers will never offer financial incentives for
+  participation in our programmes. Report any incident to <a
+  href="mailto:infoHQ@sggc.sg">infoHQ@sggc.sg</a> if you are unsure if something
+  is a scam. </p>'
 sections:
   - hero:
       title: Invested In The Future
