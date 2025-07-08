@@ -19,7 +19,7 @@ Capital. SEEDS does not operate in Greater China and SEEDS officers will
 never offer financial incentives for participation in our programmes.</p>
 <p>If you have been contacted or come across suspicious materials bearing
 our name or logo, we encourage you to exercise caution and report the incident
-to us at &lt;a href="mailto:<a href="infohq@sggc.sg" rel="noopener noreferrer nofollow" target="_blank"><u>infohq@sggc.sg</u></a>"&gt;Email Us&lt;/a&gt;.</p>
+to us at &lt;a href="mailto:<a href="infohq@sggc.sg" rel="noopener noreferrer nofollow" target="_blank"><u>infohq@sggc.sg</u></a>"&gt;infohq@sggc.sg&lt;/a&gt;.</p>
 <hr>
 <p>近期，我司发现中国大陆地区存在个别组织未经授权擅自使用"SEEDS"品牌名称、标识及相关资料进行商业活动的行为。</p>
 <p>经查，该组织主要通过即时通讯软件及网络平台，以"资金奖励计划"等名义开展推广活动并发展会员。</p>
