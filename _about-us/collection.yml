@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Careers.md
       - Overview.md
       - Our Co Investment Model.md
       - Investment Panel.md
