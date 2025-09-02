@@ -76,23 +76,6 @@ variant: markdown
 	<div class="sgds-card col" style="flex: 1 1 47%; margin: 10px; max-width: 300px;">
     <div class="sgds-card-image" style="width: 100%; position: relative;">
         <figure class="sgds-image" style="margin: 0; width: 100%; height: 100%;">
-            <img src="/images/Profile Photos/ANG_Si_Min.png" style="width: 100%; height: 100%; object-fit: cover; border-radius: 5px;">
-        </figure>
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: flex-start; gap: 5px; padding: 5px 0;" class="sgds-card-content">
-        <div style="width: 100%; margin-left: 0;">
-            <p style="margin: 0; text-align: left;"><strong>Si Min ANG</strong></p>
-            <small style="text-align: left;">Senior Investment Manager</small>
-        </div>
-        <div style="display: flex; margin-top: 10px;">
-            <div><img src="/images/linkedin.png" style="width: 20px; margin-left: 0; display: inline; margin-right: 10px;"></div>
-            <a href="https://www.linkedin.com/in/si-min-ang-14122453/" target="_blank"><small>LinkedIn</small></a>
-        </div>
-    </div>
-</div>
-	<div class="sgds-card col" style="flex: 1 1 47%; margin: 10px; max-width: 300px;">
-    <div class="sgds-card-image" style="width: 100%; position: relative;">
-        <figure class="sgds-image" style="margin: 0; width: 100%; height: 100%;">
             <img src="/images/Profile Photos/LOH_Wei_Zhou.png" style="width: 100%; height: 100%; object-fit: cover; border-radius: 5px;">
         </figure>
     </div>
