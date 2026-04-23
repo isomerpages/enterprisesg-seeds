@@ -22,24 +22,7 @@ variant: markdown
         </div>
     </div>
 </div>
-<div class="sgds-card col" style="flex: 1 1 47%; margin: 10px; max-width: 300px;">
-    <div class="sgds-card-image" style="width: 100%; position: relative;">
-        <figure class="sgds-image" style="margin: 0; width: 100%; height: 100%;">
-            <img src="/images/Profile Photos/Clement_CHUA.png" style="width: 100%; height: 100%; object-fit: cover; border-radius: 5px;">
-        </figure>
-    </div>
-    <div style="display: flex; flex-direction: column; align-items: flex-start; gap: 5px; padding: 5px 0;" class="sgds-card-content">
-        <div style="width: 100%; margin-left: 0;">
-            <p style="margin: 0; text-align: left;"><strong>Clement CHUA</strong></p>
-            <small style="text-align: left;">Senior Investment Manager</small>
-        </div>
-        <div style="display: flex; margin-top: 10px;">
-            <div><img src="/images/linkedin.png" style="width: 20px; margin-left: 0; display: inline; margin-right: 10px;"></div>
-            <a href="https://www.linkedin.com/in/clement-chua-/" target="_blank"><small>LinkedIn</small></a>
-        </div>
-    </div>
-</div>
-<div class="sgds-card col" style="flex: 1 1 47%; margin: 10px; max-width: 300px;">
+	<div class="sgds-card col" style="flex: 1 1 47%; margin: 10px; max-width: 300px;">
     <div class="sgds-card-image" style="width: 100%; position: relative;">
         <figure class="sgds-image" style="margin: 0; width: 100%; height: 100%;">
             <img src="/images/Profile Photos/FOO_Hui_Shi.png" style="width: 100%; height: 100%; object-fit: cover; border-radius: 5px;">
@@ -53,6 +36,23 @@ variant: markdown
         <div style="display: flex; margin-top: 10px;">
             <div><img src="/images/linkedin.png" style="width: 20px; margin-left: 0; display: inline; margin-right: 10px;"></div>
             <a href="https://www.linkedin.com/in/foohuishi/" target="_blank"><small>LinkedIn</small></a>
+        </div>
+    </div>
+</div>
+<div class="sgds-card col" style="flex: 1 1 47%; margin: 10px; max-width: 300px;">
+    <div class="sgds-card-image" style="width: 100%; position: relative;">
+        <figure class="sgds-image" style="margin: 0; width: 100%; height: 100%;">
+            <img src="/images/Profile Photos/Clement_CHUA.png" style="width: 100%; height: 100%; object-fit: cover; border-radius: 5px;">
+        </figure>
+    </div>
+    <div style="display: flex; flex-direction: column; align-items: flex-start; gap: 5px; padding: 5px 0;" class="sgds-card-content">
+        <div style="width: 100%; margin-left: 0;">
+            <p style="margin: 0; text-align: left;"><strong>Clement CHUA</strong></p>
+            <small style="text-align: left;">Investment Manager</small>
+        </div>
+        <div style="display: flex; margin-top: 10px;">
+            <div><img src="/images/linkedin.png" style="width: 20px; margin-left: 0; display: inline; margin-right: 10px;"></div>
+            <a href="https://www.linkedin.com/in/clement-chua-/" target="_blank"><small>LinkedIn</small></a>
         </div>
     </div>
 </div>
